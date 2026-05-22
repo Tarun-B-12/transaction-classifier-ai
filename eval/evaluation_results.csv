@@ -1,0 +1,11 @@
+category,n,rule_accuracy,llm_accuracy
+OVERALL,150,58.7,95.3
+Coffee,6,33.3,100.0
+Entertainment,22,68.2,100.0
+Gas,17,52.9,100.0
+Groceries,25,60.0,100.0
+Health,17,52.9,94.1
+Restaurants,14,50.0,100.0
+Shopping,12,50.0,100.0
+Transport,21,61.9,71.4
+Utilities,16,75.0,100.0
