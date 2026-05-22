@@ -1,0 +1,31 @@
+transaction_id,description,my_label,generator_label,final_label
+T00143,WALMART  SUPERCENTER #703,Groceries,Shopping,Shopping
+T00760,MTA*NYCT PAYGO CHICAGO IL,Entertainment,Transport,Transport
+T00766,UBER*  EATS HELP.UBER.COM,Utilities,Transport,Transport
+T01418,POS DEBIT BP#478,Utilities,Gas,Gas
+T01894,SQ *BLUE BOTTLE 92 AUSTIN TX,Restaurants,Coffee,Coffee
+T00325,WALMART SUPERCENTER #8428,Groceries,Shopping,Shopping
+T00076,SQ *THE BOOK NOOK PHX AZ,Restaurants,Shopping,Shopping
+T00363,MTA*NYCT PAYGO AUSTIN TX,Groceries,Transport,Transport
+T00580,SQ *BLUE BOTTLE 2521 DALLAS TX,Restaurants,Coffee,Coffee
+T01502,MTA*NYCT PAYGO AUSTIN TX,Shopping,Transport,Transport
+T01542,TARGET 5030 MIAMI FL,Groceries,Shopping,Shopping
+T00945,SQ *THE BOOK NOOK NY NY,Restaurants,Shopping,Shopping
+T01803,STEAMGAMES.COM 77125 WA,Shopping,Entertainment,Entertainment
+T00199,mta*nyct paygo phx az,Shopping,Transport,Transport
+T01778,parking meter #7576 denver co,Utilities,Transport,Transport
+T00067,SQ *BLUE BOTTLE 17786 DALLAS TX  ,Restaurants,Coffee,Coffee
+T01794,pos debit bp#3450,Shopping,Gas,Gas
+T01388,PARKING METER #7735 NY NY,Utilities,Transport,Transport
+T00032,ALDI  592 PHX AZ,Shopping,Groceries,Groceries
+T00893,ALDI  71 BOSTON MA,Shopping,Groceries,Groceries
+T00637,WALGREENS #54206  ,Groceries,Health,Health
+T01528,SQ *THE BOOK NOOK SEATTLE WA  ,Restaurants,Shopping,Shopping
+T00525,UBER* EATS HELP.UBER.COM,Restaurants,Transport,Transport
+T00676,SAFEWAY #38 MIAMI FL,Shopping,Groceries,Groceries
+T00586,UBER* EATS HELP.UBER.COM,Restaurants,Transport,Transport
+T00283,SQ *THE BOOK NOOK OAKLAND CA,Restaurants,Shopping,Shopping
+T01308,SQ *BLUE BOTTLE 832 AUSTIN TX  ,Restaurants,Coffee,Coffee
+T01250,COMCAST CABLE COMM 13278,Entertainment,Utilities,Utilities
+T01413,TARGET 6782 NY NY,Groceries,Shopping,Shopping
+T00552,MTA*NYCT PAYGO SEATTLE WA  ,Shopping,Transport,Transport
