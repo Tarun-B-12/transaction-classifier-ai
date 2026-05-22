@@ -1,0 +1,2001 @@
+transaction_id,description,clean_description,amount,true_category,rule_based_category
+T01525,CIRCLE K # 99914,circle k # 99914,39.69,Gas,Uncategorized
+T00848,DOORDASH*MCDONALDS,doordash*mcdonalds,45.51,Restaurants,Restaurants
+T01587,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,3.29,Transport,Transport
+T00597,RITE AID #5898 DENVER CO,rite aid #5898 denver co,10.05,Health,Uncategorized
+T01071,SQ *BLUE BOTTLE 9722 DALLAS TX,sq *blue bottle 9722 dallas tx,6.64,Coffee,Uncategorized
+T00693,SQ *THE COMEDY CLUB CHICAGO IL,sq *the comedy club chicago il,8.97,Entertainment,Uncategorized
+T00659,DART RAIL DALLAS TX,dart rail dallas tx,56.47,Transport,Uncategorized
+T00525,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,30.14,Transport,Transport
+T00628,DUNKIN #9922 PHX AZ,dunkin #9922 phx az,9.19,Coffee,Coffee
+T01622,steamgames.com 465 wa,steamgames.com 465 wa,59.52,Entertainment,Uncategorized
+T01009,VERIZON WIRELESS 7274  ,verizon wireless 7274,247.41,Utilities,Utilities
+T00042,TST* PHILZ COFFEE NY NY,tst* philz coffee ny ny,9.0,Coffee,Coffee
+T00885,COMCAST CABLE COMM 63,comcast cable comm 63,40.72,Utilities,Utilities
+T00598,SQ *THE BOOK NOOK CHICAGO IL  ,sq *the book nook chicago il,472.63,Shopping,Uncategorized
+T00863,STEAMGAMES.COM 9735 WA,steamgames.com 9735 wa,61.12,Entertainment,Uncategorized
+T00539,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,45.04,Transport,Uncategorized
+T00362,ALDI 55 NY NY,aldi 55 ny ny,189.44,Groceries,Uncategorized
+T00997,STARBUCKS STORE 08384,starbucks store 08384,7.73,Coffee,Coffee
+T00788,CHIPOTLE 214 AUSTIN TX,chipotle 214 austin tx,109.67,Restaurants,Restaurants
+T00589,VERIZON WIRELESS 68920,verizon wireless 68920,201.64,Utilities,Utilities
+T01791,STEAMGAMES.COM 85 WA,steamgames.com 85 wa,37.75,Entertainment,Uncategorized
+T00748,TST* PHILZ COFFEE PHX AZ,tst* philz coffee phx az,10.15,Coffee,Coffee
+T00123,SHELL OIL 5352 DALLAS TX,shell oil 5352 dallas tx,80.06,Gas,Gas
+T01121,SQ *LOCAL GROUNDS SEATTLE WA,sq *local grounds seattle wa,8.3,Coffee,Uncategorized
+T01645,COMCAST CABLE COMM 88,comcast cable comm 88,255.87,Utilities,Utilities
+T00245,SQ *THE BOOK NOOK NY NY  ,sq *the book nook ny ny,63.8,Shopping,Uncategorized
+T01031,SQ *BLUE BOTTLE 8051 MIAMI FL,sq *blue bottle 8051 miami fl,11.73,Coffee,Uncategorized
+T00102,REGAL CINEMAS 15915 PHX AZ,regal cinemas 15915 phx az,65.62,Entertainment,Entertainment
+T01576,SQ *CITY DENTAL BOSTON MA,sq *city dental boston ma,211.81,Health,Uncategorized
+T01398,CVS/PHARMACY #978 CHICAGO IL,cvs/pharmacy #978 chicago il,219.97,Health,Health
+T00163,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,52.17,Transport,Transport
+T00862,kroger 9672 seattle wa,kroger 9672 seattle wa,31.62,Groceries,Groceries
+T00171,ATT*BILL PAYMENT 39,att*bill payment 39,219.28,Utilities,Uncategorized
+T01910,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,17.87,Transport,Transport
+T00893,ALDI  71 BOSTON MA,aldi 71 boston ma,144.13,Groceries,Uncategorized
+T01315,WALMART SUPERCENTER #39375,walmart supercenter #39375,295.8,Shopping,Shopping
+T00790,SQ *CITY DENTAL CHICAGO IL  ,sq *city dental chicago il,85.41,Health,Uncategorized
+T01232,VERIZON WIRELESS 4500,verizon wireless 4500,188.02,Utilities,Utilities
+T01831,UBER *TRIP AUSTIN TX,uber *trip austin tx,57.01,Transport,Transport
+T01496,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,28.79,Transport,Transport
+T01939,SQ *BLUE BOTTLE 7397 PHX AZ,sq *blue bottle 7397 phx az,7.57,Coffee,Uncategorized
+T00843,KROGER 2980 MIAMI FL,kroger 2980 miami fl,196.29,Groceries,Groceries
+T00426,MTA*NYCT PAYGO DENVER CO  ,mta*nyct paygo denver co,41.97,Transport,Uncategorized
+T01027,CHIPOTLE 10487 MIAMI FL,chipotle 10487 miami fl,72.25,Restaurants,Restaurants
+T00458,TST* OLIVE & VINE BOSTON MA,tst* olive & vine boston ma,101.87,Restaurants,Uncategorized
+T01798,PARKING METER #8173 OAKLAND CA,parking meter #8173 oakland ca,20.92,Transport,Transport
+T00592,TRADER JOE'S #12,trader joe's #12,54.59,Groceries,Groceries
+T01504,SPOTIFY USA 9383,spotify usa 9383,30.48,Entertainment,Entertainment
+T01012,SAFEWAY #9208 PHX AZ,safeway #9208 phx az,126.05,Groceries,Groceries
+T00838,STEAMGAMES.COM 43610 WA,steamgames.com 43610 wa,64.67,Entertainment,Uncategorized
+T00891,ALDI 498 SEATTLE WA,aldi 498 seattle wa,172.72,Groceries,Uncategorized
+T01764,ONCOR ELECTRIC DELIVERY,oncor electric delivery,179.08,Utilities,Utilities
+T01023,TST* THE CORNER DINER,tst* the corner diner,68.62,Restaurants,Restaurants
+T00564,DART RAIL OAKLAND CA  ,dart rail oakland ca,53.37,Transport,Uncategorized
+T00998,STEAMGAMES.COM 75514 WA,steamgames.com 75514 wa,80.0,Entertainment,Uncategorized
+T00161,chevron 18,chevron 18,35.7,Gas,Gas
+T00262,CIRCLE K # 72856,circle k # 72856,90.91,Gas,Uncategorized
+T01055,KROGER 20 MIAMI FL,kroger 20 miami fl,60.18,Groceries,Groceries
+T00971,76 - 93184 austin tx,76 - 93184 austin tx,89.69,Gas,Uncategorized
+T01394,TRADER JOE'S #43274,trader joe's #43274,112.05,Groceries,Groceries
+T00820,ATT*BILL PAYMENT 1256,att*bill payment 1256,154.05,Utilities,Uncategorized
+T01780,TXU ENERGY PAYMENT,txu energy payment,201.52,Utilities,Utilities
+T01327,UBER *TRIP CHICAGO IL  ,uber *trip chicago il,55.23,Transport,Transport
+T01558,SQ *THE COMEDY CLUB OAKLAND CA,sq *the comedy club oakland ca,55.59,Entertainment,Uncategorized
+T01277,rite aid #89 boston ma,rite aid #89 boston ma,195.11,Health,Uncategorized
+T01164,CIRCLE K # 410,circle k # 410,82.58,Gas,Uncategorized
+T00576,SQ *CITY DENTAL CHICAGO IL,sq *city dental chicago il,231.88,Health,Uncategorized
+T01811,CIRCLE K # 59311,circle k # 59311,70.74,Gas,Uncategorized
+T00021,LA FITNESS 31 AUSTIN TX,la fitness 31 austin tx,157.08,Health,Health
+T01722,KROGER 8908 AUSTIN TX,kroger 8908 austin tx,185.28,Groceries,Groceries
+T01220,STEAMGAMES.COM 25304 WA,steamgames.com 25304 wa,77.07,Entertainment,Uncategorized
+T00368,NETFLIX.COM 124,netflix.com 124,88.54,Entertainment,Entertainment
+T00558,TRADER JOE'S #406  ,trader joe's #406,195.13,Groceries,Groceries
+T00437,SQ *LOCAL GROUNDS OAKLAND CA,sq *local grounds oakland ca,6.75,Coffee,Uncategorized
+T00303,CIRCLE K # 72,circle k # 72,55.13,Gas,Uncategorized
+T00688,TXU ENERGY PAYMENT,txu energy payment,140.8,Utilities,Utilities
+T00428,CHEVRON 6704,chevron 6704,75.1,Gas,Gas
+T01875,TST* PHILZ COFFEE AUSTIN TX,tst* philz coffee austin tx,8.79,Coffee,Coffee
+T01972,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,226.65,Health,Uncategorized
+T01843,DART RAIL AUSTIN TX,dart rail austin tx,48.53,Transport,Uncategorized
+T00211,CHEVRON  9234,chevron 9234,91.4,Gas,Gas
+T00372,EXXONMOBIL 7307 OAKLAND CA,exxonmobil 7307 oakland ca,68.19,Gas,Gas
+T01861,DOORDASH*MCDONALDS,doordash*mcdonalds,67.46,Restaurants,Restaurants
+T01698,SQ *BLUE BOTTLE 0000 DENVER CO,sq *blue bottle 0000 denver co,8.11,Coffee,Uncategorized
+T01666,TST* PHILZ COFFEE DENVER CO,tst* philz coffee denver co,4.27,Coffee,Coffee
+T00923,TARGET 849 AUSTIN TX,target 849 austin tx,294.44,Shopping,Shopping
+T00654,TST* THE CORNER DINER,tst* the corner diner,82.4,Restaurants,Restaurants
+T00299,WALGREENS #93,walgreens #93,82.83,Health,Health
+T01313,TRADER JOE'S #861,trader joe's #861,58.21,Groceries,Groceries
+T00561,SQ *BLUE BOTTLE 5328 DENVER CO,sq *blue bottle 5328 denver co,7.87,Coffee,Uncategorized
+T00526,SHELL OIL 520 SEATTLE WA,shell oil 520 seattle wa,67.98,Gas,Gas
+T00388,SQ *BLUE BOTTLE 57438 DALLAS TX,sq *blue bottle 57438 dallas tx,7.44,Coffee,Uncategorized
+T00119,BEST  BUY #3263 DENVER CO,best buy #3263 denver co,188.0,Shopping,Uncategorized
+T01231,POS DEBIT BP#68,pos debit bp#68,29.86,Gas,Uncategorized
+T00881,CHEVRON 63576,chevron 63576,65.97,Gas,Gas
+T01648,trader joe's #22,trader joe's #22,179.3,Groceries,Groceries
+T01965,WHOLEFDS MKT 000 AUSTIN TX,wholefds mkt 000 austin tx,101.49,Groceries,Groceries
+T01094,TST* THE CORNER DINER,tst* the corner diner,57.31,Restaurants,Restaurants
+T00153,SQ *THE COMEDY CLUB MIAMI FL,sq *the comedy club miami fl,10.6,Entertainment,Uncategorized
+T00608,SQ *THE COMEDY CLUB PHX AZ,sq *the comedy club phx az,57.74,Entertainment,Uncategorized
+T01379,KROGER 591 MIAMI FL,kroger 591 miami fl,106.65,Groceries,Groceries
+T01934,CHEVRON 5579,chevron 5579,60.64,Gas,Gas
+T01633,UBER *TRIP DALLAS TX,uber *trip dallas tx,21.38,Transport,Transport
+T00864,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,5.5,Transport,Transport
+T00753,SQ *THE COMEDY CLUB DENVER CO,sq *the comedy club denver co,73.19,Entertainment,Uncategorized
+T00450,NETFLIX.COM 33,netflix.com 33,62.95,Entertainment,Entertainment
+T01708,DART RAIL SEATTLE WA,dart rail seattle wa,23.89,Transport,Uncategorized
+T01159,kroger 30 seattle wa,kroger 30 seattle wa,65.23,Groceries,Groceries
+T00287,SPOTIFY USA 9060,spotify usa 9060,55.21,Entertainment,Entertainment
+T01184,ATT*BILL PAYMENT 43086,att*bill payment 43086,201.2,Utilities,Uncategorized
+T00194,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,34.71,Transport,Transport
+T00694,etsy.com - seller1006,etsy.com - seller1006,32.36,Shopping,Uncategorized
+T01835,WALGREENS #99262,walgreens #99262,107.32,Health,Health
+T01986,ALDI 92 DENVER CO,aldi 92 denver co,115.96,Groceries,Uncategorized
+T00074,ALDI 44 SEATTLE WA  ,aldi 44 seattle wa,147.75,Groceries,Uncategorized
+T01429,CITY OF DALLAS WATER UT  ,city of dallas water ut,169.29,Utilities,Utilities
+T00241,LA FITNESS 871 CHICAGO IL,la fitness 871 chicago il,38.16,Health,Health
+T00205,DOORDASH*MCDONALDS,doordash*mcdonalds,82.61,Restaurants,Restaurants
+T01515,CHEVRON  211,chevron 211,62.34,Gas,Gas
+T00942,ETSY.COM - SELLER239  ,etsy.com - seller239,240.62,Shopping,Uncategorized
+T01072,TRADER JOE'S #64045,trader joe's #64045,148.82,Groceries,Groceries
+T00636,SQ *LOCAL GROUNDS AUSTIN TX,sq *local grounds austin tx,4.02,Coffee,Uncategorized
+T00216,SAFEWAY #32495 AUSTIN TX  ,safeway #32495 austin tx,208.8,Groceries,Groceries
+T00841,WHOLEFDS MKT 255 PHX AZ,wholefds mkt 255 phx az,177.49,Groceries,Groceries
+T01700,VERIZON WIRELESS 38,verizon wireless 38,107.25,Utilities,Utilities
+T01565,PARKING METER #324 AUSTIN TX,parking meter #324 austin tx,7.7,Transport,Transport
+T01197,MTA*NYCT PAYGO AUSTIN TX,mta*nyct paygo austin tx,30.91,Transport,Uncategorized
+T01574,VERIZON WIRELESS 5963,verizon wireless 5963,282.51,Utilities,Utilities
+T00461,KROGER 86305 DENVER CO  ,kroger 86305 denver co,165.92,Groceries,Groceries
+T01182,SAFEWAY #20736 AUSTIN TX,safeway #20736 austin tx,194.2,Groceries,Groceries
+T00212,ETSY.COM - SELLER785,etsy.com - seller785,243.07,Shopping,Uncategorized
+T00962,CITY OF DALLAS WATER UT,city of dallas water ut,128.93,Utilities,Utilities
+T01475,WALMART SUPERCENTER #581,walmart supercenter #581,325.79,Shopping,Shopping
+T01427,POS  DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,147.46,Health,Uncategorized
+T00705,PARKING METER #86 AUSTIN TX  ,parking meter #86 austin tx,8.16,Transport,Transport
+T01188,SHELL OIL 6636 CHICAGO IL,shell oil 6636 chicago il,56.6,Gas,Gas
+T00430,POS DEBIT BP#16,pos debit bp#16,92.57,Gas,Uncategorized
+T01074,REGAL CINEMAS 023 CHICAGO IL,regal cinemas 023 chicago il,13.94,Entertainment,Entertainment
+T01311,DOORDASH*MCDONALDS,doordash*mcdonalds,46.24,Restaurants,Restaurants
+T01888,SHELL OIL 754 BOSTON MA,shell oil 754 boston ma,88.65,Gas,Gas
+T01482,WALGREENS #372,walgreens #372,248.01,Health,Health
+T01890,CVS/PHARMACY #551 SEATTLE WA,cvs/pharmacy #551 seattle wa,33.38,Health,Health
+T00523,WALMART SUPERCENTER #74012,walmart supercenter #74012,329.25,Shopping,Shopping
+T01801,76 - 86885 SEATTLE WA,76 - 86885 seattle wa,28.98,Gas,Uncategorized
+T01391,SQ *THE COMEDY CLUB BOSTON MA,sq *the comedy club boston ma,34.98,Entertainment,Uncategorized
+T01085,VERIZON WIRELESS 548,verizon wireless 548,109.08,Utilities,Utilities
+T00394,LA FITNESS 055 OAKLAND CA,la fitness 055 oakland ca,83.64,Health,Health
+T01344,PARKING METER #92 AUSTIN TX,parking meter #92 austin tx,24.36,Transport,Transport
+T00150,SQ *BLUE BOTTLE 385 DENVER CO,sq *blue bottle 385 denver co,6.33,Coffee,Uncategorized
+T00499,CHIPOTLE 93 OAKLAND CA,chipotle 93 oakland ca,92.85,Restaurants,Restaurants
+T01634,PARKING METER #9559 DENVER CO,parking meter #9559 denver co,13.04,Transport,Transport
+T00698,CVS/PHARMACY #1382 PHX AZ,cvs/pharmacy #1382 phx az,48.54,Health,Health
+T01685,CVS/PHARMACY #84124 DALLAS TX,cvs/pharmacy #84124 dallas tx,32.37,Health,Health
+T01396,WHOLEFDS MKT 523 MIAMI FL,wholefds mkt 523 miami fl,82.05,Groceries,Groceries
+T00176,SQ *THE COMEDY CLUB BOSTON MA,sq *the comedy club boston ma,87.11,Entertainment,Uncategorized
+T00497,CITY OF DALLAS WATER UT,city of dallas water ut,133.65,Utilities,Utilities
+T01409,TST* THE CORNER DINER,tst* the corner diner,56.89,Restaurants,Restaurants
+T01984,NETFLIX.COM 12014,netflix.com 12014,51.69,Entertainment,Entertainment
+T01610,TRADER JOE'S #2742,trader joe's #2742,73.72,Groceries,Groceries
+T01994,SAFEWAY #21551 AUSTIN TX,safeway #21551 austin tx,202.78,Groceries,Groceries
+T00160,RITE AID #67 SEATTLE WA,rite aid #67 seattle wa,249.56,Health,Uncategorized
+T01049,ETSY.COM - SELLER377,etsy.com - seller377,418.57,Shopping,Uncategorized
+T01578,STEAMGAMES.COM 8474 WA,steamgames.com 8474 wa,52.96,Entertainment,Uncategorized
+T00423,REGAL CINEMAS 8311 DALLAS TX,regal cinemas 8311 dallas tx,79.63,Entertainment,Entertainment
+T00648,ONCOR ELECTRIC DELIVERY,oncor electric delivery,68.56,Utilities,Utilities
+T00037,SQ  *LOCAL GROUNDS CHICAGO IL,sq *local grounds chicago il,3.96,Coffee,Uncategorized
+T01351,SQ  *THE BOOK NOOK DALLAS TX,sq *the book nook dallas tx,268.62,Shopping,Uncategorized
+T00989,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,240.54,Health,Uncategorized
+T01098,POS DEBIT BP#67503  ,pos debit bp#67503,38.31,Gas,Uncategorized
+T01935,TXU ENERGY PAYMENT,txu energy payment,212.14,Utilities,Utilities
+T00690,UBER  *TRIP SEATTLE WA,uber *trip seattle wa,32.34,Transport,Transport
+T00208,CHEVRON 65911,chevron 65911,46.29,Gas,Gas
+T00945,SQ *THE BOOK NOOK NY NY,sq *the book nook ny ny,18.91,Shopping,Uncategorized
+T01572,SQ *TAQUERIA EL SOL DALLAS TX  ,sq *taqueria el sol dallas tx,43.19,Restaurants,Uncategorized
+T01762,CHIPOTLE 0 CHICAGO IL,chipotle 0 chicago il,122.19,Restaurants,Restaurants
+T00254,CITY  OF DALLAS WATER UT,city of dallas water ut,300.14,Utilities,Utilities
+T00663,WALMART SUPERCENTER #787,walmart supercenter #787,70.64,Shopping,Shopping
+T00477,PARKING METER #979 BOSTON MA  ,parking meter #979 boston ma,33.82,Transport,Transport
+T01465,POS DEBIT BP#330  ,pos debit bp#330,27.16,Gas,Uncategorized
+T00729,best buy #90748 ny ny,best buy #90748 ny ny,135.89,Shopping,Uncategorized
+T00159,TXU ENERGY PAYMENT,txu energy payment,249.26,Utilities,Utilities
+T01040,STARBUCKS STORE 206,starbucks store 206,6.76,Coffee,Coffee
+T01867,SAFEWAY #6614 AUSTIN TX,safeway #6614 austin tx,196.39,Groceries,Groceries
+T00158,76 - 90388 AUSTIN TX,76 - 90388 austin tx,32.41,Gas,Uncategorized
+T01789,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,122.09,Health,Uncategorized
+T01081,LA FITNESS 590 SEATTLE WA,la fitness 590 seattle wa,256.5,Health,Health
+T01505,SHELL OIL 5918 NY NY,shell oil 5918 ny ny,57.78,Gas,Gas
+T01921,LA FITNESS 6378 DENVER CO,la fitness 6378 denver co,224.59,Health,Health
+T00115,MTA*NYCT PAYGO BOSTON MA,mta*nyct paygo boston ma,44.95,Transport,Uncategorized
+T00481,DART RAIL BOSTON MA,dart rail boston ma,3.56,Transport,Uncategorized
+T00712,KROGER 1692 AUSTIN TX  ,kroger 1692 austin tx,164.15,Groceries,Groceries
+T01980,DUNKIN #3853 PHX AZ,dunkin #3853 phx az,5.6,Coffee,Coffee
+T01990,VERIZON WIRELESS 7481,verizon wireless 7481,81.18,Utilities,Utilities
+T01431,ONCOR ELECTRIC DELIVERY  ,oncor electric delivery,118.03,Utilities,Utilities
+T00453,KROGER 3946 CHICAGO IL  ,kroger 3946 chicago il,60.65,Groceries,Groceries
+T01865,CITY OF DALLAS WATER UT,city of dallas water ut,39.72,Utilities,Utilities
+T01140,ONCOR  ELECTRIC DELIVERY,oncor electric delivery,140.6,Utilities,Utilities
+T01948,CVS/PHARMACY #0050 MIAMI FL,cvs/pharmacy #0050 miami fl,39.45,Health,Health
+T01507,POS DEBIT H-E-B #56011,pos debit h-e-b #56011,185.49,Groceries,Uncategorized
+T00647,WALGREENS  #98216,walgreens #98216,84.82,Health,Health
+T00004,CITY  OF DALLAS WATER UT,city of dallas water ut,139.48,Utilities,Utilities
+T01239,AMC ONLINE #7908,amc online #7908,30.88,Entertainment,Entertainment
+T01598,TXU ENERGY PAYMENT,txu energy payment,89.46,Utilities,Utilities
+T00474,TRADER JOE'S #752  ,trader joe's #752,72.22,Groceries,Groceries
+T00948,CVS/PHARMACY #048 MIAMI FL,cvs/pharmacy #048 miami fl,89.06,Health,Health
+T01508,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,228.27,Health,Uncategorized
+T01163,SQ *THE BOOK NOOK DALLAS TX,sq *the book nook dallas tx,51.39,Shopping,Uncategorized
+T01358,CHIPOTLE 19848 DALLAS TX,chipotle 19848 dallas tx,48.17,Restaurants,Restaurants
+T01130,SQ *THE COMEDY CLUB CHICAGO IL,sq *the comedy club chicago il,52.38,Entertainment,Uncategorized
+T00905,CVS/PHARMACY #47 BOSTON MA,cvs/pharmacy #47 boston ma,21.93,Health,Health
+T00399,GRUBHUB*THAI BASIL BOSTON MA,grubhub*thai basil boston ma,131.85,Restaurants,Restaurants
+T01053,STARBUCKS STORE 11415,starbucks store 11415,7.2,Coffee,Coffee
+T00467,SAFEWAY #76389 BOSTON MA,safeway #76389 boston ma,188.7,Groceries,Groceries
+T00020,RITE AID #730 MIAMI FL,rite aid #730 miami fl,172.47,Health,Uncategorized
+T00229,VERIZON WIRELESS 420,verizon wireless 420,177.64,Utilities,Utilities
+T01823,UBER *TRIP DENVER CO,uber *trip denver co,28.29,Transport,Transport
+T01208,SQ  *THE BOOK NOOK NY NY,sq *the book nook ny ny,20.1,Shopping,Uncategorized
+T01820,SQ *BLUE BOTTLE 5619 SEATTLE WA  ,sq *blue bottle 5619 seattle wa,7.35,Coffee,Uncategorized
+T01878,SPOTIFY USA 43351,spotify usa 43351,25.26,Entertainment,Entertainment
+T00085,EXXONMOBIL 06 DALLAS TX,exxonmobil 06 dallas tx,77.7,Gas,Gas
+T00503,76 - 456 DALLAS TX,76 - 456 dallas tx,64.61,Gas,Uncategorized
+T00579,EXXONMOBIL  31 DENVER CO,exxonmobil 31 denver co,68.31,Gas,Gas
+T01006,SHELL OIL 22 AUSTIN TX,shell oil 22 austin tx,52.36,Gas,Gas
+T00924,PEETS COFFEE #43 DALLAS TX,peets coffee #43 dallas tx,10.74,Coffee,Coffee
+T00800,WHOLEFDS MKT 404 PHX AZ,wholefds mkt 404 phx az,166.99,Groceries,Groceries
+T01350,TARGET 36 DENVER CO,target 36 denver co,425.88,Shopping,Shopping
+T01146,tst* the corner diner,tst* the corner diner,26.1,Restaurants,Restaurants
+T00709,BEST BUY #4216 AUSTIN TX,best buy #4216 austin tx,37.45,Shopping,Uncategorized
+T00240,SQ *BLUE BOTTLE 9305 SEATTLE WA,sq *blue bottle 9305 seattle wa,11.9,Coffee,Uncategorized
+T01330,POS DEBIT H-E-B #37104,pos debit h-e-b #37104,176.57,Groceries,Uncategorized
+T00005,PARKING  METER #0711 BOSTON MA,parking meter #0711 boston ma,60.1,Transport,Transport
+T00660,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,16.97,Transport,Transport
+T00188,TST* PHILZ COFFEE AUSTIN TX,tst* philz coffee austin tx,9.62,Coffee,Coffee
+T01659,DART RAIL DENVER CO,dart rail denver co,32.81,Transport,Uncategorized
+T01329,CVS/PHARMACY #208 PHX AZ,cvs/pharmacy #208 phx az,215.67,Health,Health
+T01453,RITE AID #689 CHICAGO IL,rite aid #689 chicago il,175.17,Health,Uncategorized
+T00932,NETFLIX.COM 59  ,netflix.com 59,84.41,Entertainment,Entertainment
+T00613,TST* PHILZ COFFEE DENVER CO  ,tst* philz coffee denver co,4.88,Coffee,Coffee
+T00174,SQ  *CITY DENTAL PHX AZ,sq *city dental phx az,104.18,Health,Uncategorized
+T00214,POS DEBIT BP#63471,pos debit bp#63471,35.06,Gas,Uncategorized
+T00340,DART RAIL CHICAGO IL,dart rail chicago il,17.63,Transport,Uncategorized
+T00536,REGAL  CINEMAS 76916 DENVER CO,regal cinemas 76916 denver co,11.67,Entertainment,Entertainment
+T01225,lyft *ride thu 4pm,lyft *ride thu 4pm,21.81,Transport,Transport
+T00644,COMCAST CABLE COMM 76,comcast cable comm 76,111.48,Utilities,Utilities
+T01211,ETSY.COM - SELLER35,etsy.com - seller35,309.32,Shopping,Uncategorized
+T01624,VERIZON WIRELESS 411,verizon wireless 411,146.59,Utilities,Utilities
+T00537,TST* THE CORNER DINER,tst* the corner diner,78.11,Restaurants,Restaurants
+T01833,SQ *THE COMEDY CLUB AUSTIN TX,sq *the comedy club austin tx,13.73,Entertainment,Uncategorized
+T00480,POS DEBIT H-E-B #7301,pos debit h-e-b #7301,64.98,Groceries,Uncategorized
+T00338,SHELL OIL 78 DENVER CO,shell oil 78 denver co,39.91,Gas,Gas
+T01725,DUNKIN #9057 DENVER CO,dunkin #9057 denver co,8.09,Coffee,Coffee
+T01689,SQ *LOCAL GROUNDS OAKLAND CA,sq *local grounds oakland ca,3.32,Coffee,Uncategorized
+T00522,CVS/PHARMACY #48 SEATTLE WA,cvs/pharmacy #48 seattle wa,36.65,Health,Health
+T01706,TXU ENERGY PAYMENT,txu energy payment,199.46,Utilities,Utilities
+T00422,COMCAST CABLE COMM 74,comcast cable comm 74,96.15,Utilities,Utilities
+T01816,WHOLEFDS MKT 32 DALLAS TX,wholefds mkt 32 dallas tx,110.02,Groceries,Groceries
+T01423,KROGER 35305 PHX AZ  ,kroger 35305 phx az,120.0,Groceries,Groceries
+T00025,COMCAST CABLE COMM 86,comcast cable comm 86,128.31,Utilities,Utilities
+T00483,WHOLEFDS MKT 994 AUSTIN TX,wholefds mkt 994 austin tx,144.05,Groceries,Groceries
+T01402,SQ *THE BOOK NOOK OAKLAND CA,sq *the book nook oakland ca,310.87,Shopping,Uncategorized
+T01523,TST* THE CORNER DINER  ,tst* the corner diner,135.42,Restaurants,Restaurants
+T00765,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,52.37,Transport,Transport
+T00830,TST* OLIVE & VINE DENVER CO,tst* olive & vine denver co,42.47,Restaurants,Uncategorized
+T00346,POS DEBIT H-E-B #284  ,pos debit h-e-b #284,203.79,Groceries,Uncategorized
+T00148,CVS/PHARMACY #474 CHICAGO IL,cvs/pharmacy #474 chicago il,87.25,Health,Health
+T00048,AMZN MKTP US*76 AMZN.COM/BILL WA,amzn mktp us*76 amzn.com/bill wa,156.06,Shopping,Shopping
+T01609,SQ *LOCAL GROUNDS AUSTIN TX,sq *local grounds austin tx,4.04,Coffee,Uncategorized
+T01456,PARKING METER #54446 CHICAGO IL,parking meter #54446 chicago il,32.92,Transport,Transport
+T00819,POS DEBIT H-E-B #75  ,pos debit h-e-b #75,179.24,Groceries,Uncategorized
+T00152,STEAMGAMES.COM 3531 WA,steamgames.com 3531 wa,29.79,Entertainment,Uncategorized
+T01731,CVS/PHARMACY #62083 CHICAGO IL,cvs/pharmacy #62083 chicago il,185.51,Health,Health
+T01853,SQ *THE COMEDY CLUB NY NY,sq *the comedy club ny ny,38.63,Entertainment,Uncategorized
+T01740,PEETS COFFEE #41 OAKLAND CA,peets coffee #41 oakland ca,9.54,Coffee,Coffee
+T01601,STARBUCKS STORE 39,starbucks store 39,7.81,Coffee,Coffee
+T00710,UBER *TRIP DENVER CO  ,uber *trip denver co,63.7,Transport,Transport
+T00996,76 - 9625 BOSTON MA,76 - 9625 boston ma,57.13,Gas,Uncategorized
+T01899,TST* PHILZ COFFEE BOSTON MA,tst* philz coffee boston ma,3.24,Coffee,Coffee
+T01036,EXXONMOBIL  616 OAKLAND CA,exxonmobil 616 oakland ca,31.46,Gas,Gas
+T00059,SPOTIFY USA 87500,spotify usa 87500,66.42,Entertainment,Entertainment
+T01117,SQ *TAQUERIA EL SOL OAKLAND CA,sq *taqueria el sol oakland ca,94.42,Restaurants,Uncategorized
+T00223,POS DEBIT QUEST DIAGNOSTIC  ,pos debit quest diagnostic,19.73,Health,Uncategorized
+T01709,CIRCLE K # 88566,circle k # 88566,31.05,Gas,Uncategorized
+T01812,ATT*BILL PAYMENT 5351,att*bill payment 5351,228.39,Utilities,Uncategorized
+T01165,POS DEBIT H-E-B #62575,pos debit h-e-b #62575,48.79,Groceries,Uncategorized
+T01991,CIRCLE K # 6136,circle k # 6136,61.65,Gas,Uncategorized
+T00009,ETSY.COM - SELLER701,etsy.com - seller701,23.15,Shopping,Uncategorized
+T00002,ALDI 4165 AUSTIN TX,aldi 4165 austin tx,118.6,Groceries,Uncategorized
+T01336,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,9.27,Transport,Transport
+T00889,KROGER 39800 NY NY,kroger 39800 ny ny,219.85,Groceries,Groceries
+T01387,SQ *THE BOOK NOOK DALLAS TX,sq *the book nook dallas tx,331.33,Shopping,Uncategorized
+T01802,ATT*BILL PAYMENT 62019,att*bill payment 62019,67.51,Utilities,Uncategorized
+T01957,POS DEBIT H-E-B #0890,pos debit h-e-b #0890,191.89,Groceries,Uncategorized
+T01546,SQ *CITY DENTAL OAKLAND CA,sq *city dental oakland ca,247.22,Health,Uncategorized
+T01050,VERIZON WIRELESS 003,verizon wireless 003,275.19,Utilities,Utilities
+T00518,CVS/PHARMACY #61 PHX AZ,cvs/pharmacy #61 phx az,10.3,Health,Health
+T01305,DUNKIN #06834 MIAMI FL,dunkin #06834 miami fl,6.87,Coffee,Coffee
+T01669,EXXONMOBIL 8273 DENVER CO,exxonmobil 8273 denver co,42.23,Gas,Gas
+T00955,DUNKIN  #37 MIAMI FL,dunkin #37 miami fl,9.77,Coffee,Coffee
+T01786,CIRCLE K # 37,circle k # 37,88.66,Gas,Uncategorized
+T00674,ATT*BILL PAYMENT 5320  ,att*bill payment 5320,165.72,Utilities,Uncategorized
+T00857,NETFLIX.COM 152,netflix.com 152,45.5,Entertainment,Entertainment
+T01046,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,102.7,Health,Uncategorized
+T01022,STARBUCKS STORE 5615,starbucks store 5615,11.16,Coffee,Coffee
+T01937,LA FITNESS 350 NY NY,la fitness 350 ny ny,176.78,Health,Health
+T00314,TRADER JOE'S #1916,trader joe's #1916,119.72,Groceries,Groceries
+T01564,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,55.97,Transport,Transport
+T01792,REGAL  CINEMAS 2358 NY NY,regal cinemas 2358 ny ny,38.25,Entertainment,Entertainment
+T00465,ETSY.COM - SELLER9069,etsy.com - seller9069,345.19,Shopping,Uncategorized
+T01288,COMCAST CABLE COMM 589,comcast cable comm 589,196.93,Utilities,Utilities
+T01639,SAFEWAY #22 PHX AZ,safeway #22 phx az,95.69,Groceries,Groceries
+T00504,AMC ONLINE #28  ,amc online #28,37.03,Entertainment,Entertainment
+T00993,SQ *TAQUERIA EL SOL DENVER CO  ,sq *taqueria el sol denver co,78.37,Restaurants,Uncategorized
+T01033,TXU ENERGY PAYMENT,txu energy payment,241.68,Utilities,Utilities
+T01035,DOORDASH*MCDONALDS,doordash*mcdonalds,70.3,Restaurants,Restaurants
+T00604,ONCOR ELECTRIC DELIVERY,oncor electric delivery,76.13,Utilities,Utilities
+T01971,SQ *THE COMEDY CLUB CHICAGO IL,sq *the comedy club chicago il,87.79,Entertainment,Uncategorized
+T00683,ATT*BILL PAYMENT 1022,att*bill payment 1022,35.23,Utilities,Uncategorized
+T00084,amzn mktp us*303 amzn.com/bill wa,amzn mktp us*303 amzn.com/bill wa,14.68,Shopping,Shopping
+T00337,SAFEWAY #4902 MIAMI FL,safeway #4902 miami fl,169.4,Groceries,Groceries
+T01228,ALDI 89408 SEATTLE WA,aldi 89408 seattle wa,55.62,Groceries,Uncategorized
+T00849,SPOTIFY USA 9550  ,spotify usa 9550,17.19,Entertainment,Entertainment
+T01739,CVS/PHARMACY #252 SEATTLE WA,cvs/pharmacy #252 seattle wa,216.99,Health,Health
+T01902,WALGREENS #6054,walgreens #6054,52.56,Health,Health
+T00068,AMC ONLINE #6211,amc online #6211,12.88,Entertainment,Entertainment
+T00990,PARKING METER #49980 MIAMI FL  ,parking meter #49980 miami fl,26.35,Transport,Transport
+T00090,DUNKIN #97 NY NY,dunkin #97 ny ny,3.73,Coffee,Coffee
+T01817,DART RAIL MIAMI FL,dart rail miami fl,62.36,Transport,Uncategorized
+T00196,WALMART SUPERCENTER #78986,walmart supercenter #78986,173.93,Shopping,Shopping
+T01004,ONCOR ELECTRIC DELIVERY,oncor electric delivery,240.89,Utilities,Utilities
+T01203,WALMART SUPERCENTER #5036  ,walmart supercenter #5036,437.08,Shopping,Shopping
+T01717,DOORDASH*MCDONALDS  ,doordash*mcdonalds,15.98,Restaurants,Restaurants
+T00416,PEETS COFFEE #662 PHX AZ,peets coffee #662 phx az,5.01,Coffee,Coffee
+T01898,la fitness 8046 dallas tx,la fitness 8046 dallas tx,200.81,Health,Health
+T00193,MTA*NYCT PAYGO MIAMI FL,mta*nyct paygo miami fl,58.36,Transport,Uncategorized
+T00782,76 - 5180 CHICAGO IL,76 - 5180 chicago il,73.18,Gas,Uncategorized
+T00071,REGAL CINEMAS 6043 PHX AZ,regal cinemas 6043 phx az,68.83,Entertainment,Entertainment
+T00543,BEST BUY #768 OAKLAND CA,best buy #768 oakland ca,207.74,Shopping,Uncategorized
+T00870,TST* THE CORNER DINER,tst* the corner diner,79.16,Restaurants,Restaurants
+T01891,PARKING METER #847 OAKLAND CA,parking meter #847 oakland ca,55.57,Transport,Transport
+T00246,POS DEBIT BP#1923,pos debit bp#1923,40.34,Gas,Uncategorized
+T00591,UBER* EATS HELP.UBER.COM  ,uber* eats help.uber.com,6.43,Transport,Transport
+T00384,LYFT  *RIDE THU 4PM,lyft *ride thu 4pm,47.92,Transport,Transport
+T01043,BEST BUY #82160 DALLAS TX  ,best buy #82160 dallas tx,48.45,Shopping,Uncategorized
+T01011,TST* THE CORNER DINER,tst* the corner diner,17.63,Restaurants,Restaurants
+T00641,CHEVRON 53,chevron 53,92.27,Gas,Gas
+T01757,ATT*BILL  PAYMENT 84,att*bill payment 84,303.63,Utilities,Uncategorized
+T01562,ONCOR ELECTRIC DELIVERY,oncor electric delivery,300.54,Utilities,Utilities
+T01251,UBER*  EATS HELP.UBER.COM,uber* eats help.uber.com,33.7,Transport,Transport
+T01103,CHIPOTLE 59 OAKLAND CA,chipotle 59 oakland ca,90.79,Restaurants,Restaurants
+T00271,MTA*NYCT PAYGO DALLAS TX  ,mta*nyct paygo dallas tx,36.86,Transport,Uncategorized
+T01093,CHEVRON 74391,chevron 74391,69.74,Gas,Gas
+T00861,POS DEBIT BP#31,pos debit bp#31,26.82,Gas,Uncategorized
+T00616,AMZN MKTP US*85820 AMZN.COM/BILL WA,amzn mktp us*85820 amzn.com/bill wa,136.06,Shopping,Shopping
+T01778,parking meter #7576 denver co,parking meter #7576 denver co,8.92,Transport,Transport
+T01897,WALMART SUPERCENTER #2609,walmart supercenter #2609,291.36,Shopping,Shopping
+T01879,AMZN MKTP US*91275 AMZN.COM/BILL WA,amzn mktp us*91275 amzn.com/bill wa,270.57,Shopping,Shopping
+T00460,ATT*BILL PAYMENT 24979,att*bill payment 24979,47.79,Utilities,Uncategorized
+T00495,TRADER JOE'S #7960,trader joe's #7960,77.66,Groceries,Groceries
+T01189,WALGREENS #3015,walgreens #3015,117.13,Health,Health
+T01417,ALDI 264 DENVER CO,aldi 264 denver co,203.99,Groceries,Uncategorized
+T01250,COMCAST CABLE COMM 13278,comcast cable comm 13278,82.03,Utilities,Utilities
+T01083,SQ  *TAQUERIA EL SOL CHICAGO IL,sq *taqueria el sol chicago il,91.66,Restaurants,Uncategorized
+T01171,DART RAIL OAKLAND CA,dart rail oakland ca,26.07,Transport,Uncategorized
+T01463,ONCOR ELECTRIC DELIVERY,oncor electric delivery,164.78,Utilities,Utilities
+T00699,COMCAST CABLE COMM 676,comcast cable comm 676,236.95,Utilities,Utilities
+T00671,SQ *THE COMEDY CLUB NY NY,sq *the comedy club ny ny,62.35,Entertainment,Uncategorized
+T01044,AMZN MKTP US*486 AMZN.COM/BILL WA,amzn mktp us*486 amzn.com/bill wa,366.97,Shopping,Shopping
+T01483,SAFEWAY #07 PHX AZ,safeway #07 phx az,65.16,Groceries,Groceries
+T00606,DOORDASH*MCDONALDS,doordash*mcdonalds,72.91,Restaurants,Restaurants
+T01885,att*bill payment 272,att*bill payment 272,309.23,Utilities,Uncategorized
+T01489,REGAL CINEMAS 336 BOSTON MA,regal cinemas 336 boston ma,60.2,Entertainment,Entertainment
+T01932,ONCOR ELECTRIC DELIVERY,oncor electric delivery,134.36,Utilities,Utilities
+T01246,DART RAIL BOSTON MA,dart rail boston ma,23.03,Transport,Uncategorized
+T00722,SQ *LOCAL GROUNDS DENVER CO,sq *local grounds denver co,8.57,Coffee,Uncategorized
+T00879,SQ *LOCAL GROUNDS NY NY,sq *local grounds ny ny,4.31,Coffee,Uncategorized
+T00283,SQ *THE BOOK NOOK OAKLAND CA,sq *the book nook oakland ca,285.08,Shopping,Uncategorized
+T01390,ETSY.COM - SELLER204,etsy.com - seller204,52.71,Shopping,Uncategorized
+T01736,ALDI 9594 CHICAGO IL,aldi 9594 chicago il,43.1,Groceries,Uncategorized
+T01617,netflix.com 616,netflix.com 616,51.96,Entertainment,Entertainment
+T00935,BEST BUY #625 SEATTLE WA,best buy #625 seattle wa,470.39,Shopping,Uncategorized
+T01377,STEAMGAMES.COM 7037 WA,steamgames.com 7037 wa,53.12,Entertainment,Uncategorized
+T00640,ONCOR ELECTRIC DELIVERY,oncor electric delivery,272.23,Utilities,Utilities
+T00034,BEST BUY #1188 DENVER CO,best buy #1188 denver co,273.73,Shopping,Uncategorized
+T01127,AMZN MKTP US*88 AMZN.COM/BILL WA,amzn mktp us*88 amzn.com/bill wa,259.33,Shopping,Shopping
+T01872,SPOTIFY USA 8079,spotify usa 8079,7.38,Entertainment,Entertainment
+T00981,CHIPOTLE 45 CHICAGO IL,chipotle 45 chicago il,77.64,Restaurants,Restaurants
+T01062,TARGET 89126 DALLAS TX,target 89126 dallas tx,76.85,Shopping,Shopping
+T00939,ALDI 85 AUSTIN TX,aldi 85 austin tx,181.62,Groceries,Uncategorized
+T01521,POS DEBIT QUEST DIAGNOSTIC  ,pos debit quest diagnostic,105.01,Health,Uncategorized
+T00832,BEST BUY #33332 DENVER CO,best buy #33332 denver co,338.22,Shopping,Uncategorized
+T01129,SQ *TAQUERIA EL SOL PHX AZ,sq *taqueria el sol phx az,124.53,Restaurants,Uncategorized
+T01458,TARGET 785 BOSTON MA,target 785 boston ma,362.6,Shopping,Shopping
+T01962,AMZN MKTP US*68679 AMZN.COM/BILL WA,amzn mktp us*68679 amzn.com/bill wa,101.66,Shopping,Shopping
+T01763,SPOTIFY USA 102,spotify usa 102,43.17,Entertainment,Entertainment
+T01804,EXXONMOBIL 612 PHX AZ,exxonmobil 612 phx az,30.8,Gas,Gas
+T00965,TST* THE CORNER DINER,tst* the corner diner,110.35,Restaurants,Restaurants
+T01759,lyft *ride thu 4pm,lyft *ride thu 4pm,62.88,Transport,Transport
+T00089,GRUBHUB*THAI BASIL CHICAGO IL,grubhub*thai basil chicago il,138.72,Restaurants,Restaurants
+T01996,TST* THE CORNER DINER,tst* the corner diner,138.9,Restaurants,Restaurants
+T01793,TST* OLIVE & VINE DALLAS TX,tst* olive & vine dallas tx,84.87,Restaurants,Uncategorized
+T00599,UBER *TRIP AUSTIN TX  ,uber *trip austin tx,24.41,Transport,Transport
+T00878,AMC  ONLINE #6471,amc online #6471,7.17,Entertainment,Entertainment
+T00786,AMC ONLINE #5940,amc online #5940,56.2,Entertainment,Entertainment
+T01844,SQ *BLUE BOTTLE 5369 AUSTIN TX,sq *blue bottle 5369 austin tx,11.38,Coffee,Uncategorized
+T01467,ALDI 2609 DENVER CO,aldi 2609 denver co,29.32,Groceries,Uncategorized
+T00226,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,18.73,Transport,Transport
+T00203,SPOTIFY USA 11506,spotify usa 11506,52.2,Entertainment,Entertainment
+T00562,LA FITNESS 992 PHX AZ,la fitness 992 phx az,167.76,Health,Health
+T01355,SAFEWAY #95 AUSTIN TX,safeway #95 austin tx,118.95,Groceries,Groceries
+T01370,CVS/PHARMACY #66 SEATTLE WA,cvs/pharmacy #66 seattle wa,256.3,Health,Health
+T01915,WALGREENS #5432,walgreens #5432,184.3,Health,Health
+T00380,WHOLEFDS MKT 616 OAKLAND CA,wholefds mkt 616 oakland ca,15.14,Groceries,Groceries
+T01068,SQ  *LOCAL GROUNDS PHX AZ,sq *local grounds phx az,9.26,Coffee,Uncategorized
+T01567,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,9.02,Transport,Uncategorized
+T01557,GRUBHUB*THAI  BASIL CHICAGO IL,grubhub*thai basil chicago il,111.96,Restaurants,Restaurants
+T00019,CHEVRON 72063,chevron 72063,67.46,Gas,Gas
+T00506,UBER *TRIP MIAMI FL,uber *trip miami fl,25.01,Transport,Transport
+T01777,ATT*BILL PAYMENT 049,att*bill payment 049,101.53,Utilities,Uncategorized
+T00652,TARGET 15 DENVER CO,target 15 denver co,63.66,Shopping,Shopping
+T00813,CITY OF DALLAS WATER UT,city of dallas water ut,120.83,Utilities,Utilities
+T01395,starbucks store 93,starbucks store 93,10.87,Coffee,Coffee
+T01061,76 - 109 OAKLAND CA,76 - 109 oakland ca,57.24,Gas,Uncategorized
+T01970,REGAL CINEMAS 937 AUSTIN TX  ,regal cinemas 937 austin tx,19.56,Entertainment,Entertainment
+T00653,COMCAST CABLE COMM 42,comcast cable comm 42,93.39,Utilities,Utilities
+T01282,SQ *TAQUERIA EL SOL CHICAGO IL,sq *taqueria el sol chicago il,24.8,Restaurants,Uncategorized
+T00559,SQ *BLUE BOTTLE 68679 AUSTIN TX,sq *blue bottle 68679 austin tx,4.4,Coffee,Uncategorized
+T00812,UBER*  EATS HELP.UBER.COM,uber* eats help.uber.com,23.74,Transport,Transport
+T00167,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,29.58,Transport,Transport
+T01756,SQ *BLUE BOTTLE 1760 DALLAS TX,sq *blue bottle 1760 dallas tx,11.33,Coffee,Uncategorized
+T00695,TST* PHILZ COFFEE BOSTON MA  ,tst* philz coffee boston ma,10.05,Coffee,Coffee
+T00312,SQ *THE COMEDY CLUB PHX AZ,sq *the comedy club phx az,15.6,Entertainment,Uncategorized
+T00882,SQ  *THE BOOK NOOK OAKLAND CA,sq *the book nook oakland ca,408.08,Shopping,Uncategorized
+T01729,spotify usa 91852,spotify usa 91852,17.09,Entertainment,Entertainment
+T01615,MTA*NYCT PAYGO NY NY,mta*nyct paygo ny ny,5.55,Transport,Uncategorized
+T00801,SAFEWAY #346 PHX AZ,safeway #346 phx az,97.88,Groceries,Groceries
+T00452,ATT*BILL PAYMENT 1,att*bill payment 1,269.26,Utilities,Uncategorized
+T00549,SQ *TAQUERIA EL SOL DALLAS TX,sq *taqueria el sol dallas tx,29.21,Restaurants,Uncategorized
+T01319,SQ *BLUE BOTTLE 94541 BOSTON MA,sq *blue bottle 94541 boston ma,8.15,Coffee,Uncategorized
+T00022,TST* OLIVE & VINE NY NY  ,tst* olive & vine ny ny,16.02,Restaurants,Uncategorized
+T00787,CIRCLE  K # 471,circle k # 471,73.6,Gas,Uncategorized
+T00531,STARBUCKS STORE 35,starbucks store 35,6.65,Coffee,Coffee
+T00199,mta*nyct paygo phx az,mta*nyct paygo phx az,30.35,Transport,Uncategorized
+T01908,CIRCLE K # 81143,circle k # 81143,70.16,Gas,Uncategorized
+T01448,RITE AID #77 DALLAS TX,rite aid #77 dallas tx,78.17,Health,Uncategorized
+T01287,DART RAIL MIAMI FL  ,dart rail miami fl,54.88,Transport,Uncategorized
+T00643,STEAMGAMES.COM 77 WA,steamgames.com 77 wa,61.4,Entertainment,Uncategorized
+T01177,netflix.com 41119,netflix.com 41119,29.53,Entertainment,Entertainment
+T00032,ALDI  592 PHX AZ,aldi 592 phx az,149.76,Groceries,Uncategorized
+T01275,PEETS COFFEE #7123 OAKLAND CA,peets coffee #7123 oakland ca,11.88,Coffee,Coffee
+T01591,76 - 9404 DENVER CO,76 - 9404 denver co,86.58,Gas,Uncategorized
+T00903,76 - 3501 BOSTON MA,76 - 3501 boston ma,61.49,Gas,Uncategorized
+T01179,SHELL OIL 05189 CHICAGO IL,shell oil 05189 chicago il,84.99,Gas,Gas
+T00586,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,33.35,Transport,Transport
+T01852,WALGREENS #00692,walgreens #00692,204.07,Health,Health
+T00038,EXXONMOBIL 9909 SEATTLE WA,exxonmobil 9909 seattle wa,69.4,Gas,Gas
+T00420,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,17.14,Transport,Uncategorized
+T00466,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,42.12,Transport,Transport
+T01848,BEST BUY #84 CHICAGO IL,best buy #84 chicago il,72.61,Shopping,Uncategorized
+T01727,TST* PHILZ COFFEE DALLAS TX,tst* philz coffee dallas tx,3.69,Coffee,Coffee
+T01681,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,26.92,Transport,Transport
+T00285,DART RAIL BOSTON MA,dart rail boston ma,23.79,Transport,Uncategorized
+T00792,SQ *THE BOOK NOOK BOSTON MA,sq *the book nook boston ma,297.32,Shopping,Uncategorized
+T01651,SHELL OIL 00 NY NY,shell oil 00 ny ny,75.19,Gas,Gas
+T00099,AMC  ONLINE #99680,amc online #99680,27.2,Entertainment,Entertainment
+T01873,ALDI 236 OAKLAND CA,aldi 236 oakland ca,99.53,Groceries,Uncategorized
+T01013,trader joe's #108,trader joe's #108,97.44,Groceries,Groceries
+T01606,pos debit bp#380,pos debit bp#380,66.91,Gas,Uncategorized
+T01424,WALGREENS #133,walgreens #133,87.32,Health,Health
+T00381,SQ *TAQUERIA EL SOL OAKLAND CA  ,sq *taqueria el sol oakland ca,87.09,Restaurants,Uncategorized
+T00348,STARBUCKS STORE 55,starbucks store 55,3.5,Coffee,Coffee
+T00822,SHELL OIL 590 NY NY,shell oil 590 ny ny,82.67,Gas,Gas
+T01597,ALDI 84 BOSTON MA,aldi 84 boston ma,158.95,Groceries,Uncategorized
+T00754,TRADER JOE'S #11443,trader joe's #11443,74.12,Groceries,Groceries
+T01697,STEAMGAMES.COM  4071 WA,steamgames.com 4071 wa,6.02,Entertainment,Uncategorized
+T01223,KROGER 910 BOSTON MA,kroger 910 boston ma,99.01,Groceries,Groceries
+T00106,BEST BUY #8318 OAKLAND CA,best buy #8318 oakland ca,148.92,Shopping,Uncategorized
+T01954,LA  FITNESS 51024 OAKLAND CA,la fitness 51024 oakland ca,254.91,Health,Health
+T01105,SPOTIFY  USA 67,spotify usa 67,46.94,Entertainment,Entertainment
+T01514,TARGET 8722 NY NY,target 8722 ny ny,279.13,Shopping,Shopping
+T00635,CHIPOTLE 52171 CHICAGO IL,chipotle 52171 chicago il,66.08,Restaurants,Restaurants
+T01979,ALDI 74 SEATTLE WA,aldi 74 seattle wa,213.63,Groceries,Uncategorized
+T01430,STARBUCKS STORE 786,starbucks store 786,7.51,Coffee,Coffee
+T00044,starbucks store 6745,starbucks store 6745,9.31,Coffee,Coffee
+T00829,AMZN MKTP US*47636 AMZN.COM/BILL WA,amzn mktp us*47636 amzn.com/bill wa,349.84,Shopping,Shopping
+T00376,AMZN MKTP US*69393 AMZN.COM/BILL WA,amzn mktp us*69393 amzn.com/bill wa,467.72,Shopping,Shopping
+T01200,KROGER 81 BOSTON MA,kroger 81 boston ma,21.69,Groceries,Groceries
+T00789,WHOLEFDS MKT 99265 OAKLAND CA,wholefds mkt 99265 oakland ca,21.72,Groceries,Groceries
+T00827,VERIZON  WIRELESS 25,verizon wireless 25,106.06,Utilities,Utilities
+T01586,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,27.29,Transport,Transport
+T01715,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,30.58,Transport,Transport
+T01682,SQ *LOCAL GROUNDS BOSTON MA  ,sq *local grounds boston ma,9.46,Coffee,Uncategorized
+T00392,REGAL CINEMAS 55 PHX AZ,regal cinemas 55 phx az,19.2,Entertainment,Entertainment
+T00315,76 - 55448 DENVER CO,76 - 55448 denver co,73.54,Gas,Uncategorized
+T01375,SQ *BLUE BOTTLE 097 NY NY,sq *blue bottle 097 ny ny,10.73,Coffee,Uncategorized
+T01443,STEAMGAMES.COM 5658 WA,steamgames.com 5658 wa,75.35,Entertainment,Uncategorized
+T00147,UBER *TRIP MIAMI FL,uber *trip miami fl,63.4,Transport,Transport
+T01532,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,64.83,Health,Uncategorized
+T00366,STARBUCKS STORE 2430,starbucks store 2430,6.57,Coffee,Coffee
+T00513,SQ *LOCAL GROUNDS DENVER CO,sq *local grounds denver co,7.24,Coffee,Uncategorized
+T00079,SQ *THE BOOK NOOK AUSTIN TX,sq *the book nook austin tx,199.83,Shopping,Uncategorized
+T00764,SPOTIFY USA 41971,spotify usa 41971,51.88,Entertainment,Entertainment
+T01256,WHOLEFDS MKT 5499 DENVER CO,wholefds mkt 5499 denver co,217.91,Groceries,Groceries
+T00072,EXXONMOBIL 74 CHICAGO IL,exxonmobil 74 chicago il,88.56,Gas,Gas
+T01569,POS DEBIT H-E-B #34520,pos debit h-e-b #34520,96.34,Groceries,Uncategorized
+T00040,CIRCLE K # 2647,circle k # 2647,64.26,Gas,Uncategorized
+T00735,SQ *THE COMEDY CLUB DENVER CO,sq *the comedy club denver co,33.38,Entertainment,Uncategorized
+T00701,WALGREENS #89589,walgreens #89589,142.61,Health,Health
+T01100,SQ *TAQUERIA EL SOL BOSTON MA,sq *taqueria el sol boston ma,18.52,Restaurants,Uncategorized
+T01807,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,4.45,Transport,Transport
+T00075,COMCAST CABLE COMM 55,comcast cable comm 55,154.76,Utilities,Utilities
+T01440,MTA*NYCT PAYGO OAKLAND CA,mta*nyct paygo oakland ca,13.26,Transport,Uncategorized
+T01039,POS DEBIT H-E-B #2338,pos debit h-e-b #2338,96.58,Groceries,Uncategorized
+T00479,MTA*NYCT PAYGO BOSTON MA,mta*nyct paygo boston ma,63.81,Transport,Uncategorized
+T00293,WALGREENS #22216,walgreens #22216,133.28,Health,Health
+T00377,TST* THE CORNER DINER,tst* the corner diner,137.78,Restaurants,Restaurants
+T00313,SQ *THE COMEDY CLUB PHX AZ,sq *the comedy club phx az,62.46,Entertainment,Uncategorized
+T00823,ETSY.COM - SELLER74202,etsy.com - seller74202,226.29,Shopping,Uncategorized
+T00802,VERIZON WIRELESS 36505,verizon wireless 36505,218.34,Utilities,Utilities
+T00816,CITY OF DALLAS WATER UT,city of dallas water ut,173.26,Utilities,Utilities
+T00662,SQ *THE COMEDY CLUB NY NY,sq *the comedy club ny ny,46.61,Entertainment,Uncategorized
+T00275,SQ *BLUE BOTTLE 18021 AUSTIN TX,sq *blue bottle 18021 austin tx,3.08,Coffee,Uncategorized
+T01425,DART RAIL OAKLAND CA,dart rail oakland ca,14.63,Transport,Uncategorized
+T01303,WHOLEFDS MKT 66532 SEATTLE WA,wholefds mkt 66532 seattle wa,77.2,Groceries,Groceries
+T00333,POS DEBIT H-E-B #4102,pos debit h-e-b #4102,148.03,Groceries,Uncategorized
+T00976,REGAL CINEMAS 62096 PHX AZ,regal cinemas 62096 phx az,83.38,Entertainment,Entertainment
+T00833,PARKING METER #62240 CHICAGO IL,parking meter #62240 chicago il,61.03,Transport,Transport
+T01060,TST* PHILZ COFFEE MIAMI FL,tst* philz coffee miami fl,5.88,Coffee,Coffee
+T01662,DART RAIL OAKLAND CA,dart rail oakland ca,53.5,Transport,Uncategorized
+T01838,LYFT *RIDE THU 4PM  ,lyft *ride thu 4pm,24.39,Transport,Transport
+T01941,POS DEBIT BP#81852,pos debit bp#81852,69.92,Gas,Uncategorized
+T00527,STARBUCKS STORE 83345,starbucks store 83345,7.25,Coffee,Coffee
+T00749,ALDI  0898 OAKLAND CA,aldi 0898 oakland ca,89.95,Groceries,Uncategorized
+T00378,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,3.78,Transport,Transport
+T01566,PARKING METER #83817 MIAMI FL,parking meter #83817 miami fl,55.93,Transport,Transport
+T01629,TXU ENERGY PAYMENT,txu energy payment,141.14,Utilities,Utilities
+T00767,PEETS COFFEE #456 AUSTIN TX,peets coffee #456 austin tx,8.47,Coffee,Coffee
+T01477,76 - 33 BOSTON MA,76 - 33 boston ma,94.73,Gas,Uncategorized
+T01752,SQ *THE COMEDY CLUB PHX AZ  ,sq *the comedy club phx az,16.45,Entertainment,Uncategorized
+T01536,verizon wireless 25,verizon wireless 25,44.38,Utilities,Utilities
+T01657,KROGER 0989 AUSTIN TX,kroger 0989 austin tx,199.22,Groceries,Groceries
+T00874,ALDI 14 DALLAS TX,aldi 14 dallas tx,187.8,Groceries,Uncategorized
+T01635,ALDI 922 DALLAS TX,aldi 922 dallas tx,124.12,Groceries,Uncategorized
+T00491,SQ *BLUE BOTTLE 70405 CHICAGO IL,sq *blue bottle 70405 chicago il,9.67,Coffee,Uncategorized
+T01019,TARGET 99253 PHX AZ  ,target 99253 phx az,72.93,Shopping,Shopping
+T00580,SQ *BLUE BOTTLE 2521 DALLAS TX,sq *blue bottle 2521 dallas tx,5.85,Coffee,Uncategorized
+T00542,PEETS COFFEE #5167 PHX AZ,peets coffee #5167 phx az,7.42,Coffee,Coffee
+T01215,CHEVRON 166,chevron 166,84.84,Gas,Gas
+T00673,STEAMGAMES.COM 970 WA,steamgames.com 970 wa,57.82,Entertainment,Uncategorized
+T00554,KROGER 7598 DALLAS TX,kroger 7598 dallas tx,205.36,Groceries,Groceries
+T00720,BEST BUY #2151 SEATTLE WA  ,best buy #2151 seattle wa,379.83,Shopping,Uncategorized
+T00151,WHOLEFDS MKT 161 AUSTIN TX,wholefds mkt 161 austin tx,150.7,Groceries,Groceries
+T01538,COMCAST CABLE COMM 464,comcast cable comm 464,239.86,Utilities,Utilities
+T00607,LA FITNESS 1393 BOSTON MA,la fitness 1393 boston ma,184.47,Health,Health
+T00169,SQ *LOCAL GROUNDS AUSTIN TX,sq *local grounds austin tx,6.48,Coffee,Uncategorized
+T01925,POS DEBIT H-E-B #402,pos debit h-e-b #402,177.38,Groceries,Uncategorized
+T01378,ETSY.COM - SELLER391,etsy.com - seller391,457.09,Shopping,Uncategorized
+T00781,TST* PHILZ COFFEE BOSTON MA,tst* philz coffee boston ma,8.65,Coffee,Coffee
+T00457,DOORDASH*MCDONALDS,doordash*mcdonalds,26.59,Restaurants,Restaurants
+T00280,ETSY.COM - SELLER83,etsy.com - seller83,186.02,Shopping,Uncategorized
+T01896,SQ *LOCAL GROUNDS SEATTLE WA,sq *local grounds seattle wa,9.05,Coffee,Uncategorized
+T01887,DOORDASH*MCDONALDS,doordash*mcdonalds,26.76,Restaurants,Restaurants
+T01964,ONCOR ELECTRIC DELIVERY  ,oncor electric delivery,268.63,Utilities,Utilities
+T00178,GRUBHUB*THAI BASIL OAKLAND CA,grubhub*thai basil oakland ca,123.89,Restaurants,Restaurants
+T01271,SQ  *THE COMEDY CLUB AUSTIN TX,sq *the comedy club austin tx,43.12,Entertainment,Uncategorized
+T00201,TST* OLIVE & VINE DENVER CO,tst* olive & vine denver co,128.93,Restaurants,Uncategorized
+T00131,KROGER 36666 SEATTLE WA,kroger 36666 seattle wa,106.16,Groceries,Groceries
+T01462,ATT*BILL PAYMENT 79,att*bill payment 79,173.42,Utilities,Uncategorized
+T01162,76 - 011 MIAMI FL,76 - 011 miami fl,86.32,Gas,Uncategorized
+T00739,CHIPOTLE  32 CHICAGO IL,chipotle 32 chicago il,121.01,Restaurants,Restaurants
+T01016,SQ *CITY DENTAL PHX AZ,sq *city dental phx az,167.72,Health,Uncategorized
+T01206,ATT*BILL PAYMENT 95435,att*bill payment 95435,177.25,Utilities,Uncategorized
+T00834,REGAL CINEMAS 5049 PHX AZ  ,regal cinemas 5049 phx az,68.11,Entertainment,Entertainment
+T01871,UBER *TRIP NY NY,uber *trip ny ny,56.04,Transport,Transport
+T00550,SQ *CITY DENTAL CHICAGO IL,sq *city dental chicago il,151.96,Health,Uncategorized
+T01132,AMZN  MKTP US*843 AMZN.COM/BILL WA,amzn mktp us*843 amzn.com/bill wa,314.16,Shopping,Shopping
+T00062,walmart supercenter #8849,walmart supercenter #8849,188.79,Shopping,Shopping
+T00398,SQ *THE BOOK NOOK AUSTIN TX,sq *the book nook austin tx,389.46,Shopping,Uncategorized
+T00758,TXU ENERGY PAYMENT,txu energy payment,180.8,Utilities,Utilities
+T01608,CITY OF DALLAS WATER UT,city of dallas water ut,207.3,Utilities,Utilities
+T00258,SQ *TAQUERIA EL SOL DENVER CO,sq *taqueria el sol denver co,102.02,Restaurants,Uncategorized
+T00516,ATT*BILL PAYMENT 2,att*bill payment 2,173.7,Utilities,Uncategorized
+T01701,POS  DEBIT H-E-B #60,pos debit h-e-b #60,163.59,Groceries,Uncategorized
+T00095,CITY OF DALLAS WATER UT  ,city of dallas water ut,153.81,Utilities,Utilities
+T00686,DART RAIL DALLAS TX  ,dart rail dallas tx,42.85,Transport,Uncategorized
+T01381,TST* OLIVE & VINE BOSTON MA,tst* olive & vine boston ma,84.53,Restaurants,Uncategorized
+T01914,SQ *CITY DENTAL AUSTIN TX,sq *city dental austin tx,149.02,Health,Uncategorized
+T01224,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,117.35,Health,Uncategorized
+T00107,SPOTIFY USA 70592,spotify usa 70592,70.08,Entertainment,Entertainment
+T01471,pos debit h-e-b #375,pos debit h-e-b #375,64.83,Groceries,Uncategorized
+T00400,DOORDASH*MCDONALDS,doordash*mcdonalds,127.26,Restaurants,Restaurants
+T00069,CVS/PHARMACY #3673 OAKLAND CA,cvs/pharmacy #3673 oakland ca,247.4,Health,Health
+T00324,DUNKIN #8720 PHX AZ,dunkin #8720 phx az,5.91,Coffee,Coffee
+T01119,SQ *BLUE BOTTLE 84 NY NY,sq *blue bottle 84 ny ny,5.52,Coffee,Uncategorized
+T00768,WALGREENS #3206,walgreens #3206,121.36,Health,Health
+T00645,WALGREENS #23,walgreens #23,19.18,Health,Health
+T01418,POS DEBIT BP#478,pos debit bp#478,71.08,Gas,Uncategorized
+T01490,WALGREENS  #4510,walgreens #4510,199.15,Health,Health
+T01078,DUNKIN  #41195 OAKLAND CA,dunkin #41195 oakland ca,4.86,Coffee,Coffee
+T00463,VERIZON WIRELESS 8259,verizon wireless 8259,286.88,Utilities,Utilities
+T00186,ONCOR ELECTRIC DELIVERY,oncor electric delivery,58.54,Utilities,Utilities
+T00302,TXU ENERGY PAYMENT,txu energy payment,215.84,Utilities,Utilities
+T01627,DART RAIL NY NY,dart rail ny ny,31.62,Transport,Uncategorized
+T00180,ONCOR ELECTRIC DELIVERY,oncor electric delivery,149.1,Utilities,Utilities
+T01255,NETFLIX.COM 02,netflix.com 02,20.05,Entertainment,Entertainment
+T01155,TRADER JOE'S #46,trader joe's #46,112.15,Groceries,Groceries
+T00165,POS DEBIT H-E-B #78,pos debit h-e-b #78,210.62,Groceries,Uncategorized
+T01519,DOORDASH*MCDONALDS,doordash*mcdonalds,104.74,Restaurants,Restaurants
+T00010,CITY OF DALLAS WATER UT,city of dallas water ut,143.8,Utilities,Utilities
+T01249,TST* OLIVE & VINE NY NY  ,tst* olive & vine ny ny,24.93,Restaurants,Uncategorized
+T00977,STARBUCKS STORE 916,starbucks store 916,6.56,Coffee,Coffee
+T01978,UBER *TRIP AUSTIN TX,uber *trip austin tx,27.51,Transport,Transport
+T01481,POS DEBIT H-E-B #365,pos debit h-e-b #365,145.92,Groceries,Uncategorized
+T01235,ATT*BILL PAYMENT 90,att*bill payment 90,182.83,Utilities,Uncategorized
+T01539,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,131.84,Health,Uncategorized
+T01335,SQ *CITY DENTAL NY NY,sq *city dental ny ny,83.27,Health,Uncategorized
+T00796,KROGER 66 DENVER CO,kroger 66 denver co,159.47,Groceries,Groceries
+T00345,TST* OLIVE & VINE BOSTON MA,tst* olive & vine boston ma,66.22,Restaurants,Uncategorized
+T01760,GRUBHUB*THAI BASIL PHX AZ,grubhub*thai basil phx az,137.27,Restaurants,Restaurants
+T00189,SHELL OIL 8945 DALLAS TX,shell oil 8945 dallas tx,72.93,Gas,Gas
+T00626,RITE AID #23 DALLAS TX,rite aid #23 dallas tx,201.36,Health,Uncategorized
+T00952,PARKING METER #966 PHX AZ,parking meter #966 phx az,50.14,Transport,Transport
+T01982,TST* THE CORNER DINER,tst* the corner diner,94.99,Restaurants,Restaurants
+T01364,SAFEWAY #92382 DENVER CO,safeway #92382 denver co,192.12,Groceries,Groceries
+T01511,POS DEBIT H-E-B #36289,pos debit h-e-b #36289,218.84,Groceries,Uncategorized
+T00894,lyft *ride thu 4pm,lyft *ride thu 4pm,24.92,Transport,Transport
+T01116,ONCOR ELECTRIC DELIVERY,oncor electric delivery,119.27,Utilities,Utilities
+T00859,STEAMGAMES.COM 92 WA,steamgames.com 92 wa,23.11,Entertainment,Uncategorized
+T01151,WHOLEFDS  MKT 95251 DALLAS TX,wholefds mkt 95251 dallas tx,218.93,Groceries,Groceries
+T01854,WALMART SUPERCENTER #414,walmart supercenter #414,125.54,Shopping,Shopping
+T00733,STEAMGAMES.COM 163 WA,steamgames.com 163 wa,29.95,Entertainment,Uncategorized
+T00197,PARKING METER #35986 AUSTIN TX,parking meter #35986 austin tx,27.59,Transport,Transport
+T01324,WALGREENS #7678,walgreens #7678,147.86,Health,Health
+T00327,COMCAST CABLE COMM 591,comcast cable comm 591,55.77,Utilities,Utilities
+T00316,76 - 501 DALLAS TX,76 - 501 dallas tx,83.94,Gas,Uncategorized
+T00462,txu energy payment,txu energy payment,259.19,Utilities,Utilities
+T01292,PARKING METER #22 AUSTIN TX,parking meter #22 austin tx,25.79,Transport,Transport
+T00030,CVS/PHARMACY #936 PHX AZ,cvs/pharmacy #936 phx az,239.85,Health,Health
+T01191,CITY OF DALLAS WATER UT,city of dallas water ut,194.08,Utilities,Utilities
+T00726,LYFT *RIDE THU 4PM  ,lyft *ride thu 4pm,19.26,Transport,Transport
+T00761,pos debit quest diagnostic,pos debit quest diagnostic,39.23,Health,Uncategorized
+T01726,TST* PHILZ COFFEE DALLAS TX,tst* philz coffee dallas tx,5.64,Coffee,Coffee
+T01192,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,33.47,Transport,Transport
+T00968,SQ *TAQUERIA EL SOL CHICAGO IL,sq *taqueria el sol chicago il,55.5,Restaurants,Uncategorized
+T01445,KROGER 43 MIAMI FL,kroger 43 miami fl,52.71,Groceries,Groceries
+T00319,AMZN MKTP US*3683 AMZN.COM/BILL WA,amzn mktp us*3683 amzn.com/bill wa,274.99,Shopping,Shopping
+T01737,SPOTIFY USA 679,spotify usa 679,14.32,Entertainment,Entertainment
+T00166,sq *the comedy club boston ma,sq *the comedy club boston ma,11.2,Entertainment,Uncategorized
+T01596,DOORDASH*MCDONALDS,doordash*mcdonalds,128.44,Restaurants,Restaurants
+T01314,SHELL OIL 715 DENVER CO,shell oil 715 denver co,26.49,Gas,Gas
+T01280,DUNKIN #51211 AUSTIN TX,dunkin #51211 austin tx,7.35,Coffee,Coffee
+T01498,AMZN MKTP US*213 AMZN.COM/BILL WA,amzn mktp us*213 amzn.com/bill wa,19.18,Shopping,Shopping
+T00689,POS DEBIT BP#73,pos debit bp#73,43.85,Gas,Uncategorized
+T01783,SPOTIFY USA 27,spotify usa 27,55.6,Entertainment,Entertainment
+T00442,AMC ONLINE #2,amc online #2,76.16,Entertainment,Entertainment
+T00446,MTA*NYCT PAYGO AUSTIN TX,mta*nyct paygo austin tx,23.59,Transport,Uncategorized
+T01452,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,48.78,Transport,Uncategorized
+T00571,REGAL CINEMAS 29 DALLAS TX  ,regal cinemas 29 dallas tx,24.24,Entertainment,Entertainment
+T01499,CITY OF DALLAS WATER UT,city of dallas water ut,270.51,Utilities,Utilities
+T00385,TXU ENERGY PAYMENT,txu energy payment,190.53,Utilities,Utilities
+T01977,POS DEBIT H-E-B #184,pos debit h-e-b #184,47.64,Groceries,Uncategorized
+T01580,SQ *LOCAL GROUNDS MIAMI FL,sq *local grounds miami fl,7.07,Coffee,Uncategorized
+T00049,CVS/PHARMACY #75574 CHICAGO IL  ,cvs/pharmacy #75574 chicago il,119.01,Health,Health
+T00184,LA FITNESS 99 NY NY,la fitness 99 ny ny,21.94,Health,Health
+T00257,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,28.41,Transport,Transport
+T00941,STARBUCKS STORE 97,starbucks store 97,10.35,Coffee,Coffee
+T01533,CHEVRON 95,chevron 95,68.05,Gas,Gas
+T01484,SQ *TAQUERIA EL SOL PHX AZ,sq *taqueria el sol phx az,47.52,Restaurants,Uncategorized
+T01134,sq *local grounds chicago il,sq *local grounds chicago il,11.74,Coffee,Uncategorized
+T00309,LA FITNESS 30389 DALLAS TX,la fitness 30389 dallas tx,174.33,Health,Health
+T01690,NETFLIX.COM 1320,netflix.com 1320,19.79,Entertainment,Entertainment
+T01686,SPOTIFY USA 97,spotify usa 97,60.16,Entertainment,Entertainment
+T01983,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,41.44,Transport,Transport
+T01092,SQ *CITY DENTAL CHICAGO IL  ,sq *city dental chicago il,138.39,Health,Uncategorized
+T00026,SQ *TAQUERIA EL SOL DALLAS TX,sq *taqueria el sol dallas tx,47.65,Restaurants,Uncategorized
+T00721,oncor electric delivery,oncor electric delivery,194.32,Utilities,Utilities
+T00008,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,12.29,Transport,Transport
+T01551,CHEVRON 18665  ,chevron 18665,33.21,Gas,Gas
+T00389,PARKING METER #13294 PHX AZ,parking meter #13294 phx az,45.29,Transport,Transport
+T01548,SAFEWAY #3420 OAKLAND CA,safeway #3420 oakland ca,43.76,Groceries,Groceries
+T01368,ATT*BILL PAYMENT 548,att*bill payment 548,203.66,Utilities,Uncategorized
+T01647,KROGER 85 BOSTON MA,kroger 85 boston ma,19.72,Groceries,Groceries
+T00727,CIRCLE K # 9067,circle k # 9067,65.74,Gas,Uncategorized
+T01304,SQ *BLUE BOTTLE 99 BOSTON MA,sq *blue bottle 99 boston ma,6.41,Coffee,Uncategorized
+T01575,PARKING METER #1262 SEATTLE WA,parking meter #1262 seattle wa,64.13,Transport,Transport
+T00528,ONCOR  ELECTRIC DELIVERY,oncor electric delivery,45.38,Utilities,Utilities
+T00103,CVS/PHARMACY #12217 AUSTIN TX,cvs/pharmacy #12217 austin tx,39.37,Health,Health
+T00887,SPOTIFY USA 6395,spotify usa 6395,73.18,Entertainment,Entertainment
+T01015,UBER *TRIP CHICAGO IL,uber *trip chicago il,33.47,Transport,Transport
+T00421,VERIZON WIRELESS 2292,verizon wireless 2292,106.34,Utilities,Utilities
+T01325,SPOTIFY  USA 4524,spotify usa 4524,58.95,Entertainment,Entertainment
+T00723,SHELL OIL 647 CHICAGO IL,shell oil 647 chicago il,31.81,Gas,Gas
+T01160,ATT*BILL PAYMENT 481,att*bill payment 481,117.36,Utilities,Uncategorized
+T01393,SQ *CITY DENTAL AUSTIN TX,sq *city dental austin tx,80.0,Health,Uncategorized
+T01238,VERIZON WIRELESS 87586,verizon wireless 87586,193.92,Utilities,Utilities
+T00569,AMZN MKTP US*80967 AMZN.COM/BILL WA,amzn mktp us*80967 amzn.com/bill wa,240.22,Shopping,Shopping
+T00551,POS DEBIT H-E-B #61,pos debit h-e-b #61,144.12,Groceries,Uncategorized
+T00611,EXXONMOBIL 81681 DENVER CO  ,exxonmobil 81681 denver co,82.27,Gas,Gas
+T00233,AMZN MKTP US*51712 AMZN.COM/BILL WA,amzn mktp us*51712 amzn.com/bill wa,143.76,Shopping,Shopping
+T00064,TXU ENERGY PAYMENT  ,txu energy payment,131.73,Utilities,Utilities
+T00700,SQ *LOCAL GROUNDS DALLAS TX,sq *local grounds dallas tx,7.29,Coffee,Uncategorized
+T01874,POS DEBIT H-E-B #94166,pos debit h-e-b #94166,59.79,Groceries,Uncategorized
+T01841,ALDI 81 NY NY,aldi 81 ny ny,183.54,Groceries,Uncategorized
+T00486,CHIPOTLE 50860 MIAMI FL,chipotle 50860 miami fl,14.16,Restaurants,Restaurants
+T01943,EXXONMOBIL 37 BOSTON MA,exxonmobil 37 boston ma,64.86,Gas,Gas
+T01788,safeway #3169 boston ma,safeway #3169 boston ma,218.38,Groceries,Groceries
+T01661,STEAMGAMES.COM 20012 WA,steamgames.com 20012 wa,8.06,Entertainment,Uncategorized
+T00964,CITY OF DALLAS WATER UT,city of dallas water ut,287.99,Utilities,Utilities
+T00836,ONCOR ELECTRIC DELIVERY,oncor electric delivery,243.08,Utilities,Utilities
+T01832,TST* OLIVE & VINE DENVER CO,tst* olive & vine denver co,76.06,Restaurants,Uncategorized
+T01582,UBER  *TRIP PHX AZ,uber *trip phx az,63.57,Transport,Transport
+T00490,ETSY.COM - SELLER305,etsy.com - seller305,269.99,Shopping,Uncategorized
+T00704,COMCAST CABLE COMM 751,comcast cable comm 751,224.83,Utilities,Utilities
+T01646,VERIZON WIRELESS 2168,verizon wireless 2168,169.43,Utilities,Utilities
+T01434,safeway #83 oakland ca,safeway #83 oakland ca,41.39,Groceries,Groceries
+T01903,VERIZON WIRELESS 70  ,verizon wireless 70,92.18,Utilities,Utilities
+T00614,SQ *TAQUERIA EL SOL PHX AZ,sq *taqueria el sol phx az,30.09,Restaurants,Uncategorized
+T01148,DUNKIN #182 BOSTON MA,dunkin #182 boston ma,4.63,Coffee,Coffee
+T01186,CHIPOTLE 76 OAKLAND CA,chipotle 76 oakland ca,58.27,Restaurants,Restaurants
+T00805,TXU ENERGY PAYMENT,txu energy payment,244.05,Utilities,Utilities
+T01570,POS DEBIT H-E-B #9340,pos debit h-e-b #9340,105.72,Groceries,Uncategorized
+T01894,SQ *BLUE BOTTLE 92 AUSTIN TX,sq *blue bottle 92 austin tx,9.82,Coffee,Uncategorized
+T00676,SAFEWAY #38 MIAMI FL,safeway #38 miami fl,63.91,Groceries,Groceries
+T00322,AMZN MKTP US*34447 AMZN.COM/BILL WA,amzn mktp us*34447 amzn.com/bill wa,477.15,Shopping,Shopping
+T01550,TRADER JOE'S #2300,trader joe's #2300,135.12,Groceries,Groceries
+T01561,VERIZON WIRELESS 27,verizon wireless 27,125.46,Utilities,Utilities
+T00349,shell oil 90 oakland ca,shell oil 90 oakland ca,91.71,Gas,Gas
+T00336,VERIZON WIRELESS 489,verizon wireless 489,235.96,Utilities,Utilities
+T00093,DOORDASH*MCDONALDS,doordash*mcdonalds,117.81,Restaurants,Restaurants
+T00706,AMC ONLINE #742,amc online #742,7.99,Entertainment,Entertainment
+T00734,WALMART SUPERCENTER #5677,walmart supercenter #5677,91.02,Shopping,Shopping
+T00793,WHOLEFDS MKT 67 NY NY,wholefds mkt 67 ny ny,50.21,Groceries,Groceries
+T01346,CVS/PHARMACY #917 PHX AZ,cvs/pharmacy #917 phx az,178.48,Health,Health
+T00519,TXU ENERGY PAYMENT,txu energy payment,293.07,Utilities,Utilities
+T00909,NETFLIX.COM  728,netflix.com 728,11.22,Entertainment,Entertainment
+T00451,TST* THE CORNER DINER,tst* the corner diner,43.82,Restaurants,Restaurants
+T00563,TXU ENERGY PAYMENT,txu energy payment,59.63,Utilities,Utilities
+T00634,SQ *CITY DENTAL BOSTON MA,sq *city dental boston ma,201.29,Health,Uncategorized
+T00797,SQ *BLUE BOTTLE 8088 MIAMI FL,sq *blue bottle 8088 miami fl,8.4,Coffee,Uncategorized
+T01413,TARGET 6782 NY NY,target 6782 ny ny,102.03,Shopping,Shopping
+T00596,VERIZON WIRELESS 95140,verizon wireless 95140,185.05,Utilities,Utilities
+T01522,ONCOR ELECTRIC DELIVERY,oncor electric delivery,268.15,Utilities,Utilities
+T00938,POS  DEBIT BP#99937,pos debit bp#99937,86.37,Gas,Uncategorized
+T00633,DART RAIL DENVER CO,dart rail denver co,57.3,Transport,Uncategorized
+T00778,SAFEWAY #08745 PHX AZ,safeway #08745 phx az,104.39,Groceries,Groceries
+T00680,POS  DEBIT H-E-B #42914,pos debit h-e-b #42914,182.49,Groceries,Uncategorized
+T01670,CHIPOTLE 36769 PHX AZ,chipotle 36769 phx az,101.39,Restaurants,Restaurants
+T00433,KROGER 2736 OAKLAND CA,kroger 2736 oakland ca,74.62,Groceries,Groceries
+T00776,best buy #29428 oakland ca,best buy #29428 oakland ca,149.68,Shopping,Uncategorized
+T01528,SQ *THE BOOK NOOK SEATTLE WA  ,sq *the book nook seattle wa,230.08,Shopping,Uncategorized
+T01244,SQ *THE BOOK NOOK AUSTIN TX,sq *the book nook austin tx,121.55,Shopping,Uncategorized
+T00642,SHELL OIL 983 OAKLAND CA,shell oil 983 oakland ca,42.72,Gas,Gas
+T00404,LA FITNESS 53 DALLAS TX,la fitness 53 dallas tx,155.67,Health,Health
+T01476,CHEVRON 6295  ,chevron 6295,39.82,Gas,Gas
+T00638,DOORDASH*MCDONALDS,doordash*mcdonalds,27.81,Restaurants,Restaurants
+T00335,TRADER JOE'S #531  ,trader joe's #531,85.43,Groceries,Groceries
+T00232,CHIPOTLE 3396 SEATTLE WA,chipotle 3396 seattle wa,83.74,Restaurants,Restaurants
+T00108,AMC ONLINE #714,amc online #714,77.91,Entertainment,Entertainment
+T00530,pos debit quest diagnostic,pos debit quest diagnostic,19.02,Health,Uncategorized
+T00424,AMZN MKTP US*16769 AMZN.COM/BILL WA,amzn mktp us*16769 amzn.com/bill wa,94.41,Shopping,Shopping
+T01691,76 - 80 CHICAGO IL,76 - 80 chicago il,60.76,Gas,Uncategorized
+T00454,COMCAST CABLE COMM 080,comcast cable comm 080,158.23,Utilities,Utilities
+T00082,MTA*NYCT PAYGO CHICAGO IL,mta*nyct paygo chicago il,47.44,Transport,Uncategorized
+T01419,uber* eats help.uber.com,uber* eats help.uber.com,31.96,Transport,Transport
+T00803,SQ  *THE COMEDY CLUB AUSTIN TX,sq *the comedy club austin tx,47.1,Entertainment,Uncategorized
+T01487,TST* OLIVE & VINE CHICAGO IL,tst* olive & vine chicago il,86.46,Restaurants,Uncategorized
+T01204,SQ *BLUE BOTTLE 809 BOSTON MA,sq *blue bottle 809 boston ma,8.4,Coffee,Uncategorized
+T01603,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,233.09,Health,Uncategorized
+T00940,DART RAIL AUSTIN TX,dart rail austin tx,60.98,Transport,Uncategorized
+T01361,DART RAIL NY NY,dart rail ny ny,44.08,Transport,Uncategorized
+T01543,POS DEBIT BP#145,pos debit bp#145,77.12,Gas,Uncategorized
+T00555,ONCOR ELECTRIC DELIVERY,oncor electric delivery,214.58,Utilities,Utilities
+T01773,ALDI 73 CHICAGO IL,aldi 73 chicago il,208.11,Groceries,Uncategorized
+T01153,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,35.63,Transport,Transport
+T01579,DART RAIL AUSTIN TX,dart rail austin tx,19.39,Transport,Uncategorized
+T00888,chipotle 85 dallas tx,chipotle 85 dallas tx,32.01,Restaurants,Restaurants
+T00772,AMC  ONLINE #825,amc online #825,55.32,Entertainment,Entertainment
+T00587,76  - 5285 SEATTLE WA,76 - 5285 seattle wa,61.62,Gas,Uncategorized
+T01999,TST* OLIVE & VINE BOSTON MA,tst* olive & vine boston ma,21.54,Restaurants,Uncategorized
+T00609,SQ *TAQUERIA EL SOL SEATTLE WA,sq *taqueria el sol seattle wa,85.73,Restaurants,Uncategorized
+T00986,SPOTIFY USA 94700,spotify usa 94700,32.3,Entertainment,Entertainment
+T01365,VERIZON WIRELESS 029,verizon wireless 029,279.7,Utilities,Utilities
+T01660,SQ *TAQUERIA EL SOL MIAMI FL,sq *taqueria el sol miami fl,71.09,Restaurants,Uncategorized
+T00529,TXU ENERGY PAYMENT,txu energy payment,155.72,Utilities,Utilities
+T01677,comcast cable comm 38,comcast cable comm 38,41.95,Utilities,Utilities
+T01893,CVS/PHARMACY #7551 CHICAGO IL,cvs/pharmacy #7551 chicago il,94.42,Health,Health
+T00496,76 - 5182 DALLAS TX  ,76 - 5182 dallas tx,42.23,Gas,Uncategorized
+T00759,steamgames.com 9293 wa,steamgames.com 9293 wa,27.84,Entertainment,Uncategorized
+T01070,POS  DEBIT BP#89056,pos debit bp#89056,93.19,Gas,Uncategorized
+T01527,EXXONMOBIL 20 DENVER CO,exxonmobil 20 denver co,53.26,Gas,Gas
+T00855,AMC ONLINE #7046,amc online #7046,69.97,Entertainment,Entertainment
+T00412,TST* PHILZ COFFEE DENVER CO,tst* philz coffee denver co,8.72,Coffee,Coffee
+T01403,SQ *LOCAL GROUNDS PHX AZ,sq *local grounds phx az,10.77,Coffee,Uncategorized
+T01968,CITY OF DALLAS WATER UT,city of dallas water ut,49.55,Utilities,Utilities
+T00029,BEST BUY #6930 DALLAS TX,best buy #6930 dallas tx,110.75,Shopping,Uncategorized
+T01263,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,11.46,Transport,Uncategorized
+T00297,DOORDASH*MCDONALDS,doordash*mcdonalds,100.95,Restaurants,Restaurants
+T00876,SQ *TAQUERIA EL SOL AUSTIN TX,sq *taqueria el sol austin tx,14.29,Restaurants,Uncategorized
+T00198,SHELL  OIL 869 OAKLAND CA,shell oil 869 oakland ca,41.52,Gas,Gas
+T01958,GRUBHUB*THAI BASIL DALLAS TX  ,grubhub*thai basil dallas tx,59.15,Restaurants,Restaurants
+T01619,UBER *TRIP NY NY  ,uber *trip ny ny,2.22,Transport,Transport
+T00326,etsy.com - seller718,etsy.com - seller718,160.03,Shopping,Uncategorized
+T01086,TST* THE CORNER DINER,tst* the corner diner,52.49,Restaurants,Restaurants
+T01451,SQ *THE COMEDY CLUB BOSTON MA,sq *the comedy club boston ma,84.11,Entertainment,Uncategorized
+T01278,CHEVRON 308,chevron 308,68.66,Gas,Gas
+T00128,PARKING METER #663 DENVER CO,parking meter #663 denver co,21.04,Transport,Transport
+T01827,DUNKIN #9834 DENVER CO,dunkin #9834 denver co,4.92,Coffee,Coffee
+T01829,TST* OLIVE & VINE NY NY,tst* olive & vine ny ny,14.65,Restaurants,Uncategorized
+T00508,steamgames.com 64 wa,steamgames.com 64 wa,12.48,Entertainment,Uncategorized
+T01449,TST* OLIVE & VINE CHICAGO IL,tst* olive & vine chicago il,88.68,Restaurants,Uncategorized
+T00769,ALDI 25486 SEATTLE WA,aldi 25486 seattle wa,119.87,Groceries,Uncategorized
+T01563,NETFLIX.COM 7507,netflix.com 7507,70.75,Entertainment,Entertainment
+T01025,WALGREENS #519,walgreens #519,87.87,Health,Health
+T01928,POS DEBIT BP#174,pos debit bp#174,60.41,Gas,Uncategorized
+T01030,TXU ENERGY PAYMENT,txu energy payment,88.82,Utilities,Utilities
+T00718,ETSY.COM  - SELLER13994,etsy.com - seller13994,306.68,Shopping,Uncategorized
+T00799,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,34.93,Transport,Transport
+T01316,PEETS COFFEE #58198 NY NY,peets coffee #58198 ny ny,4.66,Coffee,Coffee
+T01175,SQ *LOCAL GROUNDS PHX AZ,sq *local grounds phx az,11.62,Coffee,Uncategorized
+T00097,SQ *THE COMEDY CLUB PHX AZ,sq *the comedy club phx az,74.4,Entertainment,Uncategorized
+T00910,SPOTIFY USA 10233,spotify usa 10233,52.95,Entertainment,Entertainment
+T01774,TST* OLIVE & VINE AUSTIN TX,tst* olive & vine austin tx,46.44,Restaurants,Uncategorized
+T00329,REGAL CINEMAS 1037 NY NY,regal cinemas 1037 ny ny,75.29,Entertainment,Entertainment
+T00261,CHIPOTLE 676 MIAMI FL,chipotle 676 miami fl,19.8,Restaurants,Restaurants
+T00980,STEAMGAMES.COM 48170 WA,steamgames.com 48170 wa,8.08,Entertainment,Uncategorized
+T01248,SQ *THE BOOK NOOK AUSTIN TX,sq *the book nook austin tx,313.07,Shopping,Uncategorized
+T01026,DOORDASH*MCDONALDS,doordash*mcdonalds,69.38,Restaurants,Restaurants
+T00350,RITE AID #2735 DALLAS TX,rite aid #2735 dallas tx,228.37,Health,Uncategorized
+T00886,DOORDASH*MCDONALDS,doordash*mcdonalds,128.36,Restaurants,Restaurants
+T00839,SAFEWAY #78920 DENVER CO,safeway #78920 denver co,171.2,Groceries,Groceries
+T00737,ATT*BILL PAYMENT 60,att*bill payment 60,74.86,Utilities,Uncategorized
+T00487,ALDI 82 PHX AZ  ,aldi 82 phx az,188.89,Groceries,Uncategorized
+T00219,SPOTIFY USA 597  ,spotify usa 597,47.57,Entertainment,Entertainment
+T01147,WALMART SUPERCENTER #78,walmart supercenter #78,444.46,Shopping,Shopping
+T01213,WHOLEFDS  MKT 47369 MIAMI FL,wholefds mkt 47369 miami fl,178.07,Groceries,Groceries
+T01721,STEAMGAMES.COM 54 WA,steamgames.com 54 wa,37.92,Entertainment,Uncategorized
+T01803,STEAMGAMES.COM 77125 WA,steamgames.com 77125 wa,25.75,Entertainment,Uncategorized
+T01108,UBER* EATS HELP.UBER.COM  ,uber* eats help.uber.com,26.86,Transport,Transport
+T01497,ONCOR ELECTRIC DELIVERY,oncor electric delivery,73.48,Utilities,Utilities
+T00835,CHIPOTLE 40536 AUSTIN TX,chipotle 40536 austin tx,42.26,Restaurants,Restaurants
+T01219,WALMART SUPERCENTER #26114,walmart supercenter #26114,315.71,Shopping,Shopping
+T01001,ETSY.COM - SELLER1093,etsy.com - seller1093,367.6,Shopping,Uncategorized
+T00774,wholefds mkt 83729 miami fl,wholefds mkt 83729 miami fl,109.73,Groceries,Groceries
+T01906,ETSY.COM - SELLER560,etsy.com - seller560,125.54,Shopping,Uncategorized
+T01399,steamgames.com 1970 wa,steamgames.com 1970 wa,78.76,Entertainment,Uncategorized
+T01230,ATT*BILL PAYMENT 36,att*bill payment 36,285.7,Utilities,Uncategorized
+T00743,76 - 53 OAKLAND CA,76 - 53 oakland ca,76.34,Gas,Uncategorized
+T00775,CHEVRON 852,chevron 852,27.96,Gas,Gas
+T00601,POS DEBIT H-E-B #7905,pos debit h-e-b #7905,156.37,Groceries,Uncategorized
+T00967,TRADER JOE'S #7215,trader joe's #7215,88.78,Groceries,Groceries
+T01111,CHEVRON 8192  ,chevron 8192,83.09,Gas,Gas
+T01229,STEAMGAMES.COM  35 WA,steamgames.com 35 wa,20.38,Entertainment,Uncategorized
+T01410,SQ  *THE COMEDY CLUB AUSTIN TX,sq *the comedy club austin tx,13.61,Entertainment,Uncategorized
+T01374,ATT*BILL PAYMENT 1391,att*bill payment 1391,228.46,Utilities,Uncategorized
+T01534,CHIPOTLE 747 SEATTLE WA,chipotle 747 seattle wa,71.16,Restaurants,Restaurants
+T00065,TXU ENERGY PAYMENT,txu energy payment,42.98,Utilities,Utilities
+T00854,SHELL OIL 8690 DALLAS TX,shell oil 8690 dallas tx,46.93,Gas,Gas
+T00639,REGAL CINEMAS 1397 BOSTON MA,regal cinemas 1397 boston ma,19.43,Entertainment,Entertainment
+T00023,ALDI 285 NY NY,aldi 285 ny ny,163.29,Groceries,Uncategorized
+T00436,SHELL OIL 0612 CHICAGO IL,shell oil 0612 chicago il,68.62,Gas,Gas
+T01810,CIRCLE K # 63  ,circle k # 63,84.65,Gas,Uncategorized
+T01207,TST* OLIVE & VINE PHX AZ,tst* olive & vine phx az,119.91,Restaurants,Uncategorized
+T00617,UBER *TRIP NY NY,uber *trip ny ny,34.04,Transport,Transport
+T00456,SQ *BLUE BOTTLE 8328 DENVER CO,sq *blue bottle 8328 denver co,6.27,Coffee,Uncategorized
+T00540,REGAL CINEMAS 240 CHICAGO IL,regal cinemas 240 chicago il,23.03,Entertainment,Entertainment
+T00992,SQ *LOCAL GROUNDS NY NY  ,sq *local grounds ny ny,11.67,Coffee,Uncategorized
+T01385,STARBUCKS STORE 21,starbucks store 21,4.02,Coffee,Coffee
+T00492,DOORDASH*MCDONALDS,doordash*mcdonalds,44.35,Restaurants,Restaurants
+T00405,ALDI 36 MIAMI FL,aldi 36 miami fl,149.23,Groceries,Uncategorized
+T00974,76 - 27425 DENVER CO,76 - 27425 denver co,68.04,Gas,Uncategorized
+T00141,SQ *CITY DENTAL BOSTON MA,sq *city dental boston ma,63.76,Health,Uncategorized
+T00447,COMCAST CABLE COMM 35629,comcast cable comm 35629,213.43,Utilities,Utilities
+T00043,LA FITNESS 947 DALLAS TX,la fitness 947 dallas tx,212.69,Health,Health
+T01618,SQ *BLUE BOTTLE 52 PHX AZ,sq *blue bottle 52 phx az,9.52,Coffee,Uncategorized
+T01868,WALMART SUPERCENTER #775,walmart supercenter #775,9.59,Shopping,Shopping
+T00514,CHEVRON 78753,chevron 78753,37.73,Gas,Gas
+T01517,TARGET 35530 NY NY,target 35530 ny ny,20.88,Shopping,Shopping
+T01097,SQ *BLUE BOTTLE 9079 OAKLAND CA,sq *blue bottle 9079 oakland ca,6.82,Coffee,Uncategorized
+T01784,BEST BUY #145 NY NY,best buy #145 ny ny,127.38,Shopping,Uncategorized
+T00548,76 - 833 CHICAGO IL,76 - 833 chicago il,63.87,Gas,Uncategorized
+T00912,CHEVRON 496,chevron 496,60.92,Gas,Gas
+T00228,CIRCLE K # 32  ,circle k # 32,46.96,Gas,Uncategorized
+T01441,ONCOR ELECTRIC DELIVERY,oncor electric delivery,133.24,Utilities,Utilities
+T01120,KROGER 258 SEATTLE WA,kroger 258 seattle wa,37.86,Groceries,Groceries
+T01101,ATT*BILL PAYMENT 1855,att*bill payment 1855,268.96,Utilities,Uncategorized
+T01822,DOORDASH*MCDONALDS,doordash*mcdonalds,70.42,Restaurants,Restaurants
+T00001,WHOLEFDS MKT 4012 DALLAS TX,wholefds mkt 4012 dallas tx,153.72,Groceries,Groceries
+T01796,DART RAIL SEATTLE WA,dart rail seattle wa,44.07,Transport,Uncategorized
+T01233,SQ *THE COMEDY CLUB DENVER CO,sq *the comedy club denver co,59.85,Entertainment,Uncategorized
+T00556,SQ *THE BOOK NOOK SEATTLE WA,sq *the book nook seattle wa,253.88,Shopping,Uncategorized
+T00282,ALDI 29 PHX AZ,aldi 29 phx az,24.55,Groceries,Uncategorized
+T01704,DUNKIN #84 CHICAGO IL,dunkin #84 chicago il,9.47,Coffee,Coffee
+T01455,walmart supercenter #7397,walmart supercenter #7397,284.09,Shopping,Shopping
+T00846,WHOLEFDS MKT 59468 AUSTIN TX,wholefds mkt 59468 austin tx,56.64,Groceries,Groceries
+T00249,WHOLEFDS MKT 586 DALLAS TX,wholefds mkt 586 dallas tx,121.67,Groceries,Groceries
+T01529,ONCOR  ELECTRIC DELIVERY,oncor electric delivery,130.88,Utilities,Utilities
+T01052,POS DEBIT H-E-B #38517,pos debit h-e-b #38517,194.63,Groceries,Uncategorized
+T01857,SQ *LOCAL GROUNDS DALLAS TX,sq *local grounds dallas tx,5.49,Coffee,Uncategorized
+T01273,DUNKIN #98 AUSTIN TX,dunkin #98 austin tx,8.54,Coffee,Coffee
+T00146,WALGREENS #672,walgreens #672,97.53,Health,Health
+T00396,SAFEWAY  #61727 CHICAGO IL,safeway #61727 chicago il,126.55,Groceries,Groceries
+T01076,WALGREENS #91847,walgreens #91847,144.1,Health,Health
+T00347,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,192.49,Health,Uncategorized
+T00575,ALDI 484 CHICAGO IL,aldi 484 chicago il,47.52,Groceries,Uncategorized
+T00157,TXU  ENERGY PAYMENT,txu energy payment,40.74,Utilities,Utilities
+T01178,UBER *TRIP CHICAGO IL,uber *trip chicago il,63.64,Transport,Transport
+T01293,WALGREENS #258,walgreens #258,66.37,Health,Health
+T01291,ONCOR ELECTRIC DELIVERY  ,oncor electric delivery,241.23,Utilities,Utilities
+T00156,KROGER 55 DENVER CO,kroger 55 denver co,191.73,Groceries,Groceries
+T01332,76 - 13 SEATTLE WA,76 - 13 seattle wa,79.66,Gas,Uncategorized
+T01118,SAFEWAY #4596 MIAMI FL,safeway #4596 miami fl,198.5,Groceries,Groceries
+T00464,BEST  BUY #4819 DALLAS TX,best buy #4819 dallas tx,292.39,Shopping,Uncategorized
+T00273,RITE AID #4216 DENVER CO,rite aid #4216 denver co,193.19,Health,Uncategorized
+T01234,PARKING METER #3 OAKLAND CA,parking meter #3 oakland ca,10.74,Transport,Transport
+T01478,SQ *THE COMEDY CLUB DALLAS TX,sq *the comedy club dallas tx,48.09,Entertainment,Uncategorized
+T00627,CITY OF DALLAS WATER UT,city of dallas water ut,64.36,Utilities,Utilities
+T00272,CITY OF DALLAS WATER UT,city of dallas water ut,264.17,Utilities,Utilities
+T00738,SPOTIFY USA 48953,spotify usa 48953,59.09,Entertainment,Entertainment
+T00959,CHEVRON  816,chevron 816,65.92,Gas,Gas
+T00560,CITY OF DALLAS WATER UT,city of dallas water ut,71.1,Utilities,Utilities
+T00393,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,8.04,Transport,Transport
+T01537,POS DEBIT BP#0191,pos debit bp#0191,38.14,Gas,Uncategorized
+T01735,SQ *TAQUERIA EL SOL OAKLAND CA,sq *taqueria el sol oakland ca,77.31,Restaurants,Uncategorized
+T01607,BEST BUY #3356 MIAMI FL,best buy #3356 miami fl,204.3,Shopping,Uncategorized
+T00290,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,37.09,Transport,Uncategorized
+T00931,WALGREENS #382,walgreens #382,115.94,Health,Health
+T00719,SHELL OIL 25 DENVER CO,shell oil 25 denver co,80.49,Gas,Gas
+T01090,SQ *THE BOOK NOOK PHX AZ,sq *the book nook phx az,268.33,Shopping,Uncategorized
+T00620,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,63.65,Transport,Transport
+T01274,GRUBHUB*THAI BASIL OAKLAND CA,grubhub*thai basil oakland ca,62.26,Restaurants,Restaurants
+T01386,SPOTIFY USA 18332  ,spotify usa 18332,15.88,Entertainment,Entertainment
+T01124,ETSY.COM - SELLER99744,etsy.com - seller99744,28.68,Shopping,Uncategorized
+T00300,KROGER 18242 NY NY,kroger 18242 ny ny,46.6,Groceries,Groceries
+T00187,ALDI 49 OAKLAND CA,aldi 49 oakland ca,216.11,Groceries,Uncategorized
+T01750,WALGREENS #92,walgreens #92,207.49,Health,Health
+T01541,DUNKIN #96 DENVER CO,dunkin #96 denver co,4.08,Coffee,Coffee
+T00988,EXXONMOBIL 63 SEATTLE WA,exxonmobil 63 seattle wa,54.8,Gas,Gas
+T00675,STEAMGAMES.COM 289 WA,steamgames.com 289 wa,48.67,Entertainment,Uncategorized
+T01174,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,223.99,Health,Uncategorized
+T01185,netflix.com 7447,netflix.com 7447,45.48,Entertainment,Entertainment
+T01720,REGAL CINEMAS 86 OAKLAND CA,regal cinemas 86 oakland ca,35.53,Entertainment,Entertainment
+T01931,DOORDASH*MCDONALDS,doordash*mcdonalds,24.29,Restaurants,Restaurants
+T00472,CVS/PHARMACY #95 NY NY,cvs/pharmacy #95 ny ny,205.23,Health,Health
+T00798,SPOTIFY USA 38088,spotify usa 38088,81.16,Entertainment,Entertainment
+T01436,ETSY.COM - SELLER77,etsy.com - seller77,231.51,Shopping,Uncategorized
+T01705,AMZN MKTP US*3081 AMZN.COM/BILL WA,amzn mktp us*3081 amzn.com/bill wa,478.04,Shopping,Shopping
+T01457,TXU ENERGY PAYMENT,txu energy payment,93.11,Utilities,Utilities
+T00741,76 - 088 BOSTON MA,76 - 088 boston ma,94.7,Gas,Uncategorized
+T01620,TXU ENERGY PAYMENT,txu energy payment,40.44,Utilities,Utilities
+T01057,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,48.81,Transport,Transport
+T00572,BEST  BUY #7597 SEATTLE WA,best buy #7597 seattle wa,362.27,Shopping,Uncategorized
+T00567,COMCAST CABLE COMM 167,comcast cable comm 167,56.78,Utilities,Utilities
+T01357,LYFT  *RIDE THU 4PM,lyft *ride thu 4pm,25.7,Transport,Transport
+T01711,PARKING METER #613 BOSTON MA,parking meter #613 boston ma,48.92,Transport,Transport
+T01145,SHELL OIL 24 MIAMI FL,shell oil 24 miami fl,49.73,Gas,Gas
+T01007,sq *local grounds seattle wa,sq *local grounds seattle wa,9.43,Coffee,Uncategorized
+T01348,SQ *CITY DENTAL MIAMI FL,sq *city dental miami fl,54.6,Health,Uncategorized
+T00500,TXU ENERGY PAYMENT,txu energy payment,280.85,Utilities,Utilities
+T00182,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,10.74,Transport,Transport
+T01320,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,241.17,Health,Uncategorized
+T01699,WHOLEFDS MKT 3527 MIAMI FL,wholefds mkt 3527 miami fl,91.43,Groceries,Groceries
+T01242,SQ *CITY DENTAL DALLAS TX,sq *city dental dallas tx,36.42,Health,Uncategorized
+T01889,SHELL OIL 551 DALLAS TX,shell oil 551 dallas tx,28.55,Gas,Gas
+T01594,GRUBHUB*THAI BASIL DENVER CO,grubhub*thai basil denver co,82.14,Restaurants,Restaurants
+T01253,SPOTIFY USA 85,spotify usa 85,20.91,Entertainment,Entertainment
+T00438,ALDI 7772 NY NY,aldi 7772 ny ny,144.21,Groceries,Uncategorized
+T00978,COMCAST CABLE COMM 957,comcast cable comm 957,71.94,Utilities,Utilities
+T00116,CHEVRON 78,chevron 78,59.84,Gas,Gas
+T00999,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,58.7,Transport,Transport
+T00595,76 - 46179 BOSTON MA,76 - 46179 boston ma,47.73,Gas,Uncategorized
+T01856,76  - 833 NY NY,76 - 833 ny ny,27.81,Gas,Uncategorized
+T01859,CHEVRON 47,chevron 47,61.32,Gas,Gas
+T00810,REGAL CINEMAS 62378 BOSTON MA  ,regal cinemas 62378 boston ma,28.12,Entertainment,Entertainment
+T00927,TST* PHILZ COFFEE DALLAS TX,tst* philz coffee dallas tx,5.92,Coffee,Coffee
+T00265,SQ *CITY DENTAL CHICAGO IL,sq *city dental chicago il,171.68,Health,Uncategorized
+T01289,PARKING METER #8856 OAKLAND CA,parking meter #8856 oakland ca,12.03,Transport,Transport
+T00731,WALMART  SUPERCENTER #599,walmart supercenter #599,258.25,Shopping,Shopping
+T00235,TARGET 78 NY NY  ,target 78 ny ny,435.25,Shopping,Shopping
+T01940,SAFEWAY #9405 OAKLAND CA,safeway #9405 oakland ca,107.89,Groceries,Groceries
+T00603,DART RAIL PHX AZ,dart rail phx az,41.93,Transport,Uncategorized
+T00045,PEETS COFFEE #204 SEATTLE WA,peets coffee #204 seattle wa,10.16,Coffee,Coffee
+T01747,MTA*NYCT PAYGO SEATTLE WA,mta*nyct paygo seattle wa,14.09,Transport,Uncategorized
+T01149,CIRCLE K # 4702,circle k # 4702,59.95,Gas,Uncategorized
+T00651,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,57.67,Transport,Transport
+T01308,SQ *BLUE BOTTLE 832 AUSTIN TX  ,sq *blue bottle 832 austin tx,6.95,Coffee,Uncategorized
+T00489,PEETS COFFEE #546 DALLAS TX,peets coffee #546 dallas tx,10.17,Coffee,Coffee
+T01345,VERIZON WIRELESS 97084,verizon wireless 97084,227.53,Utilities,Utilities
+T00953,SQ *THE COMEDY CLUB OAKLAND CA,sq *the comedy club oakland ca,80.77,Entertainment,Uncategorized
+T01000,STEAMGAMES.COM 715 WA,steamgames.com 715 wa,9.67,Entertainment,Uncategorized
+T01712,CHEVRON 10714,chevron 10714,63.08,Gas,Gas
+T01301,CHEVRON 1021  ,chevron 1021,91.36,Gas,Gas
+T00402,POS DEBIT H-E-B #26465,pos debit h-e-b #26465,201.71,Groceries,Uncategorized
+T00771,MTA*NYCT PAYGO NY NY,mta*nyct paygo ny ny,29.99,Transport,Uncategorized
+T01285,NETFLIX.COM 2282,netflix.com 2282,88.47,Entertainment,Entertainment
+T00475,CHEVRON 0092,chevron 0092,35.84,Gas,Gas
+T01628,AMC ONLINE #6669,amc online #6669,80.75,Entertainment,Entertainment
+T01141,SQ *LOCAL GROUNDS AUSTIN TX,sq *local grounds austin tx,11.45,Coffee,Uncategorized
+T00926,TRADER JOE'S #6672,trader joe's #6672,81.68,Groceries,Groceries
+T00574,SQ *BLUE BOTTLE 394 NY NY,sq *blue bottle 394 ny ny,3.3,Coffee,Uncategorized
+T00434,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,132.54,Health,Uncategorized
+T00687,REGAL CINEMAS 17796 DALLAS TX,regal cinemas 17796 dallas tx,40.93,Entertainment,Entertainment
+T01480,SQ *LOCAL GROUNDS CHICAGO IL,sq *local grounds chicago il,4.35,Coffee,Uncategorized
+T01461,REGAL CINEMAS 699 MIAMI FL,regal cinemas 699 miami fl,41.12,Entertainment,Entertainment
+T00811,TXU ENERGY PAYMENT  ,txu energy payment,47.41,Utilities,Utilities
+T00277,SQ *BLUE BOTTLE 8777 OAKLAND CA,sq *blue bottle 8777 oakland ca,9.28,Coffee,Uncategorized
+T00605,SQ *TAQUERIA EL SOL DENVER CO,sq *taqueria el sol denver co,85.63,Restaurants,Uncategorized
+T01217,GRUBHUB*THAI BASIL BOSTON MA,grubhub*thai basil boston ma,31.5,Restaurants,Restaurants
+T01433,TST* PHILZ COFFEE MIAMI FL,tst* philz coffee miami fl,10.51,Coffee,Coffee
+T01290,KROGER  42422 NY NY,kroger 42422 ny ny,195.55,Groceries,Groceries
+T00913,POS DEBIT H-E-B #466,pos debit h-e-b #466,208.53,Groceries,Uncategorized
+T01125,TXU ENERGY PAYMENT,txu energy payment,232.26,Utilities,Utilities
+T01359,ALDI 003 AUSTIN TX,aldi 003 austin tx,140.3,Groceries,Uncategorized
+T01758,BEST BUY #236 PHX AZ,best buy #236 phx az,362.81,Shopping,Uncategorized
+T01649,WHOLEFDS MKT 94 PHX AZ  ,wholefds mkt 94 phx az,134.46,Groceries,Groceries
+T00685,COMCAST CABLE COMM 57041,comcast cable comm 57041,86.76,Utilities,Utilities
+T01813,WHOLEFDS  MKT 18 DENVER CO,wholefds mkt 18 denver co,163.17,Groceries,Groceries
+T01341,POS DEBIT BP#21,pos debit bp#21,63.82,Gas,Uncategorized
+T01959,WALMART SUPERCENTER #63,walmart supercenter #63,192.43,Shopping,Shopping
+T00413,STARBUCKS STORE 8008,starbucks store 8008,7.27,Coffee,Coffee
+T01122,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,10.22,Transport,Transport
+T01392,CHIPOTLE 6982 SEATTLE WA,chipotle 6982 seattle wa,63.62,Restaurants,Restaurants
+T01236,TST* PHILZ COFFEE CHICAGO IL  ,tst* philz coffee chicago il,5.96,Coffee,Coffee
+T01302,TST* PHILZ COFFEE BOSTON MA,tst* philz coffee boston ma,4.17,Coffee,Coffee
+T01746,SQ *CITY DENTAL CHICAGO IL,sq *city dental chicago il,158.61,Health,Uncategorized
+T00387,DART RAIL NY NY,dart rail ny ny,24.08,Transport,Uncategorized
+T00369,DOORDASH*MCDONALDS  ,doordash*mcdonalds,20.25,Restaurants,Restaurants
+T01486,NETFLIX.COM 40,netflix.com 40,43.12,Entertainment,Entertainment
+T00970,POS DEBIT BP#43,pos debit bp#43,50.87,Gas,Uncategorized
+T01611,AMZN MKTP US*50 AMZN.COM/BILL WA,amzn mktp us*50 amzn.com/bill wa,243.04,Shopping,Shopping
+T00972,GRUBHUB*THAI BASIL SEATTLE WA,grubhub*thai basil seattle wa,137.05,Restaurants,Restaurants
+T00858,STEAMGAMES.COM 63 WA,steamgames.com 63 wa,65.56,Entertainment,Uncategorized
+T00096,AMZN MKTP US*29 AMZN.COM/BILL WA,amzn mktp us*29 amzn.com/bill wa,368.19,Shopping,Shopping
+T01066,DUNKIN #44225 DENVER CO,dunkin #44225 denver co,9.82,Coffee,Coffee
+T01331,VERIZON WIRELESS 7711  ,verizon wireless 7711,136.28,Utilities,Utilities
+T00127,VERIZON WIRELESS 1775  ,verizon wireless 1775,278.16,Utilities,Utilities
+T01268,PEETS COFFEE #4075 MIAMI FL,peets coffee #4075 miami fl,11.14,Coffee,Coffee
+T00024,SPOTIFY  USA 53354,spotify usa 53354,42.21,Entertainment,Entertainment
+T01415,LA FITNESS 037 DALLAS TX,la fitness 037 dallas tx,62.67,Health,Health
+T00766,UBER*  EATS HELP.UBER.COM,uber* eats help.uber.com,36.71,Transport,Transport
+T01573,STEAMGAMES.COM 72918 WA,steamgames.com 72918 wa,49.56,Entertainment,Uncategorized
+T01095,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,31.74,Health,Uncategorized
+T00730,ATT*BILL PAYMENT 625,att*bill payment 625,172.47,Utilities,Uncategorized
+T01547,TXU  ENERGY PAYMENT,txu energy payment,292.99,Utilities,Utilities
+T01112,PEETS  COFFEE #37940 DENVER CO,peets coffee #37940 denver co,6.86,Coffee,Coffee
+T00330,WALMART SUPERCENTER #5533,walmart supercenter #5533,380.08,Shopping,Shopping
+T01640,POS DEBIT H-E-B #984,pos debit h-e-b #984,209.5,Groceries,Uncategorized
+T00623,DOORDASH*MCDONALDS,doordash*mcdonalds,128.45,Restaurants,Restaurants
+T00533,GRUBHUB*THAI BASIL PHX AZ  ,grubhub*thai basil phx az,34.4,Restaurants,Restaurants
+T00818,WALGREENS #4344,walgreens #4344,110.51,Health,Health
+T00145,KROGER 6929 CHICAGO IL,kroger 6929 chicago il,87.09,Groceries,Groceries
+T01226,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,52.1,Transport,Transport
+T01041,ETSY.COM - SELLER22365,etsy.com - seller22365,71.4,Shopping,Uncategorized
+T01595,netflix.com 43,netflix.com 43,86.67,Entertainment,Entertainment
+T01526,walmart supercenter #20641,walmart supercenter #20641,252.78,Shopping,Shopping
+T01307,DART RAIL AUSTIN TX,dart rail austin tx,16.31,Transport,Uncategorized
+T00911,SQ *THE BOOK NOOK DENVER CO,sq *the book nook denver co,455.37,Shopping,Uncategorized
+T01064,doordash*mcdonalds,doordash*mcdonalds,103.75,Restaurants,Restaurants
+T00230,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,30.96,Transport,Transport
+T00301,ONCOR ELECTRIC DELIVERY,oncor electric delivery,174.32,Utilities,Utilities
+T00919,SPOTIFY USA 1463,spotify usa 1463,39.21,Entertainment,Entertainment
+T01034,RITE AID #83228 OAKLAND CA,rite aid #83228 oakland ca,241.63,Health,Uncategorized
+T01051,SPOTIFY USA 52450,spotify usa 52450,84.24,Entertainment,Entertainment
+T00757,TST* PHILZ COFFEE NY NY,tst* philz coffee ny ny,7.68,Coffee,Coffee
+T01918,WHOLEFDS MKT 91 BOSTON MA,wholefds mkt 91 boston ma,195.11,Groceries,Groceries
+T00172,CVS/PHARMACY #66648 OAKLAND CA,cvs/pharmacy #66648 oakland ca,55.07,Health,Health
+T00195,ONCOR ELECTRIC DELIVERY,oncor electric delivery,63.21,Utilities,Utilities
+T01334,TRADER JOE'S #70643,trader joe's #70643,139.46,Groceries,Groceries
+T00057,COMCAST CABLE COMM 31979,comcast cable comm 31979,271.62,Utilities,Utilities
+T01296,SQ *THE COMEDY CLUB AUSTIN TX,sq *the comedy club austin tx,58.54,Entertainment,Uncategorized
+T00113,CVS/PHARMACY #30 NY NY,cvs/pharmacy #30 ny ny,118.49,Health,Health
+T01654,SQ *CITY DENTAL AUSTIN TX,sq *city dental austin tx,222.15,Health,Uncategorized
+T01432,DART RAIL CHICAGO IL,dart rail chicago il,44.54,Transport,Uncategorized
+T01749,CIRCLE K # 3112,circle k # 3112,39.31,Gas,Uncategorized
+T00352,steamgames.com 0908 wa,steamgames.com 0908 wa,19.21,Entertainment,Uncategorized
+T00944,76 - 675 AUSTIN TX,76 - 675 austin tx,77.22,Gas,Uncategorized
+T01190,CHEVRON 6866,chevron 6866,79.87,Gas,Gas
+T00105,SQ *THE COMEDY CLUB PHX AZ,sq *the comedy club phx az,79.86,Entertainment,Uncategorized
+T00957,PEETS  COFFEE #9630 AUSTIN TX,peets coffee #9630 austin tx,8.36,Coffee,Coffee
+T01411,EXXONMOBIL 98 OAKLAND CA,exxonmobil 98 oakland ca,51.22,Gas,Gas
+T00054,DART RAIL BOSTON MA,dart rail boston ma,58.77,Transport,Uncategorized
+T01437,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,227.58,Health,Uncategorized
+T00883,COMCAST CABLE COMM 0606,comcast cable comm 0606,197.54,Utilities,Utilities
+T01714,SAFEWAY #8985 BOSTON MA,safeway #8985 boston ma,95.52,Groceries,Groceries
+T00541,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,50.15,Transport,Transport
+T00138,GRUBHUB*THAI BASIL DENVER CO,grubhub*thai basil denver co,15.99,Restaurants,Restaurants
+T00031,SHELL OIL 23 PHX AZ  ,shell oil 23 phx az,85.33,Gas,Gas
+T00914,ALDI 14461 SEATTLE WA,aldi 14461 seattle wa,23.26,Groceries,Uncategorized
+T01198,76 - 555 MIAMI FL,76 - 555 miami fl,71.17,Gas,Uncategorized
+T00593,GRUBHUB*THAI BASIL AUSTIN TX,grubhub*thai basil austin tx,85.8,Restaurants,Restaurants
+T01766,ATT*BILL PAYMENT 27149,att*bill payment 27149,110.39,Utilities,Uncategorized
+T01678,ONCOR ELECTRIC DELIVERY,oncor electric delivery,187.7,Utilities,Utilities
+T00375,AMC ONLINE #6363  ,amc online #6363,56.16,Entertainment,Entertainment
+T01168,GRUBHUB*THAI BASIL NY NY,grubhub*thai basil ny ny,137.01,Restaurants,Restaurants
+T00661,TARGET 2867 SEATTLE WA,target 2867 seattle wa,375.12,Shopping,Shopping
+T00357,CHIPOTLE 3974 SEATTLE WA,chipotle 3974 seattle wa,75.15,Restaurants,Restaurants
+T00478,SQ *CITY DENTAL NY NY,sq *city dental ny ny,175.83,Health,Uncategorized
+T00509,TARGET 191 SEATTLE WA,target 191 seattle wa,393.6,Shopping,Shopping
+T00546,TARGET 3885 DENVER CO,target 3885 denver co,169.94,Shopping,Shopping
+T01422,DART RAIL NY NY,dart rail ny ny,58.75,Transport,Uncategorized
+T01102,WALMART SUPERCENTER #38475  ,walmart supercenter #38475,305.92,Shopping,Shopping
+T00101,REGAL CINEMAS 99613 NY NY,regal cinemas 99613 ny ny,17.01,Entertainment,Entertainment
+T01679,AMC ONLINE #35,amc online #35,56.95,Entertainment,Entertainment
+T00994,DART RAIL DALLAS TX,dart rail dallas tx,32.13,Transport,Uncategorized
+T00443,SPOTIFY USA 99,spotify usa 99,60.12,Entertainment,Entertainment
+T01167,STARBUCKS STORE 2666,starbucks store 2666,3.1,Coffee,Coffee
+T00204,TARGET 812 BOSTON MA,target 812 boston ma,472.98,Shopping,Shopping
+T01110,EXXONMOBIL  65779 DALLAS TX,exxonmobil 65779 dallas tx,32.55,Gas,Gas
+T00842,STEAMGAMES.COM 266 WA,steamgames.com 266 wa,73.16,Entertainment,Uncategorized
+T01671,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,31.59,Transport,Transport
+T01775,cvs/pharmacy #72540 dallas tx,cvs/pharmacy #72540 dallas tx,243.04,Health,Health
+T00783,SQ *CITY DENTAL DALLAS TX,sq *city dental dallas tx,103.25,Health,Uncategorized
+T01154,WALGREENS #10959,walgreens #10959,183.37,Health,Health
+T01180,POS  DEBIT BP#8396,pos debit bp#8396,53.92,Gas,Uncategorized
+T00900,SQ *LOCAL GROUNDS BOSTON MA,sq *local grounds boston ma,9.49,Coffee,Uncategorized
+T01602,BEST BUY #360 MIAMI FL,best buy #360 miami fl,255.32,Shopping,Uncategorized
+T01656,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,12.16,Transport,Transport
+T00134,TST* OLIVE & VINE NY NY,tst* olive & vine ny ny,30.89,Restaurants,Uncategorized
+T00459,POS DEBIT BP#841,pos debit bp#841,38.71,Gas,Uncategorized
+T01599,COMCAST CABLE COMM 49422  ,comcast cable comm 49422,63.69,Utilities,Utilities
+T01416,CITY OF DALLAS WATER UT,city of dallas water ut,239.36,Utilities,Utilities
+T01384,DART RAIL AUSTIN TX,dart rail austin tx,6.88,Transport,Uncategorized
+T01018,STEAMGAMES.COM 515 WA  ,steamgames.com 515 wa,69.75,Entertainment,Uncategorized
+T00610,COMCAST CABLE COMM 5706,comcast cable comm 5706,215.24,Utilities,Utilities
+T01535,SQ *CITY DENTAL MIAMI FL,sq *city dental miami fl,46.31,Health,Uncategorized
+T01028,SQ *CITY DENTAL DENVER CO  ,sq *city dental denver co,105.35,Health,Uncategorized
+T00524,TXU ENERGY PAYMENT,txu energy payment,104.79,Utilities,Utilities
+T01218,TRADER  JOE'S #41,trader joe's #41,156.78,Groceries,Groceries
+T00353,TRADER JOE'S #5  ,trader joe's #5,89.62,Groceries,Groceries
+T00649,PARKING METER #68766 NY NY,parking meter #68766 ny ny,8.89,Transport,Transport
+T00135,TST*  PHILZ COFFEE DALLAS TX,tst* philz coffee dallas tx,10.8,Coffee,Coffee
+T00511,ONCOR ELECTRIC DELIVERY,oncor electric delivery,72.05,Utilities,Utilities
+T00646,WALMART SUPERCENTER #6,walmart supercenter #6,84.15,Shopping,Shopping
+T00007,TRADER JOE'S #48,trader joe's #48,89.79,Groceries,Groceries
+T00553,GRUBHUB*THAI BASIL SEATTLE WA,grubhub*thai basil seattle wa,77.34,Restaurants,Restaurants
+T00140,TRADER JOE'S #9590,trader joe's #9590,123.76,Groceries,Groceries
+T01131,TST* OLIVE & VINE DALLAS TX,tst* olive & vine dallas tx,47.55,Restaurants,Uncategorized
+T01114,ATT*BILL PAYMENT 92597,att*bill payment 92597,86.88,Utilities,Uncategorized
+T01500,TRADER JOE'S #333,trader joe's #333,214.08,Groceries,Groceries
+T01860,REGAL CINEMAS 878 NY NY,regal cinemas 878 ny ny,21.79,Entertainment,Entertainment
+T01593,WALMART SUPERCENTER #44,walmart supercenter #44,432.91,Shopping,Shopping
+T00077,BEST BUY #768 PHX AZ,best buy #768 phx az,186.88,Shopping,Uncategorized
+T00517,76 - 22 PHX AZ,76 - 22 phx az,86.44,Gas,Uncategorized
+T00255,CIRCLE K # 1943,circle k # 1943,33.91,Gas,Uncategorized
+T00958,GRUBHUB*THAI BASIL SEATTLE WA,grubhub*thai basil seattle wa,104.75,Restaurants,Restaurants
+T00995,ATT*BILL PAYMENT 891,att*bill payment 891,230.16,Utilities,Uncategorized
+T01554,POS DEBIT H-E-B #55824,pos debit h-e-b #55824,61.05,Groceries,Uncategorized
+T00104,REGAL CINEMAS 8337 MIAMI FL,regal cinemas 8337 miami fl,88.34,Entertainment,Entertainment
+T01895,WHOLEFDS MKT 492 DENVER CO,wholefds mkt 492 denver co,125.5,Groceries,Groceries
+T00139,COMCAST CABLE COMM 62,comcast cable comm 62,123.58,Utilities,Utilities
+T00052,SQ *THE BOOK NOOK MIAMI FL,sq *the book nook miami fl,434.12,Shopping,Uncategorized
+T00677,WALGREENS #50307,walgreens #50307,183.51,Health,Health
+T00637,WALGREENS #54206  ,walgreens #54206,123.42,Health,Health
+T01245,EXXONMOBIL 60 SEATTLE WA,exxonmobil 60 seattle wa,89.88,Gas,Gas
+T01805,POS DEBIT H-E-B #19,pos debit h-e-b #19,206.55,Groceries,Uncategorized
+T00850,VERIZON WIRELESS 730,verizon wireless 730,105.46,Utilities,Utilities
+T00826,TRADER JOE'S #28,trader joe's #28,129.76,Groceries,Groceries
+T01693,BEST BUY #57 NY NY,best buy #57 ny ny,27.66,Shopping,Uncategorized
+T00118,ETSY.COM - SELLER075,etsy.com - seller075,149.2,Shopping,Uncategorized
+T01421,SQ *THE COMEDY CLUB DENVER CO,sq *the comedy club denver co,27.22,Entertainment,Uncategorized
+T00039,LA FITNESS 832 MIAMI FL,la fitness 832 miami fl,21.02,Health,Health
+T00973,DUNKIN #874 DALLAS TX,dunkin #874 dallas tx,3.48,Coffee,Coffee
+T01555,POS DEBIT H-E-B #3953,pos debit h-e-b #3953,145.8,Groceries,Uncategorized
+T00493,CIRCLE K # 96  ,circle k # 96,72.02,Gas,Uncategorized
+T01382,PEETS COFFEE #6747 SEATTLE WA,peets coffee #6747 seattle wa,3.33,Coffee,Coffee
+T00132,UBER *TRIP OAKLAND CA,uber *trip oakland ca,13.96,Transport,Transport
+T00724,76 - 13 DENVER CO,76 - 13 denver co,68.09,Gas,Uncategorized
+T00162,TRADER JOE'S #60811,trader joe's #60811,217.24,Groceries,Groceries
+T00305,WALGREENS #0402,walgreens #0402,240.14,Health,Health
+T00895,TRADER JOE'S #54493,trader joe's #54493,112.1,Groceries,Groceries
+T00807,SQ *CITY DENTAL MIAMI FL,sq *city dental miami fl,39.78,Health,Uncategorized
+T00896,WALGREENS #34,walgreens #34,176.25,Health,Health
+T00521,SQ *THE BOOK NOOK OAKLAND CA,sq *the book nook oakland ca,380.61,Shopping,Uncategorized
+T01665,SQ *TAQUERIA EL SOL MIAMI FL,sq *taqueria el sol miami fl,121.0,Restaurants,Uncategorized
+T00321,CVS/PHARMACY  #71611 MIAMI FL,cvs/pharmacy #71611 miami fl,217.52,Health,Health
+T01955,WALGREENS #10,walgreens #10,252.37,Health,Health
+T00411,SQ *CITY DENTAL NY NY,sq *city dental ny ny,72.37,Health,Uncategorized
+T01864,AMC ONLINE #3675,amc online #3675,29.15,Entertainment,Entertainment
+T00684,UBER *TRIP MIAMI FL,uber *trip miami fl,26.84,Transport,Transport
+T01814,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,9.72,Transport,Transport
+T01930,TARGET 97929 SEATTLE WA,target 97929 seattle wa,375.22,Shopping,Shopping
+T00247,SPOTIFY USA 98007,spotify usa 98007,82.67,Entertainment,Entertainment
+T00419,RITE AID #4890 DENVER CO  ,rite aid #4890 denver co,257.09,Health,Uncategorized
+T00061,SQ *THE BOOK NOOK CHICAGO IL,sq *the book nook chicago il,344.79,Shopping,Uncategorized
+T01283,AMC ONLINE #6409,amc online #6409,74.33,Entertainment,Entertainment
+T01680,76 - 330 AUSTIN TX  ,76 - 330 austin tx,47.86,Gas,Uncategorized
+T00880,verizon wireless 088,verizon wireless 088,151.02,Utilities,Utilities
+T01309,TST*  PHILZ COFFEE CHICAGO IL,tst* philz coffee chicago il,6.58,Coffee,Coffee
+T01581,WALMART SUPERCENTER #583,walmart supercenter #583,470.64,Shopping,Shopping
+T00728,POS  DEBIT H-E-B #20677,pos debit h-e-b #20677,16.48,Groceries,Uncategorized
+T01082,SQ *CITY DENTAL OAKLAND CA,sq *city dental oakland ca,57.02,Health,Uncategorized
+T01089,SQ *BLUE BOTTLE 29127 AUSTIN TX,sq *blue bottle 29127 austin tx,4.11,Coffee,Uncategorized
+T00715,WALGREENS #49,walgreens #49,243.76,Health,Health
+T01949,CITY OF DALLAS WATER UT,city of dallas water ut,133.65,Utilities,Utilities
+T00892,TARGET 90 DENVER CO,target 90 denver co,462.37,Shopping,Shopping
+T01158,POS DEBIT BP#89  ,pos debit bp#89,32.42,Gas,Uncategorized
+T01369,76  - 92 MIAMI FL,76 - 92 miami fl,74.33,Gas,Uncategorized
+T00051,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,27.73,Transport,Transport
+T01585,COMCAST CABLE COMM 91280,comcast cable comm 91280,85.32,Utilities,Utilities
+T00234,DART RAIL NY NY,dart rail ny ny,19.08,Transport,Uncategorized
+T00359,TST*  PHILZ COFFEE CHICAGO IL,tst* philz coffee chicago il,7.77,Coffee,Coffee
+T00821,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,44.31,Transport,Transport
+T00409,AMC ONLINE #6828,amc online #6828,82.73,Entertainment,Entertainment
+T00615,PEETS COFFEE #32 OAKLAND CA,peets coffee #32 oakland ca,10.1,Coffee,Coffee
+T01008,WALGREENS #91323,walgreens #91323,189.1,Health,Health
+T01630,EXXONMOBIL 656 PHX AZ,exxonmobil 656 phx az,38.85,Gas,Gas
+T01087,ONCOR ELECTRIC DELIVERY,oncor electric delivery,223.09,Utilities,Utilities
+T01920,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,59.84,Transport,Transport
+T01761,NETFLIX.COM 31,netflix.com 31,57.21,Entertainment,Entertainment
+T00098,AMC ONLINE #43687,amc online #43687,33.7,Entertainment,Entertainment
+T00164,TST* PHILZ COFFEE DENVER CO  ,tst* philz coffee denver co,6.32,Coffee,Coffee
+T01847,POS DEBIT H-E-B #9049,pos debit h-e-b #9049,169.22,Groceries,Uncategorized
+T00470,NETFLIX.COM 760,netflix.com 760,72.93,Entertainment,Entertainment
+T00947,TST* PHILZ COFFEE AUSTIN TX,tst* philz coffee austin tx,7.2,Coffee,Coffee
+T01328,RITE  AID #76 SEATTLE WA,rite aid #76 seattle wa,136.73,Health,Uncategorized
+T01684,SAFEWAY #5540 MIAMI FL,safeway #5540 miami fl,29.26,Groceries,Groceries
+T00209,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,42.01,Transport,Transport
+T00928,WHOLEFDS MKT 245 DENVER CO,wholefds mkt 245 denver co,118.41,Groceries,Groceries
+T00837,SQ *TAQUERIA EL SOL MIAMI FL,sq *taqueria el sol miami fl,47.08,Restaurants,Uncategorized
+T00087,NETFLIX.COM 51,netflix.com 51,63.66,Entertainment,Entertainment
+T01042,76 - 57 DALLAS TX,76 - 57 dallas tx,77.49,Gas,Uncategorized
+T00401,SHELL OIL 22659 NY NY,shell oil 22659 ny ny,33.83,Gas,Gas
+T00173,DART RAIL DALLAS TX  ,dart rail dallas tx,55.2,Transport,Uncategorized
+T00950,SQ *TAQUERIA EL SOL AUSTIN TX,sq *taqueria el sol austin tx,24.38,Restaurants,Uncategorized
+T01506,MTA*NYCT PAYGO CHICAGO IL,mta*nyct paygo chicago il,60.76,Transport,Uncategorized
+T01299,ALDI 873 MIAMI FL,aldi 873 miami fl,126.92,Groceries,Uncategorized
+T00222,SQ *THE COMEDY CLUB AUSTIN TX,sq *the comedy club austin tx,72.77,Entertainment,Uncategorized
+T00063,TST* OLIVE & VINE BOSTON MA,tst* olive & vine boston ma,19.97,Restaurants,Uncategorized
+T01214,KROGER 26 MIAMI FL,kroger 26 miami fl,144.88,Groceries,Groceries
+T00304,SAFEWAY #522 DENVER CO,safeway #522 denver co,109.93,Groceries,Groceries
+T01300,AMC ONLINE #04,amc online #04,34.1,Entertainment,Entertainment
+T00918,COMCAST CABLE COMM 780,comcast cable comm 780,244.46,Utilities,Utilities
+T01340,WHOLEFDS MKT 55184 PHX AZ,wholefds mkt 55184 phx az,195.7,Groceries,Groceries
+T01352,SHELL OIL 69 OAKLAND CA,shell oil 69 oakland ca,82.57,Gas,Gas
+T01059,TST* THE CORNER DINER,tst* the corner diner,134.12,Restaurants,Restaurants
+T00027,KROGER 6 AUSTIN TX,kroger 6 austin tx,188.98,Groceries,Groceries
+T01115,CHEVRON 16,chevron 16,38.45,Gas,Gas
+T01840,SQ *CITY DENTAL DENVER CO,sq *city dental denver co,259.03,Health,Uncategorized
+T01058,LA FITNESS 228 AUSTIN TX,la fitness 228 austin tx,37.85,Health,Health
+T00868,SAFEWAY #501 MIAMI FL,safeway #501 miami fl,130.43,Groceries,Groceries
+T01323,POS DEBIT BP#02263,pos debit bp#02263,92.61,Gas,Uncategorized
+T01531,SPOTIFY USA 39,spotify usa 39,27.58,Entertainment,Entertainment
+T01388,PARKING METER #7735 NY NY,parking meter #7735 ny ny,60.41,Transport,Transport
+T00566,CITY OF DALLAS WATER UT,city of dallas water ut,148.23,Utilities,Utilities
+T00817,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,55.38,Transport,Transport
+T00921,SQ *THE BOOK NOOK NY NY,sq *the book nook ny ny,263.75,Shopping,Uncategorized
+T01389,76 - 01287 miami fl,76 - 01287 miami fl,57.93,Gas,Uncategorized
+T01834,att*bill payment 298,att*bill payment 298,129.08,Utilities,Uncategorized
+T01674,SPOTIFY USA 648,spotify usa 648,58.13,Entertainment,Entertainment
+T01509,LA FITNESS 9417 AUSTIN TX,la fitness 9417 austin tx,151.33,Health,Health
+T00055,SAFEWAY #1530 CHICAGO IL,safeway #1530 chicago il,55.82,Groceries,Groceries
+T01446,KROGER 24 CHICAGO IL,kroger 24 chicago il,125.53,Groceries,Groceries
+T00080,TST* THE CORNER DINER,tst* the corner diner,23.91,Restaurants,Restaurants
+T00252,WHOLEFDS MKT 45158 BOSTON MA,wholefds mkt 45158 boston ma,206.59,Groceries,Groceries
+T01917,GRUBHUB*THAI BASIL AUSTIN TX,grubhub*thai basil austin tx,40.4,Restaurants,Restaurants
+T01349,SQ *LOCAL GROUNDS PHX AZ,sq *local grounds phx az,5.83,Coffee,Uncategorized
+T00122,CIRCLE K # 80,circle k # 80,27.34,Gas,Uncategorized
+T01137,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,53.38,Transport,Transport
+T00091,76 - 20 MIAMI FL,76 - 20 miami fl,66.57,Gas,Uncategorized
+T00227,TST* THE CORNER DINER,tst* the corner diner,104.31,Restaurants,Restaurants
+T01946,STEAMGAMES.COM 82 WA,steamgames.com 82 wa,32.0,Entertainment,Uncategorized
+T00890,WALMART SUPERCENTER #178,walmart supercenter #178,61.79,Shopping,Shopping
+T00946,SQ *CITY DENTAL OAKLAND CA,sq *city dental oakland ca,170.24,Health,Uncategorized
+T01266,SQ *BLUE BOTTLE 2256 CHICAGO IL,sq *blue bottle 2256 chicago il,7.52,Coffee,Uncategorized
+T01907,VERIZON WIRELESS 541,verizon wireless 541,77.59,Utilities,Utilities
+T00218,SQ *THE COMEDY CLUB DENVER CO  ,sq *the comedy club denver co,85.4,Entertainment,Uncategorized
+T00983,TST* THE CORNER DINER,tst* the corner diner,89.32,Restaurants,Restaurants
+T00515,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,27.21,Health,Uncategorized
+T01568,SQ *THE BOOK NOOK MIAMI FL,sq *the book nook miami fl,43.84,Shopping,Uncategorized
+T01643,BEST BUY #44239 CHICAGO IL,best buy #44239 chicago il,366.61,Shopping,Uncategorized
+T00871,STEAMGAMES.COM 61 WA,steamgames.com 61 wa,63.48,Entertainment,Uncategorized
+T00584,WALGREENS #38754,walgreens #38754,10.18,Health,Health
+T00762,POS DEBIT BP#6056,pos debit bp#6056,27.43,Gas,Uncategorized
+T00713,PEETS COFFEE #668 OAKLAND CA,peets coffee #668 oakland ca,5.4,Coffee,Coffee
+T01209,SHELL OIL 73 OAKLAND CA,shell oil 73 oakland ca,34.14,Gas,Gas
+T00907,SQ *CITY DENTAL CHICAGO IL,sq *city dental chicago il,213.77,Health,Uncategorized
+T00760,MTA*NYCT PAYGO CHICAGO IL,mta*nyct paygo chicago il,12.48,Transport,Uncategorized
+T00133,NETFLIX.COM 657,netflix.com 657,26.46,Entertainment,Entertainment
+T01412,CHIPOTLE 765 CHICAGO IL  ,chipotle 765 chicago il,102.36,Restaurants,Restaurants
+T00632,REGAL CINEMAS 7496 MIAMI FL,regal cinemas 7496 miami fl,9.51,Entertainment,Entertainment
+T01781,SQ *THE BOOK NOOK DALLAS TX,sq *the book nook dallas tx,105.65,Shopping,Uncategorized
+T00755,trader joe's #1835,trader joe's #1835,56.87,Groceries,Groceries
+T00925,city of dallas water ut,city of dallas water ut,74.61,Utilities,Utilities
+T01156,WHOLEFDS MKT 5912 CHICAGO IL,wholefds mkt 5912 chicago il,186.23,Groceries,Groceries
+T01354,KROGER 64651 AUSTIN TX,kroger 64651 austin tx,218.58,Groceries,Groceries
+T00831,MTA*NYCT PAYGO MIAMI FL,mta*nyct paygo miami fl,8.73,Transport,Uncategorized
+T01696,REGAL CINEMAS 94367 DENVER CO,regal cinemas 94367 denver co,56.55,Entertainment,Entertainment
+T01262,TARGET  74 PHX AZ,target 74 phx az,383.4,Shopping,Shopping
+T01400,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,60.79,Transport,Transport
+T00256,SQ *BLUE BOTTLE 7585 BOSTON MA,sq *blue bottle 7585 boston ma,5.07,Coffee,Uncategorized
+T01732,WHOLEFDS MKT 5859 MIAMI FL,wholefds mkt 5859 miami fl,64.86,Groceries,Groceries
+T00512,DUNKIN #57 CHICAGO IL,dunkin #57 chicago il,7.65,Coffee,Coffee
+T01687,SQ *BLUE BOTTLE 490 OAKLAND CA,sq *blue bottle 490 oakland ca,5.09,Coffee,Uncategorized
+T00585,LA FITNESS 904 PHX AZ,la fitness 904 phx az,204.0,Health,Health
+T01782,MTA*NYCT PAYGO MIAMI FL,mta*nyct paygo miami fl,25.54,Transport,Uncategorized
+T00016,WALGREENS #80,walgreens #80,48.21,Health,Health
+T01294,TXU ENERGY PAYMENT,txu energy payment,257.75,Utilities,Utilities
+T00325,WALMART SUPERCENTER #8428,walmart supercenter #8428,378.85,Shopping,Shopping
+T01942,NETFLIX.COM 2378,netflix.com 2378,85.96,Entertainment,Entertainment
+T00655,POS DEBIT H-E-B #5592,pos debit h-e-b #5592,20.97,Groceries,Uncategorized
+T00702,TST* PHILZ COFFEE BOSTON MA,tst* philz coffee boston ma,3.37,Coffee,Coffee
+T01981,STARBUCKS STORE 913,starbucks store 913,11.56,Coffee,Coffee
+T01088,safeway #46 chicago il,safeway #46 chicago il,178.61,Groceries,Groceries
+T00577,TST* OLIVE & VINE SEATTLE WA  ,tst* olive & vine seattle wa,113.68,Restaurants,Uncategorized
+T00260,76 - 3836 PHX AZ,76 - 3836 phx az,72.08,Gas,Uncategorized
+T01337,REGAL CINEMAS 47432 SEATTLE WA,regal cinemas 47432 seattle wa,12.42,Entertainment,Entertainment
+T00468,CVS/PHARMACY #48 OAKLAND CA,cvs/pharmacy #48 oakland ca,59.98,Health,Health
+T00845,PEETS  COFFEE #78694 DALLAS TX,peets coffee #78694 dallas tx,6.31,Coffee,Coffee
+T00046,TST* OLIVE & VINE CHICAGO IL,tst* olive & vine chicago il,135.76,Restaurants,Uncategorized
+T01210,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,54.95,Transport,Transport
+T01963,TST* OLIVE & VINE SEATTLE WA,tst* olive & vine seattle wa,33.92,Restaurants,Uncategorized
+T01406,ALDI 3181 SEATTLE WA,aldi 3181 seattle wa,188.89,Groceries,Uncategorized
+T00175,CIRCLE K # 738,circle k # 738,72.35,Gas,Uncategorized
+T01751,CIRCLE K # 49151,circle k # 49151,43.95,Gas,Uncategorized
+T00126,KROGER 33 DENVER CO,kroger 33 denver co,168.55,Groceries,Groceries
+T01976,TXU ENERGY PAYMENT,txu energy payment,138.43,Utilities,Utilities
+T01227,CVS/PHARMACY #37173 BOSTON MA,cvs/pharmacy #37173 boston ma,150.24,Health,Health
+T00341,ETSY.COM - SELLER84,etsy.com - seller84,248.49,Shopping,Uncategorized
+T01929,DOORDASH*MCDONALDS  ,doordash*mcdonalds,44.66,Restaurants,Restaurants
+T01502,MTA*NYCT PAYGO AUSTIN TX,mta*nyct paygo austin tx,57.49,Transport,Uncategorized
+T01014,PEETS COFFEE #469 AUSTIN TX,peets coffee #469 austin tx,5.51,Coffee,Coffee
+T01905,KROGER 8660 BOSTON MA,kroger 8660 boston ma,166.39,Groceries,Groceries
+T00473,TST* THE CORNER DINER,tst* the corner diner,34.71,Restaurants,Restaurants
+T00982,SAFEWAY #100 AUSTIN TX,safeway #100 austin tx,126.94,Groceries,Groceries
+T01745,RITE AID #480 AUSTIN TX,rite aid #480 austin tx,253.81,Health,Uncategorized
+T01258,NETFLIX.COM 8508,netflix.com 8508,77.93,Entertainment,Entertainment
+T00742,STEAMGAMES.COM 0237 WA,steamgames.com 0237 wa,42.48,Entertainment,Uncategorized
+T00253,NETFLIX.COM 6698,netflix.com 6698,88.18,Entertainment,Entertainment
+T00866,WHOLEFDS MKT 166 MIAMI FL,wholefds mkt 166 miami fl,169.27,Groceries,Groceries
+T00111,NETFLIX.COM 419,netflix.com 419,87.41,Entertainment,Entertainment
+T00987,VERIZON WIRELESS 27470,verizon wireless 27470,43.28,Utilities,Utilities
+T00289,CIRCLE  K # 41507,circle k # 41507,91.01,Gas,Uncategorized
+T01846,GRUBHUB*THAI BASIL CHICAGO IL,grubhub*thai basil chicago il,109.36,Restaurants,Restaurants
+T01839,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,7.37,Transport,Transport
+T00154,TARGET 782 CHICAGO IL,target 782 chicago il,11.65,Shopping,Shopping
+T00532,CVS/PHARMACY #11 BOSTON MA,cvs/pharmacy #11 boston ma,97.02,Health,Health
+T00056,STARBUCKS STORE 80120,starbucks store 80120,8.67,Coffee,Coffee
+T00435,POS DEBIT BP#29,pos debit bp#29,26.53,Gas,Uncategorized
+T00267,GRUBHUB*THAI BASIL SEATTLE WA,grubhub*thai basil seattle wa,128.35,Restaurants,Restaurants
+T01837,POS DEBIT H-E-B #854,pos debit h-e-b #854,94.39,Groceries,Uncategorized
+T00794,SQ *LOCAL GROUNDS SEATTLE WA,sq *local grounds seattle wa,4.67,Coffee,Uncategorized
+T01768,MTA*NYCT PAYGO MIAMI FL,mta*nyct paygo miami fl,59.28,Transport,Uncategorized
+T01106,TARGET 51820 CHICAGO IL,target 51820 chicago il,429.12,Shopping,Shopping
+T01376,TXU ENERGY PAYMENT,txu energy payment,107.67,Utilities,Utilities
+T01668,TXU ENERGY PAYMENT,txu energy payment,234.31,Utilities,Utilities
+T00736,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,27.99,Transport,Transport
+T00869,KROGER  3053 MIAMI FL,kroger 3053 miami fl,120.23,Groceries,Groceries
+T00391,POS DEBIT BP#749,pos debit bp#749,93.46,Gas,Uncategorized
+T00565,MTA*NYCT PAYGO DENVER CO,mta*nyct paygo denver co,32.06,Transport,Uncategorized
+T00291,ONCOR  ELECTRIC DELIVERY,oncor electric delivery,199.46,Utilities,Utilities
+T00243,76 - 56059 AUSTIN TX,76 - 56059 austin tx,31.68,Gas,Uncategorized
+T01987,76 - 66296 DALLAS TX,76 - 66296 dallas tx,34.06,Gas,Uncategorized
+T00469,ETSY.COM - SELLER2399,etsy.com - seller2399,263.43,Shopping,Uncategorized
+T01966,LYFT  *RIDE THU 4PM,lyft *ride thu 4pm,15.75,Transport,Transport
+T00035,ALDI 518 DALLAS TX,aldi 518 dallas tx,195.58,Groceries,Uncategorized
+T01017,EXXONMOBIL 650 DENVER CO  ,exxonmobil 650 denver co,26.24,Gas,Gas
+T01195,ATT*BILL PAYMENT 3436,att*bill payment 3436,136.82,Utilities,Uncategorized
+T00263,TXU ENERGY PAYMENT,txu energy payment,85.57,Utilities,Utilities
+T00708,SHELL OIL 259 DENVER CO,shell oil 259 denver co,30.3,Gas,Gas
+T01373,WALMART SUPERCENTER #29,walmart supercenter #29,66.36,Shopping,Shopping
+T01600,SQ *THE COMEDY CLUB CHICAGO IL,sq *the comedy club chicago il,64.71,Entertainment,Uncategorized
+T01974,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,39.08,Transport,Transport
+T00003,WALGREENS #28893,walgreens #28893,227.33,Health,Health
+T01342,TRADER JOE'S #55,trader joe's #55,42.14,Groceries,Groceries
+T00136,tst* philz coffee oakland ca,tst* philz coffee oakland ca,3.47,Coffee,Coffee
+T00780,REGAL CINEMAS 365 OAKLAND CA,regal cinemas 365 oakland ca,41.24,Entertainment,Entertainment
+T01702,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,48.32,Health,Uncategorized
+T00752,MTA*NYCT PAYGO CHICAGO IL  ,mta*nyct paygo chicago il,25.49,Transport,Uncategorized
+T00397,DART RAIL OAKLAND CA,dart rail oakland ca,31.3,Transport,Uncategorized
+T01933,WHOLEFDS MKT 20184 AUSTIN TX,wholefds mkt 20184 austin tx,167.76,Groceries,Groceries
+T01503,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,14.6,Transport,Transport
+T01855,CITY OF DALLAS WATER UT,city of dallas water ut,240.37,Utilities,Utilities
+T00770,DART RAIL SEATTLE WA,dart rail seattle wa,2.77,Transport,Uncategorized
+T00588,STARBUCKS  STORE 894,starbucks store 894,4.72,Coffee,Coffee
+T01222,WALMART SUPERCENTER #77,walmart supercenter #77,174.58,Shopping,Shopping
+T00308,WHOLEFDS MKT 1791 NY NY,wholefds mkt 1791 ny ny,128.14,Groceries,Groceries
+T01544,76 - 68 BOSTON MA,76 - 68 boston ma,91.3,Gas,Uncategorized
+T00669,SQ *TAQUERIA EL SOL BOSTON MA,sq *taqueria el sol boston ma,28.65,Restaurants,Uncategorized
+T01362,TXU  ENERGY PAYMENT,txu energy payment,65.9,Utilities,Utilities
+T01464,UBER *TRIP DALLAS TX,uber *trip dallas tx,47.55,Transport,Transport
+T00018,TST* OLIVE & VINE AUSTIN TX,tst* olive & vine austin tx,116.45,Restaurants,Uncategorized
+T01404,STEAMGAMES.COM 484 WA,steamgames.com 484 wa,57.49,Entertainment,Uncategorized
+T00288,ALDI 4037 AUSTIN TX,aldi 4037 austin tx,92.9,Groceries,Uncategorized
+T01794,pos debit bp#3450,pos debit bp#3450,27.62,Gas,Uncategorized
+T01281,grubhub*thai basil miami fl,grubhub*thai basil miami fl,14.77,Restaurants,Restaurants
+T00809,POS DEBIT BP#17627,pos debit bp#17627,32.66,Gas,Uncategorized
+T01553,SPOTIFY USA 96,spotify usa 96,9.44,Entertainment,Entertainment
+T01584,SHELL  OIL 95507 SEATTLE WA,shell oil 95507 seattle wa,91.23,Gas,Gas
+T01825,BEST BUY #70 OAKLAND CA,best buy #70 oakland ca,395.75,Shopping,Uncategorized
+T01683,NETFLIX.COM 17,netflix.com 17,84.97,Entertainment,Entertainment
+T01800,SQ *CITY DENTAL MIAMI FL,sq *city dental miami fl,84.77,Health,Uncategorized
+T00361,VERIZON  WIRELESS 7511,verizon wireless 7511,71.72,Utilities,Utilities
+T00578,KROGER 9 PHX AZ,kroger 9 phx az,112.43,Groceries,Groceries
+T01772,POS DEBIT BP#3047,pos debit bp#3047,61.44,Gas,Uncategorized
+T00213,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,28.24,Health,Uncategorized
+T01067,ALDI 4626 BOSTON MA,aldi 4626 boston ma,41.83,Groceries,Uncategorized
+T00618,SAFEWAY #78263 DALLAS TX,safeway #78263 dallas tx,213.19,Groceries,Groceries
+T01707,SQ *THE COMEDY CLUB BOSTON MA,sq *the comedy club boston ma,32.94,Entertainment,Uncategorized
+T01333,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,64.86,Transport,Transport
+T00933,SQ *THE BOOK NOOK NY NY,sq *the book nook ny ny,248.88,Shopping,Uncategorized
+T00367,WALMART SUPERCENTER #031,walmart supercenter #031,267.66,Shopping,Shopping
+T01438,SHELL OIL 9669 NY NY,shell oil 9669 ny ny,68.02,Gas,Gas
+T00028,comcast cable comm 28016,comcast cable comm 28016,35.59,Utilities,Utilities
+T01099,VERIZON WIRELESS 4001,verizon wireless 4001,81.35,Utilities,Utilities
+T01975,COMCAST CABLE COMM 58,comcast cable comm 58,293.0,Utilities,Utilities
+T01877,tst* olive & vine boston ma,tst* olive & vine boston ma,108.94,Restaurants,Uncategorized
+T00779,regal cinemas 47 chicago il,regal cinemas 47 chicago il,10.91,Entertainment,Entertainment
+T00884,SPOTIFY USA 67,spotify usa 67,52.47,Entertainment,Entertainment
+T01653,peets coffee #519 austin tx,peets coffee #519 austin tx,4.78,Coffee,Coffee
+T01172,TST* PHILZ COFFEE AUSTIN TX,tst* philz coffee austin tx,3.84,Coffee,Coffee
+T01988,DOORDASH*MCDONALDS  ,doordash*mcdonalds,94.37,Restaurants,Restaurants
+T00076,SQ *THE BOOK NOOK PHX AZ,sq *the book nook phx az,410.01,Shopping,Uncategorized
+T01559,ALDI 15 SEATTLE WA,aldi 15 seattle wa,160.41,Groceries,Uncategorized
+T01276,PARKING METER #37 SEATTLE WA,parking meter #37 seattle wa,9.65,Transport,Transport
+T00406,NETFLIX.COM 282,netflix.com 282,63.19,Entertainment,Entertainment
+T00510,DOORDASH*MCDONALDS,doordash*mcdonalds,87.62,Restaurants,Restaurants
+T00897,LA FITNESS 141 MIAMI FL,la fitness 141 miami fl,234.52,Health,Health
+T01936,GRUBHUB*THAI BASIL AUSTIN TX,grubhub*thai basil austin tx,126.73,Restaurants,Restaurants
+T01356,REGAL CINEMAS 90 OAKLAND CA,regal cinemas 90 oakland ca,84.32,Entertainment,Entertainment
+T00703,DART RAIL CHICAGO IL,dart rail chicago il,18.09,Transport,Uncategorized
+T01845,SAFEWAY #12 SEATTLE WA,safeway #12 seattle wa,40.36,Groceries,Groceries
+T00915,SAFEWAY #6135 CHICAGO IL,safeway #6135 chicago il,177.2,Groceries,Groceries
+T00066,VERIZON WIRELESS 860,verizon wireless 860,181.88,Utilities,Utilities
+T01265,STARBUCKS STORE 9716,starbucks store 9716,3.05,Coffee,Coffee
+T01850,WALGREENS #42,walgreens #42,152.25,Health,Health
+T00086,DUNKIN #7690 DENVER CO,dunkin #7690 denver co,11.69,Coffee,Coffee
+T01703,VERIZON WIRELESS 3918,verizon wireless 3918,163.07,Utilities,Utilities
+T01769,CITY OF DALLAS WATER UT,city of dallas water ut,106.46,Utilities,Utilities
+T00215,DART RAIL BOSTON MA,dart rail boston ma,22.1,Transport,Uncategorized
+T00825,DOORDASH*MCDONALDS,doordash*mcdonalds,42.22,Restaurants,Restaurants
+T01676,GRUBHUB*THAI BASIL NY NY,grubhub*thai basil ny ny,76.53,Restaurants,Restaurants
+T01560,COMCAST CABLE COMM 44,comcast cable comm 44,178.76,Utilities,Utilities
+T01821,SQ *TAQUERIA EL SOL BOSTON MA,sq *taqueria el sol boston ma,79.68,Restaurants,Uncategorized
+T00183,STEAMGAMES.COM 10 WA,steamgames.com 10 wa,18.56,Entertainment,Uncategorized
+T01380,POS  DEBIT H-E-B #5446,pos debit h-e-b #5446,49.7,Groceries,Uncategorized
+T01241,SQ *LOCAL GROUNDS NY NY,sq *local grounds ny ny,6.06,Coffee,Uncategorized
+T01454,POS DEBIT H-E-B #73574,pos debit h-e-b #73574,216.9,Groceries,Uncategorized
+T00110,POS DEBIT BP#16,pos debit bp#16,55.82,Gas,Uncategorized
+T00286,ATT*BILL PAYMENT 43  ,att*bill payment 43,110.16,Utilities,Uncategorized
+T01353,CHIPOTLE  95956 BOSTON MA,chipotle 95956 boston ma,70.09,Restaurants,Restaurants
+T00956,PEETS COFFEE #60844 PHX AZ,peets coffee #60844 phx az,6.06,Coffee,Coffee
+T00840,CIRCLE K # 84030,circle k # 84030,68.98,Gas,Uncategorized
+T01652,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,13.72,Transport,Transport
+T01435,VERIZON WIRELESS 01518,verizon wireless 01518,49.99,Utilities,Utilities
+T01459,WALMART SUPERCENTER #1730,walmart supercenter #1730,193.11,Shopping,Shopping
+T00242,REGAL CINEMAS 3050 SEATTLE WA,regal cinemas 3050 seattle wa,53.69,Entertainment,Entertainment
+T00323,TST* THE CORNER DINER,tst* the corner diner,112.46,Restaurants,Restaurants
+T00425,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,21.35,Transport,Transport
+T00237,WALGREENS #85575,walgreens #85575,198.98,Health,Health
+T00311,ALDI 68 SEATTLE WA,aldi 68 seattle wa,108.8,Groceries,Uncategorized
+T00310,SQ *LOCAL GROUNDS MIAMI FL  ,sq *local grounds miami fl,4.93,Coffee,Uncategorized
+T01806,SHELL  OIL 60 OAKLAND CA,shell oil 60 oakland ca,93.86,Gas,Gas
+T00100,TXU ENERGY PAYMENT  ,txu energy payment,177.57,Utilities,Utilities
+T00815,TXU ENERGY PAYMENT,txu energy payment,306.09,Utilities,Utilities
+T00298,CHIPOTLE  36739 SEATTLE WA,chipotle 36739 seattle wa,84.17,Restaurants,Restaurants
+T00236,TST*  OLIVE & VINE DENVER CO,tst* olive & vine denver co,110.66,Restaurants,Uncategorized
+T01247,WALMART SUPERCENTER #06,walmart supercenter #06,97.42,Shopping,Shopping
+T00191,TARGET 25 SEATTLE WA,target 25 seattle wa,251.26,Shopping,Shopping
+T01785,REGAL  CINEMAS 48702 DENVER CO,regal cinemas 48702 denver co,86.61,Entertainment,Entertainment
+T01216,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,18.03,Transport,Uncategorized
+T01407,76 - 8459 MIAMI FL,76 - 8459 miami fl,71.74,Gas,Uncategorized
+T01540,REGAL CINEMAS 85 BOSTON MA,regal cinemas 85 boston ma,71.68,Entertainment,Entertainment
+T01851,PEETS COFFEE #746 DALLAS TX,peets coffee #746 dallas tx,10.4,Coffee,Coffee
+T00963,REGAL CINEMAS 78612 PHX AZ,regal cinemas 78612 phx az,34.2,Entertainment,Entertainment
+T00852,SQ *BLUE BOTTLE 8266 CHICAGO IL,sq *blue bottle 8266 chicago il,9.04,Coffee,Uncategorized
+T01641,PARKING METER #02091 DALLAS TX,parking meter #02091 dallas tx,17.92,Transport,Transport
+T00011,SPOTIFY USA 2287,spotify usa 2287,68.75,Entertainment,Entertainment
+T00403,KROGER 72358 CHICAGO IL,kroger 72358 chicago il,203.02,Groceries,Groceries
+T01254,TRADER JOE'S #76,trader joe's #76,115.1,Groceries,Groceries
+T00117,CHEVRON 83611,chevron 83611,25.66,Gas,Gas
+T00395,SPOTIFY USA 3,spotify usa 3,88.07,Entertainment,Entertainment
+T01048,WHOLEFDS MKT 91528 DALLAS TX  ,wholefds mkt 91528 dallas tx,40.19,Groceries,Groceries
+T01339,WALGREENS #88356,walgreens #88356,81.72,Health,Health
+T00568,GRUBHUB*THAI BASIL MIAMI FL,grubhub*thai basil miami fl,20.76,Restaurants,Restaurants
+T01923,DART RAIL PHX AZ,dart rail phx az,2.83,Transport,Uncategorized
+T00408,MTA*NYCT PAYGO AUSTIN TX,mta*nyct paygo austin tx,16.36,Transport,Uncategorized
+T01626,CIRCLE K # 251,circle k # 251,91.36,Gas,Uncategorized
+T01884,CIRCLE K # 14224,circle k # 14224,35.76,Gas,Uncategorized
+T01716,tst* the corner diner,tst* the corner diner,21.24,Restaurants,Restaurants
+T01360,SHELL OIL 90175 PHX AZ,shell oil 90175 phx az,65.87,Gas,Gas
+T01911,PEETS COFFEE #6387 SEATTLE WA,peets coffee #6387 seattle wa,6.36,Coffee,Coffee
+T01790,AMC ONLINE #4668,amc online #4668,55.19,Entertainment,Entertainment
+T00343,ALDI 46 DALLAS TX,aldi 46 dallas tx,186.99,Groceries,Uncategorized
+T01588,dunkin #87 austin tx,dunkin #87 austin tx,11.67,Coffee,Coffee
+T01826,ONCOR ELECTRIC DELIVERY,oncor electric delivery,282.36,Utilities,Utilities
+T01549,CHEVRON 20898,chevron 20898,42.4,Gas,Gas
+T00047,UBER*  EATS HELP.UBER.COM,uber* eats help.uber.com,63.14,Transport,Transport
+T00192,AMC ONLINE #96,amc online #96,71.59,Entertainment,Entertainment
+T01169,DUNKIN  #5987 SEATTLE WA,dunkin #5987 seattle wa,5.78,Coffee,Coffee
+T01993,RITE AID #6412 NY NY,rite aid #6412 ny ny,235.38,Health,Uncategorized
+T01909,BEST BUY #2598 NY NY,best buy #2598 ny ny,365.06,Shopping,Uncategorized
+T00711,ATT*BILL PAYMENT 14212,att*bill payment 14212,95.06,Utilities,Uncategorized
+T00137,CVS/PHARMACY #60 SEATTLE WA,cvs/pharmacy #60 seattle wa,37.26,Health,Health
+T00943,TST* OLIVE & VINE AUSTIN TX,tst* olive & vine austin tx,84.85,Restaurants,Uncategorized
+T00225,SQ *THE BOOK NOOK PHX AZ,sq *the book nook phx az,393.03,Shopping,Uncategorized
+T00657,SQ *THE COMEDY CLUB OAKLAND CA,sq *the comedy club oakland ca,31.14,Entertainment,Uncategorized
+T01176,NETFLIX.COM 18,netflix.com 18,72.98,Entertainment,Entertainment
+T01173,TST* THE CORNER DINER,tst* the corner diner,105.28,Restaurants,Restaurants
+T00168,SQ *CITY DENTAL CHICAGO IL,sq *city dental chicago il,203.62,Health,Uncategorized
+T01663,76 - 222 OAKLAND CA,76 - 222 oakland ca,35.49,Gas,Uncategorized
+T00795,TRADER JOE'S #6219,trader joe's #6219,98.55,Groceries,Groceries
+T01998,TXU ENERGY PAYMENT,txu energy payment,114.01,Utilities,Utilities
+T00619,SQ *BLUE BOTTLE 944 SEATTLE WA,sq *blue bottle 944 seattle wa,9.7,Coffee,Uncategorized
+T00570,STARBUCKS STORE 68,starbucks store 68,5.54,Coffee,Coffee
+T00036,MTA*NYCT PAYGO PHX AZ,mta*nyct paygo phx az,52.85,Transport,Uncategorized
+T00414,MTA*NYCT PAYGO AUSTIN TX,mta*nyct paygo austin tx,26.35,Transport,Uncategorized
+T00083,POS DEBIT H-E-B #196,pos debit h-e-b #196,135.87,Groceries,Uncategorized
+T00125,KROGER 18 MIAMI FL,kroger 18 miami fl,179.94,Groceries,Groceries
+T01992,ATT*BILL PAYMENT 361,att*bill payment 361,209.34,Utilities,Uncategorized
+T01096,CITY OF DALLAS WATER UT,city of dallas water ut,294.84,Utilities,Utilities
+T01818,SHELL  OIL 977 MIAMI FL,shell oil 977 miami fl,86.29,Gas,Gas
+T01621,CITY OF DALLAS WATER UT,city of dallas water ut,129.92,Utilities,Utilities
+T00379,PARKING METER #576 DENVER CO,parking meter #576 denver co,13.06,Transport,Transport
+T00732,PARKING METER #475 CHICAGO IL  ,parking meter #475 chicago il,9.1,Transport,Transport
+T01916,UBER *TRIP NY NY,uber *trip ny ny,15.62,Transport,Transport
+T01367,AMZN MKTP US*7954 AMZN.COM/BILL WA,amzn mktp us*7954 amzn.com/bill wa,29.54,Shopping,Shopping
+T01836,ALDI 27834 NY NY,aldi 27834 ny ny,114.1,Groceries,Uncategorized
+T01444,netflix.com 41,netflix.com 41,88.05,Entertainment,Entertainment
+T01479,DART RAIL BOSTON MA,dart rail boston ma,32.49,Transport,Uncategorized
+T01516,76 - 1134 SEATTLE WA,76 - 1134 seattle wa,71.07,Gas,Uncategorized
+T01849,SQ *BLUE BOTTLE 05573 SEATTLE WA,sq *blue bottle 05573 seattle wa,3.96,Coffee,Uncategorized
+T00432,TST* OLIVE & VINE NY NY,tst* olive & vine ny ny,56.08,Restaurants,Uncategorized
+T01401,DOORDASH*MCDONALDS,doordash*mcdonalds,54.04,Restaurants,Restaurants
+T00716,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,55.76,Transport,Transport
+T00898,UBER *TRIP BOSTON MA,uber *trip boston ma,7.34,Transport,Transport
+T01166,ATT*BILL PAYMENT 1776,att*bill payment 1776,249.17,Utilities,Uncategorized
+T01037,comcast cable comm 66,comcast cable comm 66,152.39,Utilities,Utilities
+T01032,COMCAST CABLE COMM 9638,comcast cable comm 9638,307.93,Utilities,Utilities
+T01924,CITY OF DALLAS WATER UT,city of dallas water ut,261.34,Utilities,Utilities
+T00954,TRADER JOE'S #56,trader joe's #56,103.53,Groceries,Groceries
+T01405,CHEVRON 53,chevron 53,74.74,Gas,Gas
+T01741,COMCAST CABLE COMM 766,comcast cable comm 766,252.38,Utilities,Utilities
+T01605,TST* THE CORNER DINER,tst* the corner diner,129.15,Restaurants,Restaurants
+T01136,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,47.98,Transport,Uncategorized
+T00544,DUNKIN #6450 DENVER CO,dunkin #6450 denver co,9.28,Coffee,Coffee
+T00092,STARBUCKS STORE 4632,starbucks store 4632,11.32,Coffee,Coffee
+T01997,ALDI 48395 OAKLAND CA,aldi 48395 oakland ca,115.37,Groceries,Uncategorized
+T01754,SQ *THE BOOK NOOK OAKLAND CA,sq *the book nook oakland ca,304.47,Shopping,Uncategorized
+T00386,exxonmobil 30 seattle wa,exxonmobil 30 seattle wa,86.97,Gas,Gas
+T01123,WHOLEFDS MKT 197 AUSTIN TX  ,wholefds mkt 197 austin tx,127.05,Groceries,Groceries
+T00112,VERIZON WIRELESS 42,verizon wireless 42,279.05,Utilities,Utilities
+T01488,REGAL CINEMAS 603 OAKLAND CA,regal cinemas 603 oakland ca,40.2,Entertainment,Entertainment
+T01494,EXXONMOBIL 196 DALLAS TX,exxonmobil 196 dallas tx,67.71,Gas,Gas
+T00814,SAFEWAY #43 OAKLAND CA,safeway #43 oakland ca,22.66,Groceries,Groceries
+T00747,ATT*BILL PAYMENT 7607,att*bill payment 7607,224.96,Utilities,Uncategorized
+T00276,AMC ONLINE #79  ,amc online #79,50.71,Entertainment,Entertainment
+T00202,WALMART SUPERCENTER #28124,walmart supercenter #28124,72.06,Shopping,Shopping
+T01542,TARGET 5030 MIAMI FL,target 5030 miami fl,451.47,Shopping,Shopping
+T01383,ONCOR ELECTRIC DELIVERY,oncor electric delivery,298.86,Utilities,Utilities
+T00058,ATT*BILL PAYMENT 823,att*bill payment 823,287.3,Utilities,Uncategorized
+T00306,POS DEBIT H-E-B #356,pos debit h-e-b #356,57.41,Groceries,Uncategorized
+T00268,TST* THE CORNER DINER,tst* the corner diner,102.08,Restaurants,Restaurants
+T00498,SQ *THE COMEDY CLUB CHICAGO IL,sq *the comedy club chicago il,17.76,Entertainment,Uncategorized
+T01926,SQ *BLUE BOTTLE 9890 AUSTIN TX,sq *blue bottle 9890 austin tx,8.75,Coffee,Uncategorized
+T01144,CVS/PHARMACY #5 BOSTON MA,cvs/pharmacy #5 boston ma,137.89,Health,Health
+T01187,SPOTIFY USA 27,spotify usa 27,59.4,Entertainment,Entertainment
+T01882,SPOTIFY USA 32,spotify usa 32,69.55,Entertainment,Entertainment
+T01631,DART RAIL DENVER CO,dart rail denver co,60.78,Transport,Uncategorized
+T01753,LA FITNESS 8 CHICAGO IL,la fitness 8 chicago il,123.69,Health,Health
+T01787,ONCOR ELECTRIC DELIVERY,oncor electric delivery,273.87,Utilities,Utilities
+T01638,DART RAIL DENVER CO,dart rail denver co,37.71,Transport,Uncategorized
+T00231,PARKING METER #4331 NY NY,parking meter #4331 ny ny,19.58,Transport,Transport
+T01473,WALMART SUPERCENTER #7285,walmart supercenter #7285,276.21,Shopping,Shopping
+T01020,TARGET 384 OAKLAND CA,target 384 oakland ca,350.35,Shopping,Shopping
+T01080,POS DEBIT BP#31,pos debit bp#31,61.36,Gas,Uncategorized
+T01556,WALMART  SUPERCENTER #6875,walmart supercenter #6875,55.73,Shopping,Shopping
+T00960,MTA*NYCT PAYGO CHICAGO IL,mta*nyct paygo chicago il,20.34,Transport,Uncategorized
+T01221,ONCOR ELECTRIC DELIVERY,oncor electric delivery,157.69,Utilities,Utilities
+T01366,DUNKIN #4286 MIAMI FL,dunkin #4286 miami fl,6.98,Coffee,Coffee
+T00505,GRUBHUB*THAI BASIL DENVER CO,grubhub*thai basil denver co,17.11,Restaurants,Restaurants
+T00679,netflix.com 42647,netflix.com 42647,86.29,Entertainment,Entertainment
+T00114,KROGER 710 OAKLAND CA  ,kroger 710 oakland ca,178.21,Groceries,Groceries
+T00332,netflix.com 26518,netflix.com 26518,84.35,Entertainment,Entertainment
+T00144,POS DEBIT H-E-B #2131,pos debit h-e-b #2131,130.15,Groceries,Uncategorized
+T00902,REGAL  CINEMAS 6627 CHICAGO IL,regal cinemas 6627 chicago il,51.14,Entertainment,Entertainment
+T00358,WALGREENS #006,walgreens #006,96.61,Health,Health
+T01592,WALGREENS #3976,walgreens #3976,208.41,Health,Health
+T00383,chevron 83789,chevron 83789,92.81,Gas,Gas
+T00006,POS DEBIT QUEST DIAGNOSTIC  ,pos debit quest diagnostic,66.97,Health,Uncategorized
+T00899,ATT*BILL PAYMENT 08056,att*bill payment 08056,211.4,Utilities,Uncategorized
+T01193,POS DEBIT H-E-B #34446,pos debit h-e-b #34446,190.74,Groceries,Uncategorized
+T01237,CITY OF DALLAS WATER UT,city of dallas water ut,69.73,Utilities,Utilities
+T00916,ONCOR ELECTRIC DELIVERY,oncor electric delivery,169.42,Utilities,Utilities
+T00370,SPOTIFY USA 42,spotify usa 42,10.25,Entertainment,Entertainment
+T00239,POS DEBIT BP#956,pos debit bp#956,38.04,Gas,Uncategorized
+T01604,UBER *TRIP PHX AZ,uber *trip phx az,2.98,Transport,Transport
+T01466,STEAMGAMES.COM 700 WA,steamgames.com 700 wa,87.72,Entertainment,Uncategorized
+T01252,REGAL CINEMAS 3909 SEATTLE WA,regal cinemas 3909 seattle wa,20.0,Entertainment,Entertainment
+T01021,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,28.14,Transport,Transport
+T01862,SQ *BLUE BOTTLE 68718 NY NY,sq *blue bottle 68718 ny ny,10.93,Coffee,Uncategorized
+T00520,CITY OF DALLAS WATER UT,city of dallas water ut,98.94,Utilities,Utilities
+T00535,SQ *CITY DENTAL PHX AZ,sq *city dental phx az,70.82,Health,Uncategorized
+T00682,MTA*NYCT PAYGO AUSTIN TX,mta*nyct paygo austin tx,40.52,Transport,Uncategorized
+T01688,76 - 5291 MIAMI FL  ,76 - 5291 miami fl,78.59,Gas,Uncategorized
+T00041,POS DEBIT H-E-B #558,pos debit h-e-b #558,45.36,Groceries,Uncategorized
+T00507,ALDI 6165 BOSTON MA,aldi 6165 boston ma,182.53,Groceries,Uncategorized
+T00594,REGAL CINEMAS 13644 DALLAS TX,regal cinemas 13644 dallas tx,48.39,Entertainment,Entertainment
+T00806,LA FITNESS 26467 DENVER CO,la fitness 26467 denver co,75.42,Health,Health
+T00331,SQ  *BLUE BOTTLE 80 OAKLAND CA,sq *blue bottle 80 oakland ca,10.72,Coffee,Uncategorized
+T00449,SPOTIFY USA 47002,spotify usa 47002,47.0,Entertainment,Entertainment
+T01881,SQ  *LOCAL GROUNDS NY NY,sq *local grounds ny ny,7.15,Coffee,Uncategorized
+T01524,UBER *TRIP DALLAS TX,uber *trip dallas tx,10.06,Transport,Transport
+T01748,RITE AID #36506 PHX AZ,rite aid #36506 phx az,174.78,Health,Uncategorized
+T01995,pos debit quest diagnostic,pos debit quest diagnostic,153.86,Health,Uncategorized
+T01321,TST* PHILZ COFFEE BOSTON MA,tst* philz coffee boston ma,8.14,Coffee,Coffee
+T01485,TRADER JOE'S #997,trader joe's #997,171.14,Groceries,Groceries
+T01002,UBER *TRIP MIAMI FL,uber *trip miami fl,17.92,Transport,Transport
+T00251,DUNKIN #88181 OAKLAND CA,dunkin #88181 oakland ca,10.35,Coffee,Coffee
+T00856,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,47.82,Health,Uncategorized
+T00547,STEAMGAMES.COM 429 WA,steamgames.com 429 wa,29.49,Entertainment,Uncategorized
+T00631,att*bill payment 775,att*bill payment 775,297.54,Utilities,Uncategorized
+T01139,VERIZON WIRELESS 71,verizon wireless 71,160.13,Utilities,Utilities
+T00656,CHIPOTLE 7849 OAKLAND CA,chipotle 7849 oakland ca,73.63,Restaurants,Restaurants
+T00417,ETSY.COM - SELLER6943,etsy.com - seller6943,110.99,Shopping,Uncategorized
+T01107,AMZN  MKTP US*86019 AMZN.COM/BILL WA,amzn mktp us*86019 amzn.com/bill wa,360.63,Shopping,Shopping
+T01183,SAFEWAY  #61405 AUSTIN TX,safeway #61405 austin tx,165.01,Groceries,Groceries
+T00501,REGAL CINEMAS 374 NY NY,regal cinemas 374 ny ny,55.53,Entertainment,Entertainment
+T01439,ONCOR ELECTRIC DELIVERY,oncor electric delivery,161.57,Utilities,Utilities
+T01866,STEAMGAMES.COM 971 WA,steamgames.com 971 wa,37.15,Entertainment,Uncategorized
+T01338,SQ *THE COMEDY CLUB NY NY,sq *the comedy club ny ny,75.45,Entertainment,Uncategorized
+T00666,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,29.79,Transport,Transport
+T00342,ETSY.COM  - SELLER30,etsy.com - seller30,243.8,Shopping,Uncategorized
+T01828,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,54.31,Health,Uncategorized
+T00295,SQ *THE COMEDY CLUB DALLAS TX,sq *the comedy club dallas tx,85.7,Entertainment,Uncategorized
+T01128,TRADER JOE'S #98399,trader joe's #98399,97.17,Groceries,Groceries
+T01719,ONCOR ELECTRIC DELIVERY,oncor electric delivery,152.84,Utilities,Utilities
+T02000,SQ *THE COMEDY CLUB NY NY,sq *the comedy club ny ny,65.19,Entertainment,Uncategorized
+T00621,SQ *LOCAL GROUNDS BOSTON MA,sq *local grounds boston ma,5.03,Coffee,Uncategorized
+T01312,SQ *CITY DENTAL MIAMI FL,sq *city dental miami fl,165.47,Health,Uncategorized
+T00155,CHEVRON 69806,chevron 69806,71.76,Gas,Gas
+T01199,VERIZON  WIRELESS 1625,verizon wireless 1625,39.52,Utilities,Utilities
+T01973,WALGREENS #65,walgreens #65,89.61,Health,Health
+T01985,COMCAST CABLE COMM 552,comcast cable comm 552,159.3,Utilities,Utilities
+T00875,KROGER 5143 DENVER CO,kroger 5143 denver co,69.34,Groceries,Groceries
+T01869,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,13.8,Transport,Transport
+T00207,TRADER JOE'S #1215,trader joe's #1215,85.63,Groceries,Groceries
+T00351,TST* PHILZ COFFEE CHICAGO IL,tst* philz coffee chicago il,8.19,Coffee,Coffee
+T00844,SQ *BLUE BOTTLE 928 DENVER CO,sq *blue bottle 928 denver co,9.31,Coffee,Uncategorized
+T01876,TST* OLIVE & VINE AUSTIN TX,tst* olive & vine austin tx,113.26,Restaurants,Uncategorized
+T00439,VERIZON WIRELESS 84,verizon wireless 84,72.72,Utilities,Utilities
+T01260,TST* THE CORNER DINER,tst* the corner diner,124.27,Restaurants,Restaurants
+T01161,DART RAIL DALLAS TX  ,dart rail dallas tx,42.47,Transport,Uncategorized
+T01181,ETSY.COM - SELLER79,etsy.com - seller79,272.7,Shopping,Uncategorized
+T00318,steamgames.com 54477 wa,steamgames.com 54477 wa,53.49,Entertainment,Uncategorized
+T00354,SHELL OIL 29427 NY NY,shell oil 29427 ny ny,75.42,Gas,Gas
+T01913,SQ *LOCAL GROUNDS CHICAGO IL,sq *local grounds chicago il,5.52,Coffee,Uncategorized
+T01819,SHELL OIL 245 CHICAGO IL,shell oil 245 chicago il,75.45,Gas,Gas
+T00060,TXU ENERGY PAYMENT,txu energy payment,102.99,Utilities,Utilities
+T00382,ALDI 1188 MIAMI FL,aldi 1188 miami fl,84.0,Groceries,Uncategorized
+T01194,REGAL CINEMAS 4 NY NY,regal cinemas 4 ny ny,51.87,Entertainment,Entertainment
+T01343,COMCAST CABLE COMM 2088,comcast cable comm 2088,115.68,Utilities,Utilities
+T01157,ATT*BILL PAYMENT 847,att*bill payment 847,67.24,Utilities,Uncategorized
+T00445,DART RAIL OAKLAND CA,dart rail oakland ca,43.79,Transport,Uncategorized
+T01492,AMZN MKTP US*44883 AMZN.COM/BILL WA,amzn mktp us*44883 amzn.com/bill wa,368.07,Shopping,Shopping
+T01469,POS DEBIT H-E-B #56,pos debit h-e-b #56,96.67,Groceries,Uncategorized
+T01613,POS DEBIT H-E-B #30,pos debit h-e-b #30,166.36,Groceries,Uncategorized
+T00908,CIRCLE K # 68113,circle k # 68113,65.77,Gas,Uncategorized
+T00407,PEETS COFFEE #3892 DENVER CO,peets coffee #3892 denver co,11.07,Coffee,Coffee
+T00441,WALGREENS #6713  ,walgreens #6713,134.09,Health,Health
+T01408,trader joe's #746,trader joe's #746,24.12,Groceries,Groceries
+T00937,SQ *LOCAL GROUNDS PHX AZ,sq *local grounds phx az,11.11,Coffee,Uncategorized
+T00130,POS DEBIT BP#48629,pos debit bp#48629,35.82,Gas,Uncategorized
+T00360,COMCAST CABLE COMM 18  ,comcast cable comm 18,98.65,Utilities,Utilities
+T00961,SQ *CITY DENTAL BOSTON MA,sq *city dental boston ma,149.86,Health,Uncategorized
+T01738,rite aid #18 boston ma,rite aid #18 boston ma,200.13,Health,Uncategorized
+T00248,SQ *TAQUERIA EL SOL BOSTON MA,sq *taqueria el sol boston ma,22.0,Restaurants,Uncategorized
+T00901,UBER *TRIP MIAMI FL,uber *trip miami fl,14.92,Transport,Transport
+T01472,CHIPOTLE 42 DENVER CO,chipotle 42 denver co,74.92,Restaurants,Restaurants
+T00373,BEST  BUY #72179 OAKLAND CA,best buy #72179 oakland ca,188.78,Shopping,Uncategorized
+T01126,KROGER 68650 DALLAS TX,kroger 68650 dallas tx,157.82,Groceries,Groceries
+T00109,TST* PHILZ COFFEE MIAMI FL,tst* philz coffee miami fl,10.13,Coffee,Coffee
+T00804,SHELL OIL 94 AUSTIN TX,shell oil 94 austin tx,26.87,Gas,Gas
+T00210,TARGET 8740 BOSTON MA,target 8740 boston ma,287.33,Shopping,Shopping
+T01495,PARKING METER #85654 CHICAGO IL,parking meter #85654 chicago il,18.56,Transport,Transport
+T00494,TRADER JOE'S #43365,trader joe's #43365,63.08,Groceries,Groceries
+T01135,POS DEBIT H-E-B #85698,pos debit h-e-b #85698,182.45,Groceries,Uncategorized
+T01347,CITY OF DALLAS WATER UT,city of dallas water ut,170.66,Utilities,Utilities
+T00784,CITY OF DALLAS WATER UT,city of dallas water ut,263.68,Utilities,Utilities
+T00929,AMZN MKTP US*7615 AMZN.COM/BILL WA,amzn mktp us*7615 amzn.com/bill wa,200.34,Shopping,Shopping
+T01520,CHEVRON 62,chevron 62,39.72,Gas,Gas
+T01372,SQ *BLUE BOTTLE 96 BOSTON MA,sq *blue bottle 96 boston ma,7.36,Coffee,Uncategorized
+T01901,SQ  *THE BOOK NOOK PHX AZ,sq *the book nook phx az,202.92,Shopping,Uncategorized
+T01673,AMZN MKTP US*51062 AMZN.COM/BILL WA,amzn mktp us*51062 amzn.com/bill wa,179.71,Shopping,Shopping
+T01047,LYFT *RIDE THU 4PM  ,lyft *ride thu 4pm,24.43,Transport,Transport
+T01728,SPOTIFY USA 49  ,spotify usa 49,21.34,Entertainment,Entertainment
+T01267,SHELL OIL 2337 MIAMI FL,shell oil 2337 miami fl,30.65,Gas,Gas
+T00292,ONCOR ELECTRIC DELIVERY,oncor electric delivery,188.87,Utilities,Utilities
+T01989,CHIPOTLE 89 OAKLAND CA,chipotle 89 oakland ca,123.08,Restaurants,Restaurants
+T00067,SQ *BLUE BOTTLE 17786 DALLAS TX  ,sq *blue bottle 17786 dallas tx,6.41,Coffee,Uncategorized
+T01170,BEST BUY #322 SEATTLE WA,best buy #322 seattle wa,339.65,Shopping,Uncategorized
+T00317,TST* PHILZ COFFEE NY NY,tst* philz coffee ny ny,11.67,Coffee,Coffee
+T00777,NETFLIX.COM 6834,netflix.com 6834,60.16,Entertainment,Entertainment
+T00278,SHELL OIL 67 NY NY,shell oil 67 ny ny,61.85,Gas,Gas
+T00991,safeway #83755 austin tx,safeway #83755 austin tx,153.35,Groceries,Groceries
+T01956,SQ *BLUE BOTTLE 69181 PHX AZ,sq *blue bottle 69181 phx az,3.72,Coffee,Uncategorized
+T01286,SQ *CITY DENTAL BOSTON MA  ,sq *city dental boston ma,173.98,Health,Uncategorized
+T01152,CITY OF DALLAS WATER UT,city of dallas water ut,148.83,Utilities,Utilities
+T00744,PEETS COFFEE #62818 DENVER CO,peets coffee #62818 denver co,3.75,Coffee,Coffee
+T01951,TST* OLIVE & VINE DALLAS TX,tst* olive & vine dallas tx,115.33,Restaurants,Uncategorized
+T00534,ALDI 64 SEATTLE WA,aldi 64 seattle wa,179.6,Groceries,Uncategorized
+T00658,PARKING METER #26 SEATTLE WA  ,parking meter #26 seattle wa,11.41,Transport,Transport
+T00951,ONCOR ELECTRIC DELIVERY,oncor electric delivery,298.67,Utilities,Utilities
+T00984,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,205.78,Health,Uncategorized
+T00717,KROGER 3327 BOSTON MA  ,kroger 3327 boston ma,93.75,Groceries,Groceries
+T00371,VERIZON WIRELESS 65028,verizon wireless 65028,82.52,Utilities,Utilities
+T01612,CVS/PHARMACY #62759 AUSTIN TX,cvs/pharmacy #62759 austin tx,218.27,Health,Health
+T00363,MTA*NYCT PAYGO AUSTIN TX,mta*nyct paygo austin tx,10.58,Transport,Uncategorized
+T00934,CIRCLE K # 38,circle k # 38,83.13,Gas,Uncategorized
+T01363,comcast cable comm 4053,comcast cable comm 4053,297.99,Utilities,Utilities
+T01944,CHEVRON 23,chevron 23,79.34,Gas,Gas
+T01880,SQ *LOCAL GROUNDS CHICAGO IL,sq *local grounds chicago il,10.4,Coffee,Uncategorized
+T01063,DUNKIN #5060 CHICAGO IL,dunkin #5060 chicago il,9.36,Coffee,Coffee
+T00828,WALGREENS #92  ,walgreens #92,234.13,Health,Health
+T00966,ATT*BILL PAYMENT 24149  ,att*bill payment 24149,133.42,Utilities,Uncategorized
+T01912,STARBUCKS STORE 30025,starbucks store 30025,4.68,Coffee,Coffee
+T00339,txu energy payment,txu energy payment,68.87,Utilities,Utilities
+T01091,WHOLEFDS MKT 325 DALLAS TX,wholefds mkt 325 dallas tx,166.97,Groceries,Groceries
+T00050,RITE AID #372 AUSTIN TX,rite aid #372 austin tx,240.19,Health,Uncategorized
+T00707,DUNKIN  #973 AUSTIN TX,dunkin #973 austin tx,8.44,Coffee,Coffee
+T00949,CHIPOTLE 73 NY NY,chipotle 73 ny ny,66.25,Restaurants,Restaurants
+T01133,MTA*NYCT PAYGO DALLAS TX,mta*nyct paygo dallas tx,40.52,Transport,Uncategorized
+T01470,dart rail austin tx,dart rail austin tx,18.54,Transport,Uncategorized
+T01842,SQ *BLUE BOTTLE 38 CHICAGO IL,sq *blue bottle 38 chicago il,11.99,Coffee,Uncategorized
+T00328,TXU ENERGY PAYMENT,txu energy payment,35.68,Utilities,Utilities
+T01003,PEETS COFFEE #09 MIAMI FL,peets coffee #09 miami fl,6.59,Coffee,Coffee
+T00538,TARGET 1523 SEATTLE WA  ,target 1523 seattle wa,447.62,Shopping,Shopping
+T01892,CHEVRON 66,chevron 66,54.55,Gas,Gas
+T00502,POS DEBIT BP#50  ,pos debit bp#50,41.72,Gas,Uncategorized
+T01795,TRADER JOE'S #21706  ,trader joe's #21706,109.22,Groceries,Groceries
+T00185,NETFLIX.COM 63,netflix.com 63,66.36,Entertainment,Entertainment
+T00017,SQ *CITY DENTAL DENVER CO  ,sq *city dental denver co,242.27,Health,Uncategorized
+T01765,peets coffee #57958 seattle wa,peets coffee #57958 seattle wa,3.7,Coffee,Coffee
+T00773,CHEVRON 7776,chevron 7776,66.35,Gas,Gas
+T00121,AMC ONLINE #621,amc online #621,58.15,Entertainment,Entertainment
+T00190,REGAL CINEMAS 830 AUSTIN TX,regal cinemas 830 austin tx,85.26,Entertainment,Entertainment
+T01279,WHOLEFDS  MKT 19 BOSTON MA,wholefds mkt 19 boston ma,56.88,Groceries,Groceries
+T00625,ETSY.COM - SELLER440,etsy.com - seller440,157.86,Shopping,Uncategorized
+T01284,TST* PHILZ COFFEE OAKLAND CA,tst* philz coffee oakland ca,3.31,Coffee,Coffee
+T00015,SAFEWAY #20730 OAKLAND CA,safeway #20730 oakland ca,194.55,Groceries,Groceries
+T01322,WALMART SUPERCENTER #4104,walmart supercenter #4104,319.89,Shopping,Shopping
+T01723,KROGER 98179 NY NY,kroger 98179 ny ny,111.2,Groceries,Groceries
+T00294,POS DEBIT BP#6899,pos debit bp#6899,50.28,Gas,Uncategorized
+T01243,CHIPOTLE 59301 MIAMI FL,chipotle 59301 miami fl,47.56,Restaurants,Restaurants
+T00410,SQ *THE COMEDY CLUB AUSTIN TX,sq *the comedy club austin tx,48.57,Entertainment,Uncategorized
+T00259,TST* THE CORNER DINER,tst* the corner diner,108.56,Restaurants,Restaurants
+T00129,TRADER  JOE'S #04,trader joe's #04,63.13,Groceries,Groceries
+T01713,ALDI 32 NY NY,aldi 32 ny ny,176.48,Groceries,Uncategorized
+T00390,NETFLIX.COM 37,netflix.com 37,14.8,Entertainment,Entertainment
+T00274,CHEVRON 24123  ,chevron 24123,84.27,Gas,Gas
+T01510,ALDI 817 PHX AZ,aldi 817 phx az,140.06,Groceries,Uncategorized
+T00217,ATT*BILL PAYMENT 833,att*bill payment 833,87.2,Utilities,Uncategorized
+T01672,PARKING METER #49 PHX AZ,parking meter #49 phx az,35.34,Transport,Transport
+T01655,POS DEBIT BP#9855,pos debit bp#9855,40.28,Gas,Uncategorized
+T01113,CIRCLE K # 255,circle k # 255,94.6,Gas,Uncategorized
+T01450,UBER *TRIP SEATTLE WA,uber *trip seattle wa,40.52,Transport,Transport
+T00355,ALDI 1956 DALLAS TX,aldi 1956 dallas tx,120.73,Groceries,Uncategorized
+T01667,SPOTIFY USA 64291,spotify usa 64291,34.44,Entertainment,Entertainment
+T01650,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,14.57,Transport,Transport
+T00448,TRADER JOE'S #20,trader joe's #20,113.95,Groceries,Groceries
+T01077,NETFLIX.COM 96,netflix.com 96,56.32,Entertainment,Entertainment
+T00143,WALMART  SUPERCENTER #703,walmart supercenter #703,48.29,Shopping,Shopping
+T00429,AMC ONLINE #320,amc online #320,23.59,Entertainment,Entertainment
+T01858,SQ *LOCAL GROUNDS OAKLAND CA,sq *local grounds oakland ca,6.07,Coffee,Uncategorized
+T00756,TST* PHILZ COFFEE DENVER CO,tst* philz coffee denver co,6.99,Coffee,Coffee
+T01883,ATT*BILL PAYMENT 20  ,att*bill payment 20,138.0,Utilities,Uncategorized
+T01442,RITE AID #32588 AUSTIN TX,rite aid #32588 austin tx,41.51,Health,Uncategorized
+T01513,PEETS COFFEE #0104 OAKLAND CA  ,peets coffee #0104 oakland ca,5.9,Coffee,Coffee
+T01056,REGAL CINEMAS 85 BOSTON MA,regal cinemas 85 boston ma,47.32,Entertainment,Entertainment
+T01969,TST* THE CORNER DINER,tst* the corner diner,130.74,Restaurants,Restaurants
+T00751,GRUBHUB*THAI BASIL PHX AZ,grubhub*thai basil phx az,101.96,Restaurants,Restaurants
+T01919,CVS/PHARMACY #246 NY NY,cvs/pharmacy #246 ny ny,43.68,Health,Health
+T01922,CVS/PHARMACY #23 OAKLAND CA,cvs/pharmacy #23 oakland ca,17.35,Health,Health
+T01530,KROGER 14 DENVER CO,kroger 14 denver co,190.51,Groceries,Groceries
+T01953,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,10.24,Health,Uncategorized
+T00847,ETSY.COM - SELLER50079,etsy.com - seller50079,291.24,Shopping,Uncategorized
+T01950,POS DEBIT BP#1531,pos debit bp#1531,53.48,Gas,Uncategorized
+T00600,WALMART  SUPERCENTER #238,walmart supercenter #238,196.7,Shopping,Shopping
+T01474,STARBUCKS STORE 534,starbucks store 534,6.34,Coffee,Coffee
+T00904,SHELL OIL 69 NY NY,shell oil 69 ny ny,46.28,Gas,Gas
+T01616,EXXONMOBIL 28 NY NY,exxonmobil 28 ny ny,75.48,Gas,Gas
+T01306,WALGREENS #56,walgreens #56,101.93,Health,Health
+T00920,SQ *LOCAL GROUNDS AUSTIN TX,sq *local grounds austin tx,9.36,Coffee,Uncategorized
+T00867,SHELL OIL 8042 CHICAGO IL,shell oil 8042 chicago il,67.25,Gas,Gas
+T00455,AMC ONLINE #63,amc online #63,9.01,Entertainment,Entertainment
+T01414,ETSY.COM - SELLER34674,etsy.com - seller34674,179.63,Shopping,Uncategorized
+T01742,CHEVRON 8145,chevron 8145,54.21,Gas,Gas
+T01024,KROGER 24 DALLAS TX,kroger 24 dallas tx,40.74,Groceries,Groceries
+T00296,CITY  OF DALLAS WATER UT,city of dallas water ut,123.18,Utilities,Utilities
+T01005,netflix.com 70,netflix.com 70,74.92,Entertainment,Entertainment
+T01468,TXU ENERGY PAYMENT,txu energy payment,277.92,Utilities,Utilities
+T01270,TARGET 72651 CHICAGO IL,target 72651 chicago il,148.34,Shopping,Shopping
+T01202,SAFEWAY #54124 OAKLAND CA,safeway #54124 oakland ca,175.35,Groceries,Groceries
+T00791,WHOLEFDS MKT 601 DALLAS TX,wholefds mkt 601 dallas tx,21.0,Groceries,Groceries
+T01938,WALGREENS #6045,walgreens #6045,163.63,Health,Health
+T01264,RITE AID #310 CHICAGO IL  ,rite aid #310 chicago il,83.68,Health,Uncategorized
+T01967,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,90.76,Health,Uncategorized
+T01065,STARBUCKS STORE 95341,starbucks store 95341,8.93,Coffee,Coffee
+T01961,REGAL CINEMAS 50393 DALLAS TX,regal cinemas 50393 dallas tx,84.33,Entertainment,Entertainment
+T00583,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,148.63,Health,Uncategorized
+T00622,VERIZON WIRELESS 089,verizon wireless 089,203.42,Utilities,Utilities
+T00582,REGAL CINEMAS 73272 BOSTON MA,regal cinemas 73272 boston ma,21.94,Entertainment,Entertainment
+T00206,WHOLEFDS MKT 6523 BOSTON MA,wholefds mkt 6523 boston ma,98.93,Groceries,Groceries
+T01397,TRADER JOE'S #49454,trader joe's #49454,186.92,Groceries,Groceries
+T00374,TST* THE CORNER DINER,tst* the corner diner,57.97,Restaurants,Restaurants
+T01512,UBER *TRIP DENVER CO,uber *trip denver co,45.63,Transport,Transport
+T01138,GRUBHUB*THAI BASIL CHICAGO IL  ,grubhub*thai basil chicago il,32.85,Restaurants,Restaurants
+T00872,GRUBHUB*THAI BASIL BOSTON MA  ,grubhub*thai basil boston ma,17.77,Restaurants,Restaurants
+T01297,TRADER JOE'S #1653,trader joe's #1653,138.31,Groceries,Groceries
+T01298,STARBUCKS STORE 4118  ,starbucks store 4118,10.84,Coffee,Coffee
+T00418,SQ *CITY DENTAL OAKLAND CA,sq *city dental oakland ca,175.59,Health,Uncategorized
+T01069,CHEVRON 823,chevron 823,84.93,Gas,Gas
+T00070,DUNKIN #244 DENVER CO,dunkin #244 denver co,8.08,Coffee,Coffee
+T00985,TXU ENERGY PAYMENT,txu energy payment,233.92,Utilities,Utilities
+T00697,CIRCLE K # 48466,circle k # 48466,41.53,Gas,Uncategorized
+T00664,STEAMGAMES.COM 00 WA,steamgames.com 00 wa,55.92,Entertainment,Uncategorized
+T00012,CITY OF DALLAS WATER UT,city of dallas water ut,271.8,Utilities,Utilities
+T00427,KROGER 512 MIAMI FL,kroger 512 miami fl,99.69,Groceries,Groceries
+T00142,DOORDASH*MCDONALDS,doordash*mcdonalds,52.01,Restaurants,Restaurants
+T01863,WALMART SUPERCENTER #436,walmart supercenter #436,257.97,Shopping,Shopping
+T01779,CIRCLE K # 08  ,circle k # 08,57.25,Gas,Uncategorized
+T00668,grubhub*thai basil chicago il,grubhub*thai basil chicago il,102.16,Restaurants,Restaurants
+T01637,NETFLIX.COM 17,netflix.com 17,20.32,Entertainment,Entertainment
+T00238,MTA*NYCT PAYGO PHX AZ,mta*nyct paygo phx az,48.54,Transport,Uncategorized
+T01694,SQ *TAQUERIA EL SOL SEATTLE WA,sq *taqueria el sol seattle wa,94.92,Restaurants,Uncategorized
+T01809,SQ *THE BOOK NOOK DALLAS TX  ,sq *the book nook dallas tx,294.11,Shopping,Uncategorized
+T01692,GRUBHUB*THAI BASIL SEATTLE WA,grubhub*thai basil seattle wa,62.26,Restaurants,Restaurants
+T01797,RITE AID #9729 NY NY,rite aid #9729 ny ny,118.47,Health,Uncategorized
+T01317,CVS/PHARMACY #0512 OAKLAND CA,cvs/pharmacy #0512 oakland ca,198.62,Health,Health
+T00269,GRUBHUB*THAI BASIL DENVER CO,grubhub*thai basil denver co,57.99,Restaurants,Restaurants
+T00485,UBER *TRIP DALLAS TX,uber *trip dallas tx,37.16,Transport,Transport
+T00149,UBER *TRIP PHX AZ,uber *trip phx az,6.38,Transport,Transport
+T00476,PARKING METER #99 DENVER CO,parking meter #99 denver co,36.66,Transport,Transport
+T01799,TRADER JOE'S #864,trader joe's #864,46.42,Groceries,Groceries
+T01326,STARBUCKS STORE 83,starbucks store 83,10.75,Coffee,Coffee
+T01201,ATT*BILL PAYMENT 795,att*bill payment 795,88.78,Utilities,Uncategorized
+T00471,ETSY.COM - SELLER48,etsy.com - seller48,468.59,Shopping,Uncategorized
+T01310,POS DEBIT H-E-B #09,pos debit h-e-b #09,159.58,Groceries,Uncategorized
+T00763,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,59.99,Transport,Transport
+T00629,POS DEBIT H-E-B #17575,pos debit h-e-b #17575,94.43,Groceries,Uncategorized
+T01642,SQ *THE BOOK NOOK DALLAS TX  ,sq *the book nook dallas tx,120.72,Shopping,Uncategorized
+T00320,SQ *CITY DENTAL CHICAGO IL,sq *city dental chicago il,215.82,Health,Uncategorized
+T00088,76 - 1395 AUSTIN TX,76 - 1395 austin tx,54.13,Gas,Uncategorized
+T00081,VERIZON WIRELESS 313,verizon wireless 313,129.53,Utilities,Utilities
+T01808,WHOLEFDS MKT 24 MIAMI FL,wholefds mkt 24 miami fl,115.52,Groceries,Groceries
+T00013,CIRCLE K # 78172,circle k # 78172,94.73,Gas,Uncategorized
+T01743,POS DEBIT H-E-B #791,pos debit h-e-b #791,72.57,Groceries,Uncategorized
+T00279,BEST BUY #47 DENVER CO,best buy #47 denver co,475.39,Shopping,Uncategorized
+T00053,BEST BUY #38 NY NY,best buy #38 ny ny,281.75,Shopping,Uncategorized
+T00681,STARBUCKS STORE 463,starbucks store 463,7.02,Coffee,Coffee
+T01900,SQ *BLUE BOTTLE 4024 SEATTLE WA,sq *blue bottle 4024 seattle wa,3.8,Coffee,Uncategorized
+T01420,TRADER JOE'S #5018,trader joe's #5018,169.17,Groceries,Groceries
+T01664,TST* OLIVE & VINE CHICAGO IL,tst* olive & vine chicago il,121.29,Restaurants,Uncategorized
+T00170,EXXONMOBIL 74 SEATTLE WA,exxonmobil 74 seattle wa,70.92,Gas,Gas
+T00244,AMC ONLINE #006,amc online #006,69.32,Entertainment,Entertainment
+T01259,EXXONMOBIL 4050 PHX AZ,exxonmobil 4050 phx az,93.13,Gas,Gas
+T00624,SQ *THE COMEDY CLUB PHX AZ,sq *the comedy club phx az,73.21,Entertainment,Uncategorized
+T00264,SPOTIFY USA 307,spotify usa 307,53.24,Entertainment,Entertainment
+T01029,SQ *THE BOOK NOOK CHICAGO IL,sq *the book nook chicago il,152.36,Shopping,Uncategorized
+T00365,DOORDASH*MCDONALDS,doordash*mcdonalds,115.37,Restaurants,Restaurants
+T00590,STARBUCKS STORE 10480,starbucks store 10480,9.69,Coffee,Coffee
+T01257,AMC ONLINE #7516,amc online #7516,34.03,Entertainment,Entertainment
+T01724,SQ *THE BOOK NOOK AUSTIN TX  ,sq *the book nook austin tx,68.6,Shopping,Uncategorized
+T01460,STEAMGAMES.COM 7363 WA,steamgames.com 7363 wa,6.28,Entertainment,Uncategorized
+T01614,SQ *LOCAL GROUNDS SEATTLE WA  ,sq *local grounds seattle wa,3.13,Coffee,Uncategorized
+T01960,SPOTIFY  USA 53955,spotify usa 53955,7.63,Entertainment,Entertainment
+T01776,TST* PHILZ COFFEE BOSTON MA,tst* philz coffee boston ma,7.51,Coffee,Coffee
+T01632,RITE  AID #86 AUSTIN TX,rite aid #86 austin tx,12.17,Health,Uncategorized
+T00745,ATT*BILL PAYMENT 367,att*bill payment 367,59.95,Utilities,Uncategorized
+T00865,sq *city dental chicago il,sq *city dental chicago il,251.26,Health,Uncategorized
+T01205,76 - 31697 NY NY,76 - 31697 ny ny,52.53,Gas,Uncategorized
+T01927,AMZN MKTP US*3700 AMZN.COM/BILL WA,amzn mktp us*3700 amzn.com/bill wa,169.87,Shopping,Shopping
+T00696,76 - 4509 OAKLAND CA,76 - 4509 oakland ca,67.27,Gas,Uncategorized
+T01295,DART RAIL BOSTON MA,dart rail boston ma,54.44,Transport,Uncategorized
+T01109,STARBUCKS  STORE 971,starbucks store 971,7.4,Coffee,Coffee
+T01886,DOORDASH*MCDONALDS,doordash*mcdonalds,89.6,Restaurants,Restaurants
+T01371,VERIZON WIRELESS 297,verizon wireless 297,94.29,Utilities,Utilities
+T01830,TARGET 4212 DALLAS TX,target 4212 dallas tx,104.33,Shopping,Shopping
+T01518,KROGER 56 MIAMI FL  ,kroger 56 miami fl,104.9,Groceries,Groceries
+T00691,TRADER JOE'S #7617,trader joe's #7617,33.13,Groceries,Groceries
+T01045,TST* PHILZ COFFEE AUSTIN TX,tst* philz coffee austin tx,10.13,Coffee,Coffee
+T00692,POS DEBIT H-E-B #0864,pos debit h-e-b #0864,111.12,Groceries,Uncategorized
+T01447,TST* PHILZ COFFEE CHICAGO IL,tst* philz coffee chicago il,10.0,Coffee,Coffee
+T01010,CHIPOTLE 204 OAKLAND CA,chipotle 204 oakland ca,138.63,Restaurants,Restaurants
+T00284,ONCOR ELECTRIC DELIVERY,oncor electric delivery,142.02,Utilities,Utilities
+T00344,PARKING METER #781 AUSTIN TX  ,parking meter #781 austin tx,6.25,Transport,Transport
+T01767,DOORDASH*MCDONALDS,doordash*mcdonalds,114.41,Restaurants,Restaurants
+T00612,LYFT *RIDE THU 4PM,lyft *ride thu 4pm,60.38,Transport,Transport
+T00573,TST* PHILZ COFFEE DALLAS TX,tst* philz coffee dallas tx,10.57,Coffee,Coffee
+T00906,KROGER 9378 DENVER CO,kroger 9378 denver co,63.4,Groceries,Groceries
+T01104,WALMART SUPERCENTER #00,walmart supercenter #00,12.18,Shopping,Shopping
+T00922,WALGREENS #65881,walgreens #65881,142.96,Health,Health
+T01545,EXXONMOBIL 102 PHX AZ,exxonmobil 102 phx az,90.15,Gas,Gas
+T01945,TXU ENERGY PAYMENT,txu energy payment,144.45,Utilities,Utilities
+T00851,CVS/PHARMACY #42 DENVER CO,cvs/pharmacy #42 denver co,259.18,Health,Health
+T01038,SQ *THE BOOK NOOK MIAMI FL,sq *the book nook miami fl,444.28,Shopping,Uncategorized
+T01196,TST* PHILZ COFFEE DENVER CO,tst* philz coffee denver co,7.1,Coffee,Coffee
+T01583,ALDI 95732 NY NY,aldi 95732 ny ny,138.31,Groceries,Uncategorized
+T01770,CHEVRON 866,chevron 866,78.25,Gas,Gas
+T00665,DART RAIL OAKLAND CA,dart rail oakland ca,21.67,Transport,Uncategorized
+T00120,ETSY.COM - SELLER0359  ,etsy.com - seller0359,416.31,Shopping,Uncategorized
+T00853,CVS/PHARMACY #266 BOSTON MA,cvs/pharmacy #266 boston ma,94.79,Health,Health
+T00877,WHOLEFDS MKT 671 DENVER CO,wholefds mkt 671 denver co,193.1,Groceries,Groceries
+T01589,SQ *BLUE BOTTLE 6303 OAKLAND CA,sq *blue bottle 6303 oakland ca,8.11,Coffee,Uncategorized
+T01904,LA FITNESS 278 DALLAS TX  ,la fitness 278 dallas tx,76.95,Health,Health
+T01870,CITY OF DALLAS WATER UT,city of dallas water ut,299.18,Utilities,Utilities
+T01658,SQ *LOCAL GROUNDS PHX AZ,sq *local grounds phx az,3.59,Coffee,Uncategorized
+T01142,SQ *BLUE BOTTLE 69 AUSTIN TX,sq *blue bottle 69 austin tx,7.32,Coffee,Uncategorized
+T00678,TXU ENERGY PAYMENT,txu energy payment,56.42,Utilities,Utilities
+T00281,SQ *LOCAL GROUNDS AUSTIN TX,sq *local grounds austin tx,6.91,Coffee,Uncategorized
+T01824,CHIPOTLE 460 CHICAGO IL,chipotle 460 chicago il,121.08,Restaurants,Restaurants
+T00334,VERIZON WIRELESS 3836,verizon wireless 3836,35.3,Utilities,Utilities
+T00824,CIRCLE K # 7133,circle k # 7133,88.78,Gas,Uncategorized
+T00714,DART RAIL DENVER CO,dart rail denver co,55.18,Transport,Uncategorized
+T01571,GRUBHUB*THAI BASIL OAKLAND CA,grubhub*thai basil oakland ca,118.66,Restaurants,Restaurants
+T01755,KROGER  50709 AUSTIN TX,kroger 50709 austin tx,40.2,Groceries,Groceries
+T01143,SPOTIFY USA 5435,spotify usa 5435,51.66,Entertainment,Entertainment
+T01079,ALDI 573 AUSTIN TX,aldi 573 austin tx,89.53,Groceries,Uncategorized
+T01054,KROGER 249 DALLAS TX,kroger 249 dallas tx,150.25,Groceries,Groceries
+T01730,PEETS COFFEE #48060 OAKLAND CA,peets coffee #48060 oakland ca,11.08,Coffee,Coffee
+T00482,PARKING METER #63806 CHICAGO IL,parking meter #63806 chicago il,14.13,Transport,Transport
+T00266,UBER *TRIP MIAMI FL,uber *trip miami fl,39.98,Transport,Transport
+T00740,att*bill payment 3602,att*bill payment 3602,253.51,Utilities,Uncategorized
+T00557,ATT*BILL PAYMENT 874,att*bill payment 874,217.06,Utilities,Uncategorized
+T00014,SQ *THE BOOK NOOK BOSTON MA,sq *the book nook boston ma,370.78,Shopping,Uncategorized
+T00979,BEST BUY #3771 DENVER CO,best buy #3771 denver co,166.77,Shopping,Uncategorized
+T01552,CVS/PHARMACY #30432 CHICAGO IL,cvs/pharmacy #30432 chicago il,145.31,Health,Health
+T00270,PARKING METER #61080 DENVER CO,parking meter #61080 denver co,22.17,Transport,Transport
+T01710,EXXONMOBIL 7644 BOSTON MA,exxonmobil 7644 boston ma,36.5,Gas,Gas
+T01501,VERIZON WIRELESS 32747,verizon wireless 32747,51.31,Utilities,Utilities
+T01240,PARKING METER #675 AUSTIN TX  ,parking meter #675 austin tx,33.16,Transport,Transport
+T00124,SQ *CITY DENTAL DENVER CO,sq *city dental denver co,83.79,Health,Uncategorized
+T01150,ETSY.COM - SELLER0,etsy.com - seller0,192.36,Shopping,Uncategorized
+T00969,SQ *TAQUERIA EL SOL CHICAGO IL,sq *taqueria el sol chicago il,14.69,Restaurants,Uncategorized
+T01073,KROGER 36073 SEATTLE WA  ,kroger 36073 seattle wa,38.91,Groceries,Groceries
+T01212,wholefds mkt 78105 austin tx,wholefds mkt 78105 austin tx,68.71,Groceries,Groceries
+T01426,WALMART SUPERCENTER #23,walmart supercenter #23,349.79,Shopping,Shopping
+T00250,TST* THE CORNER DINER,tst* the corner diner,77.7,Restaurants,Restaurants
+T01084,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,246.19,Health,Uncategorized
+T01261,LA FITNESS 271 SEATTLE WA,la fitness 271 seattle wa,114.32,Health,Health
+T00785,SQ  *CITY DENTAL AUSTIN TX,sq *city dental austin tx,42.81,Health,Uncategorized
+T00936,AMC ONLINE #678,amc online #678,86.56,Entertainment,Entertainment
+T00364,TRADER JOE'S #21,trader joe's #21,39.75,Groceries,Groceries
+T00725,DOORDASH*MCDONALDS,doordash*mcdonalds,85.72,Restaurants,Restaurants
+T01590,TRADER JOE'S #651,trader joe's #651,215.03,Groceries,Groceries
+T00073,VERIZON WIRELESS 77,verizon wireless 77,117.94,Utilities,Utilities
+T00179,POS DEBIT H-E-B #36,pos debit h-e-b #36,200.59,Groceries,Uncategorized
+T01623,CITY OF DALLAS WATER UT,city of dallas water ut,74.6,Utilities,Utilities
+T01577,TST* THE CORNER DINER,tst* the corner diner,119.09,Restaurants,Restaurants
+T00581,DART RAIL SEATTLE WA,dart rail seattle wa,17.79,Transport,Uncategorized
+T00224,SQ *THE COMEDY CLUB SEATTLE WA,sq *the comedy club seattle wa,32.76,Entertainment,Uncategorized
+T01644,SAFEWAY #16 PHX AZ  ,safeway #16 phx az,93.04,Groceries,Groceries
+T01318,SQ *THE BOOK NOOK SEATTLE WA,sq *the book nook seattle wa,301.36,Shopping,Uncategorized
+T01771,SHELL OIL 32 BOSTON MA,shell oil 32 boston ma,56.72,Gas,Gas
+T01428,DOORDASH*MCDONALDS,doordash*mcdonalds,52.75,Restaurants,Restaurants
+T00307,DART RAIL SEATTLE WA  ,dart rail seattle wa,4.82,Transport,Uncategorized
+T01734,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,149.92,Health,Uncategorized
+T01952,UBER *TRIP MIAMI FL,uber *trip miami fl,17.16,Transport,Transport
+T00545,UBER* EATS HELP.UBER.COM,uber* eats help.uber.com,22.5,Transport,Transport
+T01272,RITE AID #7673 MIAMI FL,rite aid #7673 miami fl,250.36,Health,Uncategorized
+T00033,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,42.72,Health,Uncategorized
+T00094,STARBUCKS  STORE 9749,starbucks store 9749,9.2,Coffee,Coffee
+T00650,CVS/PHARMACY #94905 MIAMI FL,cvs/pharmacy #94905 miami fl,89.12,Health,Health
+T01744,MTA*NYCT PAYGO BOSTON MA,mta*nyct paygo boston ma,49.72,Transport,Uncategorized
+T00917,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,151.44,Health,Uncategorized
+T00873,LA FITNESS 12384 PHX AZ,la fitness 12384 phx az,98.86,Health,Health
+T01636,ATT*BILL PAYMENT 91732,att*bill payment 91732,217.56,Utilities,Uncategorized
+T00488,CVS/PHARMACY #4937 CHICAGO IL,cvs/pharmacy #4937 chicago il,119.42,Health,Health
+T00200,DART RAIL BOSTON MA,dart rail boston ma,21.81,Transport,Uncategorized
+T01075,POS DEBIT BP#84488,pos debit bp#84488,31.96,Gas,Uncategorized
+T01947,SQ *CITY DENTAL NY NY,sq *city dental ny ny,140.05,Health,Uncategorized
+T01733,WHOLEFDS MKT 88 NY NY,wholefds mkt 88 ny ny,219.29,Groceries,Groceries
+T01491,netflix.com 8348,netflix.com 8348,11.51,Entertainment,Entertainment
+T00975,LA FITNESS 8168 DALLAS TX,la fitness 8168 dallas tx,103.47,Health,Health
+T00860,CHEVRON 9228,chevron 9228,25.29,Gas,Gas
+T01675,EXXONMOBIL 7941 PHX AZ,exxonmobil 7941 phx az,39.0,Gas,Gas
+T00440,RITE AID #36 AUSTIN TX,rite aid #36 austin tx,162.25,Health,Uncategorized
+T01815,RITE AID #3436 OAKLAND CA,rite aid #3436 oakland ca,107.7,Health,Uncategorized
+T01269,SQ *THE BOOK NOOK SEATTLE WA,sq *the book nook seattle wa,73.69,Shopping,Uncategorized
+T00750,TST* PHILZ COFFEE BOSTON MA,tst* philz coffee boston ma,4.84,Coffee,Coffee
+T00356,ONCOR  ELECTRIC DELIVERY,oncor electric delivery,160.61,Utilities,Utilities
+T01493,SQ *THE BOOK NOOK AUSTIN TX,sq *the book nook austin tx,445.8,Shopping,Uncategorized
+T00444,WALMART SUPERCENTER #6564,walmart supercenter #6564,410.26,Shopping,Shopping
+T00220,AMC ONLINE #13,amc online #13,67.11,Entertainment,Entertainment
+T00415,SQ *TAQUERIA EL SOL CHICAGO IL,sq *taqueria el sol chicago il,77.7,Restaurants,Uncategorized
+T00672,KROGER 095 AUSTIN TX,kroger 095 austin tx,155.32,Groceries,Groceries
+T01695,TARGET 39 NY NY,target 39 ny ny,414.09,Shopping,Shopping
+T00670,SQ *BLUE BOTTLE 7051 MIAMI FL,sq *blue bottle 7051 miami fl,9.34,Coffee,Uncategorized
+T00221,UBER *TRIP SEATTLE WA,uber *trip seattle wa,6.63,Transport,Transport
+T00930,TST* PHILZ COFFEE CHICAGO IL,tst* philz coffee chicago il,7.01,Coffee,Coffee
+T00602,ALDI 0612 AUSTIN TX,aldi 0612 austin tx,203.98,Groceries,Uncategorized
+T00667,TARGET 280 OAKLAND CA,target 280 oakland ca,272.14,Shopping,Shopping
+T00181,POS DEBIT QUEST DIAGNOSTIC,pos debit quest diagnostic,89.67,Health,Uncategorized
+T00630,CHEVRON 231,chevron 231,26.05,Gas,Gas
+T00808,dart rail oakland ca,dart rail oakland ca,43.54,Transport,Uncategorized
+T00431,SQ *BLUE BOTTLE 748 OAKLAND CA,sq *blue bottle 748 oakland ca,9.81,Coffee,Uncategorized
+T00746,TARGET 74760 DENVER CO,target 74760 denver co,73.43,Shopping,Shopping
+T01718,SQ *TAQUERIA EL SOL DENVER CO,sq *taqueria el sol denver co,66.01,Restaurants,Uncategorized
+T00177,CHIPOTLE 60513 MIAMI FL,chipotle 60513 miami fl,65.59,Restaurants,Restaurants
+T00078,AMC ONLINE #499,amc online #499,34.59,Entertainment,Entertainment
+T01625,REGAL CINEMAS 58181 DENVER CO,regal cinemas 58181 denver co,33.38,Entertainment,Entertainment
+T00552,MTA*NYCT PAYGO SEATTLE WA  ,mta*nyct paygo seattle wa,9.64,Transport,Uncategorized
+T00484,ONCOR ELECTRIC DELIVERY,oncor electric delivery,77.28,Utilities,Utilities
