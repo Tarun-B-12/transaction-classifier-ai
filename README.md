@@ -26,6 +26,26 @@ The project deliberately builds and compares two methods.
 
 The goal is not just to use AI. The goal is to measure whether it is actually the better choice.
 
+## Architecture
+
+```mermaid
+flowchart TD
+    A[Synthetic Transaction Dataset\n2000 rows] --> B[Rule-Based Classifier\nkeyword matching baseline]
+    A --> C[LLM Classifier\nClaude API Haiku\nbatched 20 per call]
+    B --> D[Evaluation Framework\n150 hand-labeled test set]
+    C --> D
+    D --> E[Accuracy Comparison\nLLM 95.3% vs Baseline 58.7%]
+    D --> F[Per-Category Analysis\nmatplotlib charts]
+    E --> G[Final Report\nbusiness recommendation]
+
+    style A fill:#E6F1FB,stroke:#378ADD,color:#0C447C
+    style B fill:#FAEEDA,stroke:#BA7517,color:#633806
+    style C fill:#EEEDFE,stroke:#7F77DD,color:#3C3489
+    style D fill:#EAF3DE,stroke:#639922,color:#27500A
+    style E fill:#E1F5EE,stroke:#1D9E75,color:#085041
+    style F fill:#E1F5EE,stroke:#1D9E75,color:#085041
+    style G fill:#E1F5EE,stroke:#1D9E75,color:#085041
+```
 ## How the Two Methods Compare by Category
 
 ![Per-category accuracy](charts/per_category_accuracy.png)
